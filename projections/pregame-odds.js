@@ -4,7 +4,7 @@
   if (!table) return;
   let data;
   try {
-    const response = await fetch(`data/league-s50.json?${Date.now()}`, {cache: 'no-store'});
+    const response = await fetch(`../data/league-s50.json?${Date.now()}`, {cache: 'no-store'});
     if (!response.ok) return;
     data = await response.json();
   } catch (_) { return; }

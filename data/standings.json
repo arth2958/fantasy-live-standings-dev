@@ -1,0 +1,181 @@
+{
+  "season": 49,
+  "rounds": 8,
+  "updated_at": "2026-09-21T22:50:47.601019Z",
+  "source": {
+    "pairings": "https://www.lichess4545.com/team4545/season/49/pairings/",
+    "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/export?format=csv&gid=2102875659"
+  },
+  "method": "Points and games played follow the fantasy sheet; live pairings are parsed for the roster detail. Ties: fantasy points per game.",
+  "pairings_parsed": 1408,
+  "teams": [
+    {
+      "owner": "profligate",
+      "name": "Highest Cost Team",
+      "points": 18.5,
+      "games": 24,
+      "ppg": 0.7708333333333334,
+      "roster": [
+        {
+          "handle": "Kayrosas",
+          "points": 5.5,
+          "games": 6
+        },
+        {
+          "handle": "GoneNowhere",
+          "points": 4.0,
+          "games": 7
+        },
+        {
+          "handle": "pemula64",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "michaeld",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "diecast_illusion",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "BigPig93",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "eldotore",
+          "points": 4.0,
+          "games": 8
+        },
+        {
+          "handle": "MartinDanielsson",
+          "points": 5.0,
+          "games": 8
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "owner": "cheapskate",
+      "name": "Lowest Cost Team",
+      "points": 17.5,
+      "games": 31,
+      "ppg": 0.5645161290322581,
+      "roster": [
+        {
+          "handle": "drchessdad",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "Lordziax",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "Versaumnisgrund",
+          "points": 5.5,
+          "games": 8
+        },
+        {
+          "handle": "Llawlietnea",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "TTotr",
+          "points": 3.0,
+          "games": 8
+        },
+        {
+          "handle": "MakeMyMove",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "ameyer",
+          "points": 5.0,
+          "games": 8
+        },
+        {
+          "handle": "macha1313",
+          "points": 3.0,
+          "games": 8
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "owner": "arbitrary",
+      "name": "Random Team",
+      "points": 14.5,
+      "games": 28,
+      "ppg": 0.5178571428571429,
+      "roster": [
+        {
+          "handle": "JEEprep2374",
+          "points": 4.0,
+          "games": 8
+        },
+        {
+          "handle": "Narrenkind",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "AlexGaul",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "schittering06",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "Anupam1213",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "PVGibson",
+          "points": 3.0,
+          "games": 8
+        },
+        {
+          "handle": "tastypotatohead",
+          "points": 3.5,
+          "games": 8
+        },
+        {
+          "handle": "R0B-W",
+          "points": 4.0,
+          "games": 6
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "owner": "On the dot",
+      "name": "A random $20k Team",
+      "points": 0.0,
+      "games": 0,
+      "ppg": 0,
+      "roster": [],
+      "rank": 4
+    },
+    {
+      "owner": "popularity",
+      "name": "Most Popular Players Team",
+      "points": 0.0,
+      "games": 0,
+      "ppg": 0,
+      "roster": [],
+      "rank": 4
+    }
+  ]
+}
