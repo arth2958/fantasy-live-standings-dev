@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 5,
-  "updated_at": "2026-09-26T21:19:33.171173Z",
+  "updated_at": "2026-09-26T21:31:40.989015Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1080,7 +1080,7 @@
     {
       "owner": "alp_arslan92",
       "name": "The Brave Lions",
-      "actual_points": 3.0,
+      "actual_points": 4.0,
       "actual_round": 4.0,
       "projected_points": 5.1118110833853025,
       "projected_round": 5.1118110833853025,
@@ -1175,8 +1175,8 @@
           "game_url": "https://lichess.org/0Rg5o7cS",
           "game_link_kind": "recent",
           "round_game": "1:ekopp2000:prostidude",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "baberle",
@@ -2822,7 +2822,7 @@
     {
       "owner": "jwwells42",
       "name": "Subscribe to PowerPlayChess",
-      "actual_points": 3.0,
+      "actual_points": 4.0,
       "actual_round": 4.0,
       "projected_points": 4.827306070918292,
       "projected_round": 4.827306070918292,
@@ -2917,8 +2917,8 @@
           "game_url": "https://lichess.org/0Rg5o7cS",
           "game_link_kind": "recent",
           "round_game": "1:ekopp2000:prostidude",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "MatthewKCanada",
@@ -6038,7 +6038,7 @@
     {
       "owner": "RPCX",
       "name": "^_~",
-      "actual_points": 2.0,
+      "actual_points": 3.0,
       "actual_round": 3.0,
       "projected_points": 3.599396796709257,
       "projected_round": 3.599396796709257,
@@ -6133,8 +6133,8 @@
           "game_url": "https://lichess.org/0Rg5o7cS",
           "game_link_kind": "recent",
           "round_game": "1:ekopp2000:prostidude",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "Pineapplechiffoncake",
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 6.174175316334021,
+      "projected": 6.174175316334022,
       "actual": 4.5,
       "paired": 8,
       "left": 3,
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "The Last Shall be the First",
-      "projected": 4.97977473968869,
+      "projected": 4.979774739688691,
       "actual": 3.5,
       "paired": 8,
       "left": 3,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 3.0760211981427323,
+      "projected": 3.0760211981427314,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "The horsey don't belong here",
-      "projected": 2.5813141070934567,
+      "projected": 2.581314107093456,
       "actual": 0.0,
       "paired": 8,
       "left": 5,
