@@ -1,0 +1,45 @@
+name: Preview S50 no-play Elo suppression once
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Use Elo estimates only for undecided games
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib
+          p=Path('scripts/build_league_players.py')
+          if hashlib.sha256(p.read_bytes()).hexdigest()!='d292d1742f0ace89f25fc29d848fd764a11d6ddf8894b8f5b3b08afd8f98ae9b':raise SystemExit('Builder changed')
+          s=p.read_text()
+          old='if before is None and w.casefold() in rated_handles and b.casefold() in rated_handles else None)'
+          assert s.count(old)==1
+          p.write_text(s.replace(old,'if d is None and before is None and w.casefold() in rated_handles and b.casefold() in rated_handles else None)'))
+          PY
+      - name: Rebuild dev artifact and validate no-play cases
+        run: |
+          python3 scripts/build_league_players.py
+          python3 - <<'PY'
+          import json
+          d=json.load(open('data/league-s50.json'));ps=[p for t in d['teams'].values() for p in t['players']]
+          hidden=[p for p in ps if p['actual_result'] is not None and p['pregame_expectation'] is None and p['game_url'] is None]
+          assert len(hidden)>=12
+          assert all(p['live_elo_estimate'] is None for p in hidden)
+          assert any(p['handle'].lower()=='welpe' for p in hidden)
+          print('round',d['round'],'no-play labels hidden',len(hidden),'live estimates',sum(p['live_elo_estimate'] is not None for p in ps))
+          PY
+      - name: Commit dev preview only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898699+github-actions[bot]@users.noreply.github.com'
+          git add scripts/build_league_players.py data/league-s50.json
+          git diff --cached --quiet || git commit -m 'Hide Elo estimates on decided S50 games without play'
+          git push || (git pull --rebase -X theirs && git push)
