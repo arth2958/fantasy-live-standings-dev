@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 1,
-  "round_in_progress": 6,
-  "updated_at": "2026-09-26T20:18:30.614433Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-09-26T20:31:46.228831Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8924,14 +8924,6 @@
       "eligible": false
     },
     {
-      "name": "50-50 my next move is a blunder",
-      "projected": 5.133975781814196,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "50 pawns of Giri",
       "projected": 5.055890961116853,
       "actual": 4.5,
@@ -8965,7 +8957,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 4.9239788018572686,
+      "projected": 4.923978801857268,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
@@ -8974,6 +8966,14 @@
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
       "projected": 4.767886786239136,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "50-50 my next move is a blunder",
+      "projected": 4.656985369111759,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -9156,6 +9156,14 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 3.3430146308882405,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "passed pawn patrol",
       "projected": 3.232113213760864,
       "actual": 2.0,
@@ -9165,7 +9173,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 3.0760211981427314,
+      "projected": 3.0760211981427323,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9201,14 +9209,6 @@
       "actual": 2.5,
       "paired": 8,
       "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "50th Parallel Pawns",
-      "projected": 2.8660242181858027,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
