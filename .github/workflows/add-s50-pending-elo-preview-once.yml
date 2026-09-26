@@ -27,7 +27,7 @@ jobs:
           s=s.replace('    ratings={}\n','    ratings={}\n    rated_handles=set()\n').replace("            ratings[(u.get('username') or u.get('id','')).casefold()]=u.get('perfs',{}).get('classical',{}).get('rating',1500)","            handle=(u.get('username') or u.get('id','')).casefold()\n            rating=u.get('perfs',{}).get('classical',{}).get('rating')\n            if isinstance(rating,(int,float)) and 0<rating<4000:\n                rated_handles.add(handle)\n            ratings[handle]=rating if rating is not None else 1500")
           s=s.replace("        before=expectancy(start['white']+25,start['black']) if start else None", "        before=expectancy(start['white']+25,start['black']) if start else None\n        live_estimate=(expectancy(ratings[w.casefold()]+25,ratings[b.casefold()])\n                       if before is None and w.casefold() in rated_handles and b.casefold() in rated_handles else None)")
           s=s.replace("'pregame_ratings':start,", "'live_elo_estimate':(live_estimate if i==0 else 1-live_estimate) if live_estimate is not None else None,'pregame_ratings':start,")
-          if s.count('live_elo_estimate')!=1 or s.count('rated_handles')!=3:raise SystemExit('Unexpected builder patch')
+          if s.count('live_elo_estimate')!=1 or s.count('rated_handles')!=4:raise SystemExit('Unexpected builder patch')
           f.write_text(s)
           f=Path('s50/standings-odds.js');s=f.read_text()
           s=s.replace("if (!player || player.pregame_expectation == null) return;\n      const note = document.createElement('small');", "if (!player || (player.pregame_expectation == null && player.live_elo_estimate == null)) return;\n      const note = document.createElement('small');")
