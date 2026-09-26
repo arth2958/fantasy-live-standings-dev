@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 6,
-  "updated_at": "2026-09-26T19:29:33.567658Z",
+  "updated_at": "2026-09-26T19:43:12.062996Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
-      "projected": 5.292332247359798,
+      "projected": 5.292332247359797,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 4.511890088358158,
+      "projected": 4.511890088358159,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.218503223590701,
+      "projected": 4.2185032235907,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 3.7814967764092993,
+      "projected": 3.7814967764092997,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 3.0760211981427323,
+      "projected": 3.0760211981427314,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 2.8660242181858027,
+      "projected": 2.866024218185803,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "The horsey don't belong here",
-      "projected": 2.5813141070934567,
+      "projected": 2.581314107093456,
       "actual": 0.0,
       "paired": 8,
       "left": 5,
