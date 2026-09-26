@@ -22,4 +22,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
           git add data/league-s50.json
-          git diff --cached --quiet || (git commit -m "Update dev league player detail" && git push)
+          git diff --cached --quiet || (git commit -m "Update dev league player detail" && git push || (git pull --rebase -X theirs && git push))
