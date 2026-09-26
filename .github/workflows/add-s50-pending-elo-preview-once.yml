@@ -1,0 +1,56 @@
+name: Preview S50 pending Elo estimates once
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Add dev-only pending estimates, preserve PGN-start odds
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib
+          def check(path,expected):
+              actual=hashlib.sha256(Path(path).read_bytes()).hexdigest()
+              if actual!=expected:raise SystemExit(f'Stale dev file: {path} {actual}')
+          check('scripts/build_league_players.py','1260d4c7b4dd303acbcd2b61b7bfba038fb1e17ac504f52274a485045ce71e6b')
+          check('s50/standings-odds.js','a4744323d76b7734806a5f3b5f9eab8d58692cd64a4f18f348fbec7fbe8bd625')
+          check('s50/index.html','ae2b8d9afb434d0b62bb19774573a0fab953ad17afc38ae952486283c3624125')
+          f=Path('scripts/build_league_players.py');s=f.read_text().replace('import math\n','')
+          s=s.replace('    ratings={}\n','    ratings={}\n    rated_handles=set()\n').replace("            ratings[(u.get('username') or u.get('id','')).casefold()]=u.get('perfs',{}).get('classical',{}).get('rating',1500)","            handle=(u.get('username') or u.get('id','')).casefold()\n            rating=u.get('perfs',{}).get('classical',{}).get('rating')\n            if isinstance(rating,(int,float)) and 0<rating<4000:\n                rated_handles.add(handle)\n            ratings[handle]=rating if rating is not None else 1500")
+          s=s.replace("        before=expectancy(start['white']+25,start['black']) if start else None", "        before=expectancy(start['white']+25,start['black']) if start else None\n        live_estimate=(expectancy(ratings[w.casefold()]+25,ratings[b.casefold()])\n                       if before is None and w.casefold() in rated_handles and b.casefold() in rated_handles else None)")
+          s=s.replace("'pregame_ratings':start,", "'live_elo_estimate':(live_estimate if i==0 else 1-live_estimate) if live_estimate is not None else None,'pregame_ratings':start,")
+          if s.count('live_elo_estimate')!=1 or s.count('rated_handles')!=3:raise SystemExit('Unexpected builder patch')
+          f.write_text(s)
+          f=Path('s50/standings-odds.js');s=f.read_text()
+          s=s.replace("if (!player || player.pregame_expectation == null) return;\n      const note = document.createElement('small');", "if (!player || (player.pregame_expectation == null && player.live_elo_estimate == null)) return;\n      const note = document.createElement('small');")
+          s=s.replace("if (player.pregame_expectation == null) return;", "if (player.pregame_expectation == null && player.live_elo_estimate == null) return;")
+          s=s.replace("note.textContent = `Pre-game Elo ${Math.round(player.pregame_expectation * 100)}%`;", "note.textContent = player.pregame_expectation != null\n        ? `Pre-game Elo ${Math.round(player.pregame_expectation * 100)}%`\n        : `Elo estimate ${Math.round(player.live_elo_estimate * 100)}%`;")
+          if s.count('Elo estimate')!=2:raise SystemExit('Unexpected standings patch')
+          f.write_text(s)
+          f=Path('s50/index.html');s=f.read_text().replace('standings-odds.js?v=1','standings-odds.js?v=2')
+          if 'standings-odds.js?v=2' not in s:raise SystemExit('Missing new script version')
+          f.write_text(s)
+          PY
+      - name: Refresh dev league artifact with current ratings
+        run: python scripts/build_league_players.py
+      - name: Check generated data and commit preview only
+        run: |
+          python3 - <<'PY'
+          import json
+          d=json.load(open('data/league-s50.json'));p=[p for t in d['teams'].values() for p in t['players']]
+          print('round',d['round'],'PGN-start',sum(x['pregame_expectation'] is not None for x in p),'live estimates',sum(x['pregame_expectation'] is None and x['live_elo_estimate'] is not None for x in p))
+          assert d['round']==1 and len(p)>=400 and sum(x['pregame_expectation'] is None and x['live_elo_estimate'] is not None for x in p)>=100
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898699+github-actions[bot]@users.noreply.github.com'
+          git add scripts/build_league_players.py s50/standings-odds.js s50/index.html data/league-s50.json
+          git diff --cached --quiet || git commit -m 'Preview live Elo estimates for unstarted S50 games'
+          git push || (git pull --rebase -X theirs && git push)
