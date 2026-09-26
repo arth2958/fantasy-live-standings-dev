@@ -1,0 +1,61 @@
+name: Build complete dev mirror once
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mirror reviewed production site layout and retain dev data
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import urllib.request,tarfile,tempfile,shutil,hashlib
+          root=Path('.');sha='3406311f859ae689ac8e2550e401874e0bed3daf'
+          url=f'https://api.github.com/repos/arth2958/fantasy-live-standings/tarball/{sha}'
+          req=urllib.request.Request(url,headers={'User-Agent':'fantasy-dev-mirror'})
+          with tempfile.TemporaryDirectory() as tmp:
+              archive=Path(tmp)/'site.tar.gz'
+              with urllib.request.urlopen(req,timeout=90) as response: archive.write_bytes(response.read())
+              with tarfile.open(archive) as tar:
+                  members=[m for m in tar.getmembers() if m.isfile() and not m.issym() and not m.islnk()]
+                  site=Path(tmp)/'site';site.mkdir()
+                  for member in members:
+                      relative=Path(*Path(member.name).parts[1:])
+                      if not relative.parts or '..' in relative.parts:raise SystemExit('Unsafe archive member')
+                      target=site/relative;target.parent.mkdir(parents=True,exist_ok=True)
+                      with tar.extractfile(member) as source,target.open('wb') as dest: shutil.copyfileobj(source,dest)
+              if hashlib.sha256((site/'s50/index.html').read_bytes()).hexdigest()!='005f6bd1b2888ffdab976ca500721353b4a00b11f601a333351d842a47e89c64':
+                  raise SystemExit('Unexpected production source')
+              paths=['index.html','style.css','seasons.js','.nojekyll','entries','hall-of-fame','projections']+[f's{i}' for i in range(15,51)]
+              for name in paths:
+                  src=site/name;dst=root/name
+                  if dst.is_dir():shutil.rmtree(dst)
+                  if src.is_dir():shutil.copytree(src,dst)
+                  else:shutil.copy2(src,dst)
+              (root/'data').mkdir(exist_ok=True)
+              for file in (site/'data').glob('*.json'):
+                  if file.name not in ('league-s50.json','projections-s50.json'):
+                      shutil.copy2(file,root/'data'/file.name)
+          for legacy in ('projections.html','pregame-odds.js'):
+              (root/legacy).unlink(missing_ok=True)
+          # In dev the entry form must never submit to the real league sheet.
+          f=root/'entries/app.js';s=f.read_text();old='const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxIVFQQFFKTAmkjt03wSI5yxg5tSyCsLf1AiPyN3iAb7_DtCbjWLXvWLPwmaaOFcLVJeA/exec";'
+          if old not in s:raise SystemExit('Unexpected entry endpoint')
+          s=s.replace(old,'const APPS_SCRIPT_URL = "";').replace('load(); renderQueue(); checkStatus();','load().finally(setClosed); renderQueue();')
+          f.write_text(s)
+          for f in [root/'index.html',*(root.glob('s*/index.html')),root/'entries/index.html',root/'hall-of-fame/index.html',root/'projections/index.html']:
+              s=f.read_text().replace('<head>','<head><meta name="robots" content="noindex,nofollow">',1);f.write_text(s)
+          if '<iframe' in (root/'index.html').read_text():raise SystemExit('Iframe remains')
+          for f in [root/'s50/app.js',root/'projections/app.js',root/'s50/index.html',root/'projections/index.html']:
+              if 'https://arth2958.github.io/fantasy-live-standings/' in f.read_text():raise SystemExit(f'Production data dependency: {f}')
+          PY
+      - name: Commit dev mirror
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898699+github-actions[bot]@users.noreply.github.com'
+          git add -A -- . ':!.github/workflows' ':!scripts' ':!data/league-s50.json' ':!data/projections-s50.json'
+          git diff --cached --quiet || git commit -m 'Mirror full production site on dev with isolated data'
+          git push || (git pull --rebase -X theirs && git push)
