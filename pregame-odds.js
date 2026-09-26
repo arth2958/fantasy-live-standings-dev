@@ -19,9 +19,8 @@
       if (!label || !handle || label.dataset.pregameShown) return;
       const player = byHandle.get(handle.toLowerCase());
       if (!player) return;
-      const note = player.pregame_expectation == null
-        ? 'pre-game Elo unavailable'
-        : `pre-game Elo ${Math.round(player.pregame_expectation * 100)}%`;
+      if (player.pregame_expectation == null) return;
+      const note = `pre-game Elo ${Math.round(player.pregame_expectation * 100)}%`;
       label.append(document.createTextNode(` · ${note}`));
       label.dataset.pregameShown = 'true';
     });
