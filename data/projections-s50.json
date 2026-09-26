@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 1,
-  "round_in_progress": 4,
-  "updated_at": "2026-09-26T13:18:35.755820Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-09-26T13:30:32.370550Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1487,7 +1487,7 @@
       "projected_points": 5.193269089479185,
       "projected_round": 5.193269089479185,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1514,8 +1514,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/ZDnFfCg9",
+          "game_link_kind": "live",
           "round_game": "1:gronen:lordziax",
           "season_points": 0.0,
           "season_games": 0
@@ -3626,7 +3626,7 @@
     {
       "owner": "Tranzoo",
       "name": "Shakalaka",
-      "actual_points": 2.5,
+      "actual_points": 3.5,
       "actual_round": 3.5,
       "projected_points": 4.556040616489548,
       "projected_round": 4.556040616489548,
@@ -3736,8 +3736,8 @@
           "game_url": "https://lichess.org/IIpkXoJY",
           "game_link_kind": "recent",
           "round_game": "1:dcilliers:patrickvrielink",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "Ezze_13",
@@ -3765,7 +3765,7 @@
       "projected_points": 4.541488036833941,
       "projected_round": 4.541488036833941,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3777,8 +3777,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pb92wZiV",
+          "game_link_kind": "live",
           "round_game": "1:jdannan:sivakumarr",
           "season_points": 0.0,
           "season_games": 0
@@ -4167,7 +4167,7 @@
       "projected_points": 4.442691109527453,
       "projected_round": 4.442691109527453,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4194,8 +4194,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/ZDnFfCg9",
+          "game_link_kind": "live",
           "round_game": "1:gronen:lordziax",
           "season_points": 0.0,
           "season_games": 0
@@ -4301,7 +4301,7 @@
       "projected_points": 4.442554091717547,
       "projected_round": 4.442554091717547,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4328,8 +4328,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/ZDnFfCg9",
+          "game_link_kind": "live",
           "round_game": "1:gronen:lordziax",
           "season_points": 0.0,
           "season_games": 0
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 6.082751324123809,
+      "projected": 6.082751324123808,
       "actual": 4.5,
       "paired": 8,
       "left": 3,
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 3.624076123802442,
+      "projected": 3.6240761238024417,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "The horsey don't belong here",
-      "projected": 3.111498787097358,
+      "projected": 3.111498787097359,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 2.463072550763523,
+      "projected": 2.4630725507635227,
       "actual": 1.0,
       "paired": 8,
       "left": 3,
