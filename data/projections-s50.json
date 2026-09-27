@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 0,
-  "updated_at": "2026-09-27T01:01:00.699832Z",
+  "updated_at": "2026-09-27T01:18:58.590801Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1047,7 +1047,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1719,
+          "rating": 1732,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -1851,7 +1851,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1719,
+          "rating": 1732,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3206,7 +3206,7 @@
         {
           "handle": "DavidSifre",
           "status": "won",
-          "rating": 1544,
+          "rating": 1536,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4278,7 +4278,7 @@
         {
           "handle": "DavidSifre",
           "status": "won",
-          "rating": 1544,
+          "rating": 1536,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -7345,7 +7345,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1719,
+          "rating": 1732,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -7494,7 +7494,7 @@
         {
           "handle": "DavidSifre",
           "status": "won",
-          "rating": 1544,
+          "rating": 1536,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
