@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 6,
-  "updated_at": "2026-09-27T18:37:37.559947Z",
+  "updated_at": "2026-09-27T18:50:57.693528Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -812,7 +812,7 @@
     {
       "owner": "ecoarrivazumashoomzo",
       "name": "Freed From The Sire",
-      "actual_points": 4.5,
+      "actual_points": 5.5,
       "actual_round": 5.5,
       "projected_points": 5.853331157674385,
       "projected_round": 5.853331157674385,
@@ -922,8 +922,8 @@
           "game_url": "https://lichess.org/Q7H14y5S",
           "game_link_kind": "recent",
           "round_game": "1:jdw10:marco_chess13",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "jcarmody",
@@ -4028,7 +4028,7 @@
     {
       "owner": "berndwind",
       "name": "Sweet perfection",
-      "actual_points": 3.5,
+      "actual_points": 4.5,
       "actual_round": 4.5,
       "projected_points": 4.5,
       "projected_round": 4.5,
@@ -4138,8 +4138,8 @@
           "game_url": "https://lichess.org/Q7H14y5S",
           "game_link_kind": "recent",
           "round_game": "1:jdw10:marco_chess13",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "macha1313",
@@ -4620,7 +4620,7 @@
         {
           "handle": "KirkD",
           "status": "lost",
-          "rating": 1926,
+          "rating": 1910,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5960,7 +5960,7 @@
         {
           "handle": "KirkD",
           "status": "lost",
-          "rating": 1926,
+          "rating": 1910,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -7221,7 +7221,7 @@
           "game_link_kind": "recent",
           "round_game": "1:jdw10:marco_chess13",
           "season_points": 0.0,
-          "season_games": 0
+          "season_games": 1
         },
         {
           "handle": "macha1313",
