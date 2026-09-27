@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 14,
-  "updated_at": "2026-09-27T17:18:23.183998Z",
+  "updated_at": "2026-09-27T17:31:13.563676Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2554,7 +2554,7 @@
     {
       "owner": "Tactix47",
       "name": "TheChosenOnes",
-      "actual_points": 3.5,
+      "actual_points": 4.5,
       "actual_round": 4.5,
       "projected_points": 5.010072446927438,
       "projected_round": 5.010072446927438,
@@ -2649,8 +2649,8 @@
           "game_url": "https://lichess.org/UZJ71chE",
           "game_link_kind": "recent",
           "round_game": "1:goldenretrieverchess:makemymove",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "burner_account17",
@@ -4698,7 +4698,7 @@
     {
       "owner": "jg777",
       "name": "Svidl, Svidler, Svidlest-Fantasy version",
-      "actual_points": 3.0,
+      "actual_points": 4.0,
       "actual_round": 4.0,
       "projected_points": 4.353331157674385,
       "projected_round": 4.353331157674385,
@@ -4793,8 +4793,8 @@
           "game_url": "https://lichess.org/UZJ71chE",
           "game_link_kind": "recent",
           "round_game": "1:goldenretrieverchess:makemymove",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "Pineapplechiffoncake",
@@ -5196,7 +5196,7 @@
           "game_link_kind": "recent",
           "round_game": "1:goldenretrieverchess:makemymove",
           "season_points": 0.0,
-          "season_games": 0
+          "season_games": 1
         },
         {
           "handle": "Marco_Chess13",
@@ -7206,7 +7206,7 @@
           "game_link_kind": "recent",
           "round_game": "1:goldenretrieverchess:makemymove",
           "season_points": 0.0,
-          "season_games": 0
+          "season_games": 1
         },
         {
           "handle": "Lexgrad",
@@ -7780,7 +7780,7 @@
     {
       "owner": "shurbz",
       "name": "Its like the Madden curse",
-      "actual_points": 1.5,
+      "actual_points": 2.5,
       "actual_round": 2.5,
       "projected_points": 2.929947176416012,
       "projected_round": 2.929947176416012,
@@ -7875,8 +7875,8 @@
           "game_url": "https://lichess.org/UZJ71chE",
           "game_link_kind": "recent",
           "round_game": "1:goldenretrieverchess:makemymove",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "Shurbz",
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 3.683881841364988,
+      "projected": 3.6838818413649883,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 3.6078434638561108,
+      "projected": 3.607843463856111,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
