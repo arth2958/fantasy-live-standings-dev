@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 0,
-  "updated_at": "2026-09-27T11:19:02.004303Z",
+  "updated_at": "2026-09-27T11:32:11.017442Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1836,7 +1836,7 @@
         {
           "handle": "parziwal08",
           "status": "won",
-          "rating": 1808,
+          "rating": 1827,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
