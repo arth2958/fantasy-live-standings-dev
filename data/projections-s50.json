@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 1,
-  "round_in_progress": 3,
-  "updated_at": "2026-09-27T07:45:39.835146Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-09-27T07:57:02.540904Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 6.174175316334021,
+      "projected": 6.174175316334022,
       "actual": 4.5,
       "paired": 8,
       "left": 3,
@@ -8881,6 +8881,14 @@
       "actual": 6.0,
       "paired": 8,
       "left": 0,
+      "eligible": false
+    },
+    {
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 5.756398095475655,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
@@ -8905,14 +8913,6 @@
       "actual": 5.0,
       "paired": 8,
       "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 5.418685892906543,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 5,
       "eligible": false
     },
     {
@@ -9220,14 +9220,6 @@
       "eligible": false
     },
     {
-      "name": "The horsey don't belong here",
-      "projected": 2.5813141070934567,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 5,
-      "eligible": false
-    },
-    {
       "name": "The Tarrasch Talkers",
       "projected": 2.4956827602449403,
       "actual": 2.0,
@@ -9249,6 +9241,14 @@
       "actual": 1.5,
       "paired": 8,
       "left": 2,
+      "eligible": false
+    },
+    {
+      "name": "The horsey don't belong here",
+      "projected": 2.243601904524345,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
