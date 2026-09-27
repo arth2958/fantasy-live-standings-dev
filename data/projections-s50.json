@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 1,
-  "round_in_progress": 1,
-  "updated_at": "2026-09-27T12:49:42.184108Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-09-27T13:00:02.033580Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 6.1799293795178345,
+      "projected": 6.179929379517834,
       "actual": 4.5,
       "paired": 8,
       "left": 3,
