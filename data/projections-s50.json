@@ -2,7 +2,7 @@
   "season": 50,
   "round": 1,
   "round_in_progress": 3,
-  "updated_at": "2026-09-27T08:47:01.812513Z",
+  "updated_at": "2026-09-27T08:57:45.491628Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -812,7 +812,7 @@
     {
       "owner": "ecoarrivazumashoomzo",
       "name": "Freed From The Sire",
-      "actual_points": 4.0,
+      "actual_points": 4.5,
       "actual_round": 4.5,
       "projected_points": 5.387815102401217,
       "projected_round": 5.387815102401217,
@@ -862,8 +862,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "ecoarrivazumashoomzo",
@@ -1616,7 +1616,7 @@
     {
       "owner": "Feet_barbie",
       "name": "here to beat gary0892",
-      "actual_points": 4.0,
+      "actual_points": 4.5,
       "actual_round": 4.5,
       "projected_points": 5.061567938973646,
       "projected_round": 5.061567938973646,
@@ -1666,8 +1666,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "ecoarrivazumashoomzo",
@@ -2152,7 +2152,7 @@
     {
       "owner": "Acebulf",
       "name": "The chonkers",
-      "actual_points": 3.0,
+      "actual_points": 3.5,
       "actual_round": 3.5,
       "projected_points": 4.987050855107136,
       "projected_round": 4.987050855107136,
@@ -2202,8 +2202,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "waterlorda7890",
@@ -2688,7 +2688,7 @@
     {
       "owner": "guitarspider",
       "name": "and all I got was this lousy team name",
-      "actual_points": 3.5,
+      "actual_points": 4.0,
       "actual_round": 4.0,
       "projected_points": 4.908183308811831,
       "projected_round": 4.908183308811831,
@@ -2738,8 +2738,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "Lou-E",
@@ -4162,7 +4162,7 @@
     {
       "owner": "rio2018",
       "name": "Something magnificant",
-      "actual_points": 2.5,
+      "actual_points": 3.0,
       "actual_round": 3.0,
       "projected_points": 4.396068008251881,
       "projected_round": 4.396068008251881,
@@ -4212,8 +4212,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "Llawlietnea",
@@ -4296,7 +4296,7 @@
     {
       "owner": "flipiflapi",
       "name": "everyone but me :(",
-      "actual_points": 3.0,
+      "actual_points": 3.5,
       "actual_round": 3.5,
       "projected_points": 4.389611395466911,
       "projected_round": 4.389611395466911,
@@ -4346,8 +4346,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "KirkD",
@@ -8316,7 +8316,7 @@
     {
       "owner": "fork2020",
       "name": "Finally a Website League.",
-      "actual_points": 1.0,
+      "actual_points": 1.5,
       "actual_round": 1.5,
       "projected_points": 1.945530625978324,
       "projected_round": 1.945530625978324,
@@ -8366,8 +8366,8 @@
           "game_url": "https://lichess.org/0QMkDzhp",
           "game_link_kind": "recent",
           "round_game": "1:berndwind:val1313",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 0.5,
+          "season_games": 1
         },
         {
           "handle": "BLang316",
