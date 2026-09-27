@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 1,
-  "round_in_progress": 9,
-  "updated_at": "2026-09-27T16:46:41.264980Z",
+  "round_in_progress": 11,
+  "updated_at": "2026-09-27T16:57:16.624662Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -410,7 +410,7 @@
     {
       "owner": "JohnJPershing",
       "name": "Mate in 9 to 5",
-      "actual_points": 5.0,
+      "actual_points": 6.0,
       "actual_round": 6.0,
       "projected_points": 6.0,
       "projected_round": 6.0,
@@ -445,8 +445,8 @@
           "game_url": "https://lichess.org/piLYSVDi",
           "game_link_kind": "recent",
           "round_game": "1:aactrl:maroczyy",
-          "season_points": 0.0,
-          "season_games": 0
+          "season_points": 1.0,
+          "season_games": 1
         },
         {
           "handle": "jwwells42",
@@ -1487,7 +1487,7 @@
       "projected_points": 5.453999461222695,
       "projected_round": 5.453999461222695,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 9,
       "roster": [
         {
@@ -1574,8 +1574,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 1,
-          "game_url": "https://lichess.org/ekT71e6m",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/RdJw1Xu5",
+          "game_link_kind": "live",
           "round_game": "1:acebulf:moonspawn",
           "season_points": 0.0,
           "season_games": 1
@@ -1755,7 +1755,7 @@
       "projected_points": 5.2835763058970615,
       "projected_round": 5.2835763058970615,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1872,8 +1872,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pMM8UDiC",
+          "game_link_kind": "live",
           "round_game": "1:dama_x_rey:scoobysnack19",
           "season_points": 0.0,
           "season_games": 0
@@ -7651,7 +7651,7 @@
       "projected_points": 2.931159893990283,
       "projected_round": 2.931159893990283,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 9,
       "roster": [
         {
@@ -7738,8 +7738,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 1,
-          "game_url": "https://lichess.org/ekT71e6m",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/RdJw1Xu5",
+          "game_link_kind": "live",
           "round_game": "1:acebulf:moonspawn",
           "season_points": 0.0,
           "season_games": 1
@@ -8486,7 +8486,7 @@
           "game_link_kind": "recent",
           "round_game": "1:aactrl:maroczyy",
           "season_points": 0.0,
-          "season_games": 0
+          "season_games": 1
         },
         {
           "handle": "KnightFury21",
