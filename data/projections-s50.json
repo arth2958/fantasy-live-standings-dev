@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 1,
-  "updated_at": "2026-09-28T14:51:46.050757Z",
+  "round_in_progress": 0,
+  "updated_at": "2026-09-28T15:03:58.265067Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8876,14 +8876,6 @@
       "eligible": false
     },
     {
-      "name": "Silk Road Sacrifices",
-      "projected": 4.3559881209073055,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "100 Suggestions You Must Know",
       "projected": 4.336980803472662,
       "actual": 0.0,
@@ -8897,6 +8889,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Illiterate Alliteration Explorers",
+      "projected": 4.244790124982705,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 7,
       "eligible": false
     },
     {
@@ -9236,6 +9236,14 @@
       "eligible": false
     },
     {
+      "name": "Silk Road Sacrifices",
+      "projected": 3.755209875017295,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "Svidl, Svidler, Svidlest",
       "projected": 3.741366971246566,
       "actual": 0.0,
@@ -9246,14 +9254,6 @@
     {
       "name": "Old but hoping for stratospheric improvement",
       "projected": 3.663019196527338,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Illiterate Alliteration Explorers",
-      "projected": 3.644011879092694,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
