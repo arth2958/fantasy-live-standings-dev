@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 1,
-  "updated_at": "2026-09-28T19:48:47.172225Z",
+  "updated_at": "2026-09-28T19:59:15.159781Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9012,14 +9012,6 @@
       "eligible": false
     },
     {
-      "name": "Svidler? I hardly know her",
-      "projected": 4.055500934714464,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "50 Ways to Fork Your Lover",
       "projected": 4.047271260592271,
       "actual": 0.0,
@@ -9060,6 +9052,14 @@
       "eligible": false
     },
     {
+      "name": "Svidler? I hardly know her",
+      "projected": 4.009591528377753,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "Fork You Very Much",
       "projected": 4.005780040143929,
       "actual": 0.0,
@@ -9070,6 +9070,14 @@
     {
       "name": "Season 50 midlife crisis",
       "projected": 3.9942199598560713,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "There Will Be Blunders",
+      "projected": 3.9904084716222474,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9110,14 +9118,6 @@
     {
       "name": "50 first mates",
       "projected": 3.9527287394077293,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "There Will Be Blunders",
-      "projected": 3.9444990652855356,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
