@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-28T12:27:23.291206Z",
+  "updated_at": "2026-09-28T12:53:17.222587Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 2.0,
       "actual_round": 0.0,
-      "projected_points": 5.755850429534574,
-      "projected_round": 3.755850429534574,
+      "projected_points": 5.740861297874131,
+      "projected_round": 3.7408612978741314,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1729,
+          "rating": 1718,
           "decided_without_play": false,
-          "expected_points": 0.6226501957872621,
+          "expected_points": 0.6076610641268197,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.185542632853049,
+      "projected": 4.200531764513491,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.150940565011593,
+      "projected": 4.150940565011595,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 3.985728713204306,
+      "projected": 3.9857287132043053,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.849059434988406,
+      "projected": 3.8490594349884057,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.8144573671469515,
+      "projected": 3.799468235486509,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 3.618244233880674,
+      "projected": 3.6182442338806737,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
