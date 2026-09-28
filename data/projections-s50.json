@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-28T21:33:31.243079Z",
+  "updated_at": "2026-09-28T21:46:30.451710Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 3.9904084716222474,
+      "projected": 3.990408471622247,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
