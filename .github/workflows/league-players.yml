@@ -18,6 +18,9 @@ jobs:
           python-version: '3.12'
       - run: pip install requests
       - run: python scripts/build_league_players.py
+      - name: Cross-check actual league scores against official pairings (advisory)
+        continue-on-error: true
+        run: python scripts/check_pairing_scores.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
