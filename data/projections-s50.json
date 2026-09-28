@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-28T16:49:20.284813Z",
+  "updated_at": "2026-09-28T17:00:51.687111Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 4.435062696141442,
+      "projected": 4.4350626961414426,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 4.2338180708517665,
+      "projected": 4.233818070851766,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9021,7 +9021,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 4.0376325070021215,
+      "projected": 4.037632507002122,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 3.962367492997878,
+      "projected": 3.9623674929978776,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9149,7 +9149,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 3.913204334138568,
+      "projected": 3.913204334138567,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.5649373038585583,
+      "projected": 3.564937303858558,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
