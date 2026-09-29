@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-29T10:22:24.955026Z",
+  "updated_at": "2026-09-29T10:38:23.824608Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.816340349957235,
+      "projected": 3.8163403499572355,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
