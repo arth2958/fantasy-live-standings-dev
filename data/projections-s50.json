@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-29T02:19:10.222332Z",
+  "updated_at": "2026-09-29T02:32:48.893965Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9060,16 +9060,16 @@
       "eligible": false
     },
     {
-      "name": "Fork You Very Much",
-      "projected": 4.005780040143929,
+      "name": "Season 50 midlife crisis",
+      "projected": 4.004170751834437,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "Season 50 midlife crisis",
-      "projected": 3.9942199598560713,
+      "name": "Fork You Very Much",
+      "projected": 3.9958292481655633,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
