@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-29T11:34:51.515648Z",
+  "updated_at": "2026-09-29T11:50:07.388942Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.766181929148235,
+      "projected": 3.7661819291482344,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
