@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-29T12:01:16.365647Z",
+  "updated_at": "2026-09-29T12:27:36.198099Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7246,8 +7246,8 @@
       "name": "Fantasy8",
       "actual_points": 2.5,
       "actual_round": 0.0,
-      "projected_points": 6.443627393080975,
-      "projected_round": 3.943627393080975,
+      "projected_points": 6.4335739445068585,
+      "projected_round": 3.9335739445068585,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -7360,9 +7360,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1423,
+          "rating": 1416,
           "decided_without_play": false,
-          "expected_points": 0.4827374755676238,
+          "expected_points": 0.4726840269935071,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8957,7 +8957,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 4.108175934128473,
+      "projected": 4.11822938270259,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.8918240658715266,
+      "projected": 3.88177061729741,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
