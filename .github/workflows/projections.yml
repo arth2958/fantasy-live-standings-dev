@@ -22,6 +22,8 @@ jobs:
       - run: python scripts/update_projections.py
       - name: Commit dev projection artifact only
         run: |
+          # The production standings snapshot is only an input. Keep the working tree clean for a push-race rebase.
+          git restore -- data/standings-s50.json
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
           git add data/projections-s50.json
