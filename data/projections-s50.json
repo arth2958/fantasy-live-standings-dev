@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 2,
-  "updated_at": "2026-09-29T17:35:54.441475Z",
+  "updated_at": "2026-09-29T17:50:11.626355Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3896,8 +3896,8 @@
       "name": "My other team is coming in 53rd place",
       "actual_points": 5.0,
       "actual_round": 0.0,
-      "projected_points": 8.5163453441901,
-      "projected_round": 3.5163453441901,
+      "projected_points": 8.524977249327904,
+      "projected_round": 3.524977249327904,
       "left": 8,
       "in_progress": 1,
       "paired": 8,
@@ -3952,7 +3952,7 @@
           "status": "pending",
           "rating": 1979,
           "decided_without_play": false,
-          "expected_points": 0.5043172397550597,
+          "expected_points": 0.5129491448928638,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 4.084102940694728,
+      "projected": 4.075471035556924,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 3.915897059305272,
+      "projected": 3.924528964443076,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
