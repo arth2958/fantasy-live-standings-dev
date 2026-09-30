@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 3,
-  "updated_at": "2026-09-30T18:52:29.217599Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-09-30T19:05:05.202751Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -415,7 +415,7 @@
       "projected_points": 9.954412675312918,
       "projected_round": 4.454412675312918,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -472,8 +472,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/b4WhnKs5",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -549,7 +549,7 @@
       "projected_points": 9.667227259544532,
       "projected_round": 4.167227259544532,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -606,8 +606,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/b4WhnKs5",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -817,7 +817,7 @@
       "projected_points": 9.427185794749722,
       "projected_round": 4.927185794749723,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -874,8 +874,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -1353,7 +1353,7 @@
       "projected_points": 9.20397135681365,
       "projected_round": 3.703971356813649,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1410,8 +1410,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -3765,7 +3765,7 @@
       "projected_points": 8.514966155427748,
       "projected_round": 5.014966155427748,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3822,8 +3822,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -3899,7 +3899,7 @@
       "projected_points": 8.434581282977968,
       "projected_round": 3.9345812829779674,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3956,8 +3956,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/b4WhnKs5",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -4301,7 +4301,7 @@
       "projected_points": 8.274779565371514,
       "projected_round": 4.274779565371513,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4418,8 +4418,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/x22RzoGU",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/gD12gFuZ",
+          "game_link_kind": "live",
           "round_game": "2:franconianchess:nightsub",
           "season_points": 0.0,
           "season_games": 1
@@ -4435,7 +4435,7 @@
       "projected_points": 8.268975235065358,
       "projected_round": 3.2689752350653576,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4492,8 +4492,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -4569,7 +4569,7 @@
       "projected_points": 8.240835888584103,
       "projected_round": 3.7408358885841024,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4626,8 +4626,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -4703,7 +4703,7 @@
       "projected_points": 8.224289337073103,
       "projected_round": 3.2242893370731034,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4760,8 +4760,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -4837,7 +4837,7 @@
       "projected_points": 8.160379637909696,
       "projected_round": 3.1603796379096947,
       "left": 6,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -4954,8 +4954,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/zuyB5Cwf",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/gD12gFuZ",
+          "game_link_kind": "live",
           "round_game": "2:franconianchess:nightsub",
           "season_points": 0.0,
           "season_games": 1
@@ -6445,7 +6445,7 @@
       "projected_points": 7.730444141467059,
       "projected_round": 3.7304441414670593,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6547,8 +6547,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/d1wWbxCb",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/F1ALyszB",
+          "game_link_kind": "live",
           "round_game": "2:ameyer:therealdivider",
           "season_points": 1.0,
           "season_games": 1
@@ -6847,7 +6847,7 @@
       "projected_points": 7.095681306484349,
       "projected_round": 3.595681306484349,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6949,8 +6949,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/nfGVWeCZ",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/F1ALyszB",
+          "game_link_kind": "live",
           "round_game": "2:ameyer:therealdivider",
           "season_points": 1.0,
           "season_games": 1
@@ -7651,7 +7651,7 @@
       "projected_points": 5.948723564152255,
       "projected_round": 3.448723564152255,
       "left": 7,
-      "in_progress": 1,
+      "in_progress": 3,
       "paired": 8,
       "roster": [
         {
@@ -7708,8 +7708,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/KAXtymO7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/QVS26HPE",
+          "game_link_kind": "live",
           "round_game": "2:m0r1:mynameismund",
           "season_points": 1.0,
           "season_games": 1
@@ -7768,8 +7768,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/x22RzoGU",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/gD12gFuZ",
+          "game_link_kind": "live",
           "round_game": "2:franconianchess:nightsub",
           "season_points": 0.0,
           "season_games": 1
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.7182075810032416,
+      "projected": 3.718207581003241,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
