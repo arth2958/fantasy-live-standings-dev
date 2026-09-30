@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-09-30T06:53:27.086767Z",
+  "updated_at": "2026-09-30T07:24:06.647374Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 4.52569972432064,
+      "projected": 4.5156262761544355,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 3.4743002756793597,
+      "projected": 3.4843737238455645,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
