@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 2,
-  "updated_at": "2026-09-30T16:25:40.001470Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-09-30T16:49:05.202347Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7651,7 +7651,7 @@
       "projected_points": 5.948723564152255,
       "projected_round": 3.448723564152255,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7678,8 +7678,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/qn4NBOG7",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/NMot6uel",
+          "game_link_kind": "live",
           "round_game": "2:buki9:shadowofself",
           "season_points": 0.5,
           "season_games": 1
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "Not all who blunder are lost",
-      "projected": 5.211564683237964,
+      "projected": 5.211564683237965,
       "actual": 2.0,
       "paired": 8,
       "left": 6,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.4374512814096754,
+      "projected": 3.4374512814096763,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 2.788435316762036,
+      "projected": 2.7884353167620355,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
