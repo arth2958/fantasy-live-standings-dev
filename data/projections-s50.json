@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 3,
-  "updated_at": "2026-09-30T16:49:05.202347Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-09-30T17:00:56.343231Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4837,7 +4837,7 @@
       "projected_points": 8.217713707032992,
       "projected_round": 4.217713707032993,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4924,8 +4924,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/tr48QD2n",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/k8VpKTdV",
+          "game_link_kind": "live",
           "round_game": "2:happysandbags:ribrubrib",
           "season_points": 0.5,
           "season_games": 1
