@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 1,
-  "updated_at": "2026-09-30T10:49:58.013658Z",
+  "updated_at": "2026-09-30T11:00:57.659171Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7246,8 +7246,8 @@
       "name": "Fantasy8",
       "actual_points": 2.5,
       "actual_round": 0.0,
-      "projected_points": 6.42640597278652,
-      "projected_round": 3.9264059727865197,
+      "projected_points": 6.4335739445068585,
+      "projected_round": 3.9335739445068585,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -7360,9 +7360,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1411,
+          "rating": 1416,
           "decided_without_play": false,
-          "expected_points": 0.46551605527316847,
+          "expected_points": 0.4726840269935071,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 4.228719023537817,
+      "projected": 4.235886995258155,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.771280976462183,
+      "projected": 3.764113004741845,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.7182075810032416,
+      "projected": 3.718207581003241,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
