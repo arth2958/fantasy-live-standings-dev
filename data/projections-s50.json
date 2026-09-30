@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 4,
-  "updated_at": "2026-09-30T17:00:56.343231Z",
+  "updated_at": "2026-09-30T17:22:30.083925Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.4374512814096763,
+      "projected": 3.4374512814096754,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
