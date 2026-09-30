@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 2,
-  "updated_at": "2026-09-30T16:03:28.545417Z",
+  "updated_at": "2026-09-30T16:25:40.001470Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2546,7 +2546,7 @@
           "game_link_kind": "recent",
           "round_game": "2:dragon19410:r0b-w",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         }
       ],
       "projected_rank": 19
@@ -8308,7 +8308,7 @@
           "game_link_kind": "recent",
           "round_game": "2:dragon19410:r0b-w",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         }
       ],
       "projected_rank": 62
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.4374512814096763,
+      "projected": 3.4374512814096754,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
