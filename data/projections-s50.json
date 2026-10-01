@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-01T22:58:30.076799Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-10-01T23:18:25.005652Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -817,7 +817,7 @@
       "projected_points": 9.799150981376643,
       "projected_round": 3.799150981376643,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -919,8 +919,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/3cT13FZT",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/YFczotg7",
+          "game_link_kind": "live",
           "round_game": "2:baberle:kauberdi",
           "season_points": 0.0,
           "season_games": 1
@@ -4569,7 +4569,7 @@
       "projected_points": 8.309402209946832,
       "projected_round": 3.3094022099468323,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4671,8 +4671,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/3cT13FZT",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/YFczotg7",
+          "game_link_kind": "live",
           "round_game": "2:baberle:kauberdi",
           "season_points": 0.0,
           "season_games": 1
@@ -4971,7 +4971,7 @@
       "projected_points": 8.23204950070718,
       "projected_round": 4.232049500707181,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -5073,8 +5073,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": "https://lichess.org/3cT13FZT",
-          "game_link_kind": "recent",
+          "game_url": "https://lichess.org/YFczotg7",
+          "game_link_kind": "live",
           "round_game": "2:baberle:kauberdi",
           "season_points": 0.0,
           "season_games": 1
