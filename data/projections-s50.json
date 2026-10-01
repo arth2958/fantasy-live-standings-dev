@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 1,
-  "updated_at": "2026-10-01T02:36:38.141893Z",
+  "updated_at": "2026-10-01T02:51:16.140120Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4432,8 +4432,8 @@
       "name": "50 reasons to give fantasy a try",
       "actual_points": 6.5,
       "actual_round": 0.5,
-      "projected_points": 8.418002055964852,
-      "projected_round": 2.4180020559648523,
+      "projected_points": 8.448191731566274,
+      "projected_round": 2.448191731566274,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -4533,7 +4533,7 @@
           "status": "pending",
           "rating": 1689,
           "decided_without_play": false,
-          "expected_points": 0.4712494361077314,
+          "expected_points": 0.5014391117091528,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5772,8 +5772,8 @@
       "name": "Rushing picker",
       "actual_points": 5.0,
       "actual_round": 1.0,
-      "projected_points": 7.922426176615987,
-      "projected_round": 3.9224261766159874,
+      "projected_points": 7.892236501014566,
+      "projected_round": 3.8922365010145663,
       "left": 6,
       "in_progress": 0,
       "paired": 8,
@@ -5871,9 +5871,9 @@
         {
           "handle": "Bortvinik",
           "status": "pending",
-          "rating": 1734,
+          "rating": 1713,
           "decided_without_play": false,
-          "expected_points": 0.5287505638922686,
+          "expected_points": 0.4985608882908472,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6164,7 +6164,7 @@
           "game_link_kind": "recent",
           "round_game": "2:k5kgc:spacebaristaken",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         }
       ],
       "projected_rank": 46
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 4.9168935542434955,
+      "projected": 4.947083229844917,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.0831064457565045,
+      "projected": 3.052916770155083,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
