@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-01T17:37:56.755509Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-01T17:53:14.542400Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 2.0,
       "actual_round": 0.0,
-      "projected_points": 5.223183407109898,
-      "projected_round": 3.223183407109899,
+      "projected_points": 5.208097548746153,
+      "projected_round": 3.2080975487461534,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1724,
+          "rating": 1713,
           "decided_without_play": false,
-          "expected_points": 0.615864104253756,
+          "expected_points": 0.6007782458900109,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8916,14 +8916,6 @@
       "eligible": false
     },
     {
-      "name": "Don't give a check your ascii can't cache",
-      "projected": 4.732481969254133,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "Knights of the Round Tablebase",
       "projected": 4.64853060646385,
       "actual": 2.0,
@@ -9012,19 +9004,27 @@
       "eligible": false
     },
     {
+      "name": "Don't give a check your ascii can't cache",
+      "projected": 4.149780084289903,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "The Greek Gifty Nifty Fifty",
+      "projected": 4.123313623936622,
+      "actual": 0.5,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "The Tarrasch Talkers",
       "projected": 4.121618009291321,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.1082277655728765,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 7,
       "eligible": false
     },
     {
@@ -9108,19 +9108,27 @@
       "eligible": false
     },
     {
+      "name": "Inexplicable Fianchetto Agenda",
+      "projected": 3.8783819907086787,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "passed pawn patrol",
-      "projected": 3.891772234427123,
+      "projected": 3.876686376063378,
       "actual": 0.5,
       "paired": 8,
       "left": 7,
       "eligible": false
     },
     {
-      "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.8783819907086787,
-      "actual": 1.0,
+      "name": "oh those 64 squares can encompass such immensity",
+      "projected": 3.8502199157100976,
+      "actual": 1.5,
       "paired": 8,
-      "left": 6,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9209,14 +9217,6 @@
       "actual": 1.0,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "oh those 64 squares can encompass such immensity",
-      "projected": 3.267518030745867,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
