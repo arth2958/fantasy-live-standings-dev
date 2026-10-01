@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 2,
-  "updated_at": "2026-10-01T01:35:57.502103Z",
+  "updated_at": "2026-10-01T01:50:04.592167Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4496,7 +4496,7 @@
           "game_link_kind": "recent",
           "round_game": "2:mcstudly:wombann",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         },
         {
           "handle": "patk74",
