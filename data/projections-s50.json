@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 4,
-  "updated_at": "2026-10-01T19:36:15.148467Z",
+  "updated_at": "2026-10-01T19:49:25.278873Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -729,7 +729,7 @@
           "game_link_kind": "recent",
           "round_game": "2:alexgaul:cowtone",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         },
         {
           "handle": "schittering06",
@@ -1212,6 +1212,140 @@
       "projected_rank": 9
     },
     {
+      "owner": "tastypotatohead",
+      "name": "Twice the Risk, Twice the Output (hopefully)",
+      "actual_points": 7.0,
+      "actual_round": 2.0,
+      "projected_points": 9.576773003863142,
+      "projected_round": 4.576773003863142,
+      "left": 6,
+      "in_progress": 0,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "status": "won",
+          "rating": 2361,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/OeqzskFH",
+          "game_link_kind": "recent",
+          "round_game": "2:rio2018:tellerwascher",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "bufferunderrun",
+          "status": "pending",
+          "rating": 2067,
+          "decided_without_play": false,
+          "expected_points": 0.44553062597832405,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/K180yamk",
+          "game_link_kind": "recent",
+          "round_game": "2:bufferunderrun:hagia_sophia",
+          "season_points": 0.0,
+          "season_games": 1
+        },
+        {
+          "handle": "cowtone",
+          "status": "won",
+          "rating": 2086,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/ZcXa7z4f",
+          "game_link_kind": "recent",
+          "round_game": "2:alexgaul:cowtone",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "MrScribbles",
+          "status": "pending",
+          "rating": 1908,
+          "decided_without_play": false,
+          "expected_points": 0.4655160552731685,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/zYX3jkzz",
+          "game_link_kind": "recent",
+          "round_game": "2:mrscribbles:octacle",
+          "season_points": 0.5,
+          "season_games": 1
+        },
+        {
+          "handle": "fork2020",
+          "status": "pending",
+          "rating": 1862,
+          "decided_without_play": false,
+          "expected_points": 0.5430664920222118,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/77Kt7A78",
+          "game_link_kind": "recent",
+          "round_game": "2:fork2020:pepepibote",
+          "season_points": 1.0,
+          "season_games": 1
+        },
+        {
+          "handle": "mkubecek",
+          "status": "pending",
+          "rating": 1783,
+          "decided_without_play": false,
+          "expected_points": 0.41869852163108506,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/ILAwG0ZO",
+          "game_link_kind": "recent",
+          "round_game": "2:mkubecek:monocarp",
+          "season_points": 1.0,
+          "season_games": 1
+        },
+        {
+          "handle": "cham",
+          "status": "pending",
+          "rating": 1613,
+          "decided_without_play": false,
+          "expected_points": 0.28945998763016223,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/f2eulrYi",
+          "game_link_kind": "recent",
+          "round_game": "2:cham:highonpotnuse",
+          "season_points": 0.0,
+          "season_games": 1
+        },
+        {
+          "handle": "angborxley",
+          "status": "pending",
+          "rating": 1484,
+          "decided_without_play": false,
+          "expected_points": 0.4145013213281905,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/TLum0hCp",
+          "game_link_kind": "recent",
+          "round_game": "2:angborxley:sutoneigt",
+          "season_points": 1.0,
+          "season_games": 1
+        }
+      ],
+      "projected_rank": 10
+    },
+    {
       "owner": "guitarspider",
       "name": "and all I got was this lousy team name",
       "actual_points": 8.0,
@@ -1343,7 +1477,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 10
+      "projected_rank": 11
     },
     {
       "owner": "Feet_barbie",
@@ -1477,7 +1611,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 11
+      "projected_rank": 12
     },
     {
       "owner": "pawneater2020",
@@ -1611,7 +1745,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 12
+      "projected_rank": 13
     },
     {
       "owner": "jwwells42",
@@ -1745,7 +1879,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 13
+      "projected_rank": 14
     },
     {
       "owner": "mynameismund",
@@ -1879,7 +2013,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 14
+      "projected_rank": 15
     },
     {
       "owner": "adande1",
@@ -2013,7 +2147,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 15
+      "projected_rank": 16
     },
     {
       "owner": "Tactix47",
@@ -2147,7 +2281,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 16
+      "projected_rank": 17
     },
     {
       "owner": "berndwind",
@@ -2281,7 +2415,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 17
+      "projected_rank": 18
     },
     {
       "owner": "MilsBees",
@@ -2415,7 +2549,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 18
+      "projected_rank": 19
     },
     {
       "owner": "Silkthewanderer",
@@ -2549,7 +2683,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 19
+      "projected_rank": 20
     },
     {
       "owner": "Monocarp",
@@ -2683,7 +2817,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 20
+      "projected_rank": 21
     },
     {
       "owner": "DavidSifre",
@@ -2817,7 +2951,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 21
+      "projected_rank": 22
     },
     {
       "owner": "ecoarrivazumashoomzo",
@@ -2951,7 +3085,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 22
+      "projected_rank": 23
     },
     {
       "owner": "NameGoesInHere",
@@ -3085,7 +3219,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 23
+      "projected_rank": 24
     },
     {
       "owner": "JEEprep2374",
@@ -3219,7 +3353,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 24
+      "projected_rank": 25
     },
     {
       "owner": "Micomps",
@@ -3353,7 +3487,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 25
+      "projected_rank": 26
     },
     {
       "owner": "RPCX",
@@ -3487,7 +3621,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 26
+      "projected_rank": 27
     },
     {
       "owner": "Pineapplechiffoncake",
@@ -3621,7 +3755,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 27
+      "projected_rank": 28
     },
     {
       "owner": "pykkis",
@@ -3752,140 +3886,6 @@
           "game_link_kind": "recent",
           "round_game": "2:drrickinct:stumct",
           "season_points": 0.0,
-          "season_games": 1
-        }
-      ],
-      "projected_rank": 28
-    },
-    {
-      "owner": "tastypotatohead",
-      "name": "Twice the Risk, Twice the Output (hopefully)",
-      "actual_points": 6.0,
-      "actual_round": 2.0,
-      "projected_points": 8.576773003863142,
-      "projected_round": 4.576773003863142,
-      "left": 6,
-      "in_progress": 0,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "status": "won",
-          "rating": 2361,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/OeqzskFH",
-          "game_link_kind": "recent",
-          "round_game": "2:rio2018:tellerwascher",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "bufferunderrun",
-          "status": "pending",
-          "rating": 2067,
-          "decided_without_play": false,
-          "expected_points": 0.44553062597832405,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/K180yamk",
-          "game_link_kind": "recent",
-          "round_game": "2:bufferunderrun:hagia_sophia",
-          "season_points": 0.0,
-          "season_games": 1
-        },
-        {
-          "handle": "cowtone",
-          "status": "won",
-          "rating": 2086,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/ZcXa7z4f",
-          "game_link_kind": "recent",
-          "round_game": "2:alexgaul:cowtone",
-          "season_points": 1.0,
-          "season_games": 1
-        },
-        {
-          "handle": "MrScribbles",
-          "status": "pending",
-          "rating": 1908,
-          "decided_without_play": false,
-          "expected_points": 0.4655160552731685,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/zYX3jkzz",
-          "game_link_kind": "recent",
-          "round_game": "2:mrscribbles:octacle",
-          "season_points": 0.5,
-          "season_games": 1
-        },
-        {
-          "handle": "fork2020",
-          "status": "pending",
-          "rating": 1862,
-          "decided_without_play": false,
-          "expected_points": 0.5430664920222118,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/77Kt7A78",
-          "game_link_kind": "recent",
-          "round_game": "2:fork2020:pepepibote",
-          "season_points": 1.0,
-          "season_games": 1
-        },
-        {
-          "handle": "mkubecek",
-          "status": "pending",
-          "rating": 1783,
-          "decided_without_play": false,
-          "expected_points": 0.41869852163108506,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/ILAwG0ZO",
-          "game_link_kind": "recent",
-          "round_game": "2:mkubecek:monocarp",
-          "season_points": 1.0,
-          "season_games": 1
-        },
-        {
-          "handle": "cham",
-          "status": "pending",
-          "rating": 1613,
-          "decided_without_play": false,
-          "expected_points": 0.28945998763016223,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/f2eulrYi",
-          "game_link_kind": "recent",
-          "round_game": "2:cham:highonpotnuse",
-          "season_points": 0.0,
-          "season_games": 1
-        },
-        {
-          "handle": "angborxley",
-          "status": "pending",
-          "rating": 1484,
-          "decided_without_play": false,
-          "expected_points": 0.4145013213281905,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/TLum0hCp",
-          "game_link_kind": "recent",
-          "round_game": "2:angborxley:sutoneigt",
-          "season_points": 1.0,
           "season_games": 1
         }
       ],
@@ -4347,7 +4347,7 @@
           "game_link_kind": "recent",
           "round_game": "2:alexgaul:cowtone",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         },
         {
           "handle": "Llawlietnea",
@@ -6357,7 +6357,7 @@
           "game_link_kind": "recent",
           "round_game": "2:alexgaul:cowtone",
           "season_points": 1.0,
-          "season_games": 1
+          "season_games": 2
         },
         {
           "handle": "NirakuHakamura",
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 2.0,
       "actual_round": 0.0,
-      "projected_points": 5.203948476161917,
-      "projected_round": 3.2039484761619166,
+      "projected_points": 5.223183407109898,
+      "projected_round": 3.223183407109899,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1710,
+          "rating": 1724,
           "decided_without_play": false,
-          "expected_points": 0.596629173305774,
+          "expected_points": 0.615864104253756,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 4.6314337057736035,
+      "projected": 4.631433705773603,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.620267614811807,
+      "projected": 4.601032683863825,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.3797323851881926,
+      "projected": 3.3989673161361744,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.3685662942263965,
+      "projected": 3.3685662942263974,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
