@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 3,
-  "updated_at": "2026-10-01T23:46:38.040404Z",
+  "updated_at": "2026-10-01T23:57:56.560221Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
