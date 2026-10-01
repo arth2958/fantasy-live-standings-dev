@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-01T21:36:42.012368Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-01T21:51:58.595880Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 2.0,
       "actual_round": 0.0,
-      "projected_points": 5.223183407109898,
-      "projected_round": 3.223183407109899,
+      "projected_points": 5.21085562138232,
+      "projected_round": 3.2108556213823207,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1724,
+          "rating": 1715,
           "decided_without_play": false,
-          "expected_points": 0.615864104253756,
+          "expected_points": 0.6035363185261781,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8900,19 +8900,19 @@
       "eligible": false
     },
     {
+      "name": "The Greek Gifty Nifty Fifty",
+      "projected": 4.613360469591403,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 4.603115565808015,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.601032683863825,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -8969,14 +8969,6 @@
       "actual": 1.0,
       "paired": 8,
       "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "King's Landing",
-      "projected": 4.320669424507691,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9052,6 +9044,14 @@
       "eligible": false
     },
     {
+      "name": "King's Landing",
+      "projected": 4.071910218041401,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "Fifty Shades of Time Trouble",
       "projected": 4.047272767466109,
       "actual": 1.0,
@@ -9081,6 +9081,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "If anyone can refute it—don't show me",
+      "projected": 3.9280897819585987,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9156,14 +9164,6 @@
       "eligible": false
     },
     {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 3.6793305754923096,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
       "projected": 3.6414733560075296,
       "actual": 0.0,
@@ -9220,19 +9220,19 @@
       "eligible": false
     },
     {
-      "name": "passed pawn patrol",
-      "projected": 3.3989673161361744,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "The Woodpushers",
       "projected": 3.3968844341919846,
       "actual": 2.0,
       "paired": 8,
       "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "passed pawn patrol",
+      "projected": 3.3866395304085968,
+      "actual": 0.5,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
