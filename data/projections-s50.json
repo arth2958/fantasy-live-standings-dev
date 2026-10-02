@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-02T13:50:51.822676Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-02T14:02:26.730030Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8989,7 +8989,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 4.17127855378859,
+      "projected": 4.171278553788589,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
