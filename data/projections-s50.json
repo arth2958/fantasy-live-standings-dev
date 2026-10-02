@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 1,
-  "updated_at": "2026-10-02T03:21:52.562238Z",
+  "updated_at": "2026-10-02T03:38:01.363783Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 2.0,
       "actual_round": 0.0,
-      "projected_points": 5.181599506510667,
-      "projected_round": 3.181599506510667,
+      "projected_points": 5.168887241829789,
+      "projected_round": 3.168887241829789,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1694,
+          "rating": 1685,
           "decided_without_play": false,
-          "expected_points": 0.5742802036545245,
+          "expected_points": 0.5615679389736461,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8908,19 +8908,19 @@
       "eligible": false
     },
     {
+      "name": "The Greek Gifty Nifty Fifty",
+      "projected": 4.6553288491439355,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "Knights of the Round Tablebase",
       "projected": 4.64853060646385,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.642616584463057,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9212,19 +9212,19 @@
       "eligible": false
     },
     {
-      "name": "passed pawn patrol",
-      "projected": 3.357383415536943,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "50 Shades of Swindles and Tricks",
       "projected": 3.35146939353615,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "passed pawn patrol",
+      "projected": 3.344671150856065,
+      "actual": 0.5,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
