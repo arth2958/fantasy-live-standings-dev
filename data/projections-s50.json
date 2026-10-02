@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-10-02T04:23:33.919195Z",
+  "updated_at": "2026-10-02T04:49:12.533973Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 4.955707392005376,
+      "projected": 4.934143700869267,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.044292607994624,
+      "projected": 3.0658562991307337,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
