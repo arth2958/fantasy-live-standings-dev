@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 8,
-  "updated_at": "2026-10-02T19:21:34.663933Z",
+  "round_in_progress": 9,
+  "updated_at": "2026-10-02T19:37:00.498447Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5370,8 +5370,8 @@
       "name": "Shakalaka",
       "actual_points": 6.0,
       "actual_round": 1.5,
-      "projected_points": 7.915917408909413,
-      "projected_round": 3.4159174089094133,
+      "projected_points": 7.928543836186718,
+      "projected_round": 3.4285438361867184,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -5469,9 +5469,9 @@
         {
           "handle": "PatrickVrielink",
           "status": "pending",
-          "rating": 1699,
+          "rating": 1708,
           "decided_without_play": false,
-          "expected_points": 0.5728722513945044,
+          "expected_points": 0.5854986786718095,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8321,7 +8321,7 @@
       "projected_points": 5.07734042724697,
       "projected_round": 4.07734042724697,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -8423,8 +8423,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/bSrVAdC1",
+          "game_link_kind": "live",
           "round_game": "2:nairwolf:zorakforpresident",
           "season_points": 0.0,
           "season_games": 1
@@ -8723,7 +8723,7 @@
       "projected_points": 4.305189700496335,
       "projected_round": 1.8051897004963346,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 5,
       "roster": [
         {
@@ -8825,8 +8825,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/bSrVAdC1",
+          "game_link_kind": "live",
           "round_game": "2:nairwolf:zorakforpresident",
           "season_points": 0.0,
           "season_games": 1
@@ -8869,18 +8869,10 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 5.059512362618772,
+      "projected": 5.059512362618773,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Pirc and Roll",
-      "projected": 5.031271137973195,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -8900,19 +8892,19 @@
       "eligible": false
     },
     {
+      "name": "fifty shades of black and white",
+      "projected": 4.801721156481214,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "my english needs work",
       "projected": 4.800083496640774,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "fifty shades of black and white",
-      "projected": 4.789094729203909,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
@@ -8980,6 +8972,14 @@
       "eligible": false
     },
     {
+      "name": "Pirc and Roll",
+      "projected": 4.466870647732773,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "Total Tomination",
       "projected": 4.421132607998845,
       "actual": 1.0,
@@ -9013,7 +9013,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.152773418022385,
+      "projected": 4.105063424234846,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9117,7 +9117,7 @@
     },
     {
       "name": "Morphy's Mates",
-      "projected": 3.8472265819776146,
+      "projected": 3.894936575765154,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9153,6 +9153,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Blunders Without Borders",
+      "projected": 3.5331293522672267,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9220,19 +9228,19 @@
       "eligible": false
     },
     {
-      "name": "The Last Shall be the First",
-      "projected": 3.2109052707960912,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "We're not going to TAKE TAKE TAKE it",
       "projected": 3.1999165033592263,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "The Last Shall be the First",
+      "projected": 3.198278843518786,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
@@ -9249,14 +9257,6 @@
       "actual": 2.0,
       "paired": 8,
       "left": 2,
-      "eligible": false
-    },
-    {
-      "name": "Blunders Without Borders",
-      "projected": 2.968728862026805,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
