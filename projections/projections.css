@@ -24,6 +24,7 @@
 .projection-roster > .lost{border-color:#d27b69;background:#fff2ef}
 .projection-roster > .unpaired{border-color:#d3cfd1;background:#f8f7f7}
 .projection-roster > .no-longer-rostered{border-color:#686265;background:#efeeee}
-.projection-roster .round-state{color:inherit;font-size:11px;font-weight:800;margin-top:4px}
+/* Status words use the same quiet font as the actual/projected score line below. */
+.projection-roster .round-state{color:var(--muted);font-size:9px;font-weight:inherit;margin-top:2px}
 .projection-roster b a{color:inherit;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:2px;border-bottom:0}
 .projection-roster b a:hover{text-decoration-thickness:3px;border-bottom:0}
