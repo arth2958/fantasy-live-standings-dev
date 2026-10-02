@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-02T18:51:27.731559Z",
+  "round_in_progress": 9,
+  "updated_at": "2026-10-02T19:02:47.263801Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -415,7 +415,7 @@
       "projected_points": 10.191964902547703,
       "projected_round": 4.191964902547703,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -442,8 +442,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/nIfxzQ8C",
+          "game_link_kind": "live",
           "round_game": "2:pavonine:timothyha",
           "season_points": 1.0,
           "season_games": 1
@@ -2961,7 +2961,7 @@
       "projected_points": 8.80180018139072,
       "projected_round": 4.801800181390719,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3033,8 +3033,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/RyGLFCCn",
+          "game_link_kind": "live",
           "round_game": "2:gary0892:jeb_al_gloke",
           "season_points": 0.0,
           "season_games": 1
@@ -5102,18 +5102,18 @@
       "name": "gary0892’s team",
       "actual_points": 5.5,
       "actual_round": 1.0,
-      "projected_points": 8.347580523338365,
-      "projected_round": 3.8475805233383653,
+      "projected_points": 8.34900471739579,
+      "projected_round": 3.849004717395789,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
           "handle": "digvijay_sunil",
           "status": "pending",
-          "rating": 2253,
+          "rating": 2254,
           "decided_without_play": false,
-          "expected_points": 0.550199353253537,
+          "expected_points": 0.5516235473109605,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5177,8 +5177,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/RyGLFCCn",
+          "game_link_kind": "live",
           "round_game": "2:gary0892:jeb_al_gloke",
           "season_points": 0.0,
           "season_games": 1
@@ -5239,7 +5239,7 @@
       "projected_points": 8.346094116308679,
       "projected_round": 3.8460941163086786,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5251,8 +5251,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/nIfxzQ8C",
+          "game_link_kind": "live",
           "round_game": "2:pavonine:timothyha",
           "season_points": 0.0,
           "season_games": 1
@@ -6713,7 +6713,7 @@
       "projected_points": 6.701096681961545,
       "projected_round": 3.2010966819615447,
       "left": 5,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -6785,8 +6785,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/RyGLFCCn",
+          "game_link_kind": "live",
           "round_game": "2:gary0892:jeb_al_gloke",
           "season_points": 0.0,
           "season_games": 1
@@ -7514,8 +7514,8 @@
       "name": "Blunnder masterss",
       "actual_points": 4.0,
       "actual_round": 1.0,
-      "projected_points": 6.1295607636210425,
-      "projected_round": 3.1295607636210425,
+      "projected_points": 6.130984957678466,
+      "projected_round": 3.130984957678466,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -7523,9 +7523,9 @@
         {
           "handle": "digvijay_sunil",
           "status": "pending",
-          "rating": 2253,
+          "rating": 2254,
           "decided_without_play": false,
-          "expected_points": 0.550199353253537,
+          "expected_points": 0.5516235473109605,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7916,8 +7916,8 @@
       "name": "The Magnificent Nine",
       "actual_points": 3.0,
       "actual_round": 1.0,
-      "projected_points": 5.730235642689536,
-      "projected_round": 3.730235642689536,
+      "projected_points": 5.731659836746959,
+      "projected_round": 3.7316598367469593,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -7925,9 +7925,9 @@
         {
           "handle": "digvijay_sunil",
           "status": "pending",
-          "rating": 2253,
+          "rating": 2254,
           "decided_without_play": false,
-          "expected_points": 0.550199353253537,
+          "expected_points": 0.5516235473109605,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 5.059512362618772,
+      "projected": 5.059512362618773,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
@@ -8957,7 +8957,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.554328178416118,
+      "projected": 4.552903984358695,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -8972,19 +8972,19 @@
       "eligible": false
     },
     {
-      "name": "Not all who blunder are lost",
-      "projected": 4.436620090085792,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 3,
-      "eligible": false
-    },
-    {
       "name": "Total Tomination",
       "projected": 4.421132607998845,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Not all who blunder are lost",
+      "projected": 4.412840167842601,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -9148,19 +9148,19 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 3.5871598321573988,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "pspspspspsps",
       "projected": 3.578867392001155,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "50th Parallel Pawns",
-      "projected": 3.5633799099142083,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 3,
       "eligible": false
     },
     {
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.445671821583882,
+      "projected": 3.4470960156413057,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
