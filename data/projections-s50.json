@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 3,
-  "updated_at": "2026-10-02T20:36:08.084993Z",
+  "updated_at": "2026-10-02T20:51:14.578435Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2193,7 +2193,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2031,
+          "rating": 2034,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5141,7 +5141,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2031,
+          "rating": 2034,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5370,8 +5370,8 @@
       "name": "Shakalaka",
       "actual_points": 6.0,
       "actual_round": 1.5,
-      "projected_points": 7.935511388099241,
-      "projected_round": 3.4355113880992407,
+      "projected_points": 7.94382340340492,
+      "projected_round": 3.4438234034049198,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -5469,9 +5469,9 @@
         {
           "handle": "PatrickVrielink",
           "status": "pending",
-          "rating": 1713,
+          "rating": 1719,
           "decided_without_play": false,
-          "expected_points": 0.5924662305843318,
+          "expected_points": 0.600778245890011,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6615,7 +6615,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2031,
+          "rating": 2034,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "fifty shades of black and white",
-      "projected": 4.808688708393737,
+      "projected": 4.817000723699415,
       "actual": 2.5,
       "paired": 8,
       "left": 4,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "The Last Shall be the First",
-      "projected": 3.191311291606264,
+      "projected": 3.1829992763005848,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
