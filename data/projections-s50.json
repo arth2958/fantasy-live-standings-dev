@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 3,
-  "updated_at": "2026-10-02T16:01:26.805172Z",
+  "updated_at": "2026-10-02T16:22:28.483077Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5507,7 +5507,7 @@
       "projected_points": 8.11231119213145,
       "projected_round": 2.6123111921314512,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -5534,8 +5534,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/GjscAt4I",
+          "game_link_kind": "live",
           "round_game": "2:far1108:shogistyle",
           "season_points": 1.0,
           "season_games": 1
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 4.902712997998143,
+      "projected": 4.91981640343669,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -8916,14 +8916,6 @@
       "eligible": false
     },
     {
-      "name": "King's Landing",
-      "projected": 4.669073632077653,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "Don't give a check your ascii can't cache",
       "projected": 4.659852531217341,
       "actual": 2.5,
@@ -8933,7 +8925,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 4.64853060646385,
+      "projected": 4.627001863684747,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9009,6 +9001,14 @@
       "actual": 1.5,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "King's Landing",
+      "projected": 4.128865403753908,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -9124,6 +9124,14 @@
       "eligible": false
     },
     {
+      "name": "If anyone can refute it—don't show me",
+      "projected": 3.871134596246092,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "Morphy's Mates",
       "projected": 3.8472265819776146,
       "actual": 1.5,
@@ -9197,7 +9205,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.35146939353615,
+      "projected": 3.3729981363152532,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9206,14 +9214,6 @@
     {
       "name": "oh those 64 squares can encompass such immensity",
       "projected": 3.340147468782659,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 3.3309263679223466,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.097287002001857,
+      "projected": 3.08018359656331,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
