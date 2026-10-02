@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 0,
-  "updated_at": "2026-10-02T11:21:07.669512Z",
+  "updated_at": "2026-10-02T11:36:20.086510Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8908,6 +8908,14 @@
       "eligible": false
     },
     {
+      "name": "King's Landing",
+      "projected": 4.669073632077653,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "Knights of the Round Tablebase",
       "projected": 4.64853060646385,
       "actual": 2.0,
@@ -8921,14 +8929,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "King's Landing",
-      "projected": 4.54746475692074,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.882687093480286,
+      "projected": 3.8826870934802864,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9204,14 +9204,6 @@
       "eligible": false
     },
     {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 3.45253524307926,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "passed pawn patrol",
       "projected": 3.374178808197362,
       "actual": 0.5,
@@ -9225,6 +9217,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "If anyone can refute it—don't show me",
+      "projected": 3.3309263679223466,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "Pawn with the Sickness",
-      "projected": 2.9972532750273007,
+      "projected": 2.997253275027301,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
@@ -9286,6 +9286,6 @@
   ],
   "ratings": {
     "pool": "classical",
-    "players": 431
+    "players": 430
   }
 }
