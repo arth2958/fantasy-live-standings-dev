@@ -20,11 +20,11 @@ jobs:
       - name: Read official standings (read-only)
         run: curl --fail --location --retry 2 --max-time 45 https://arth2958.github.io/fantasy-live-standings/data/standings-s50.json -o data/standings-s50.json
       - run: python scripts/update_projections.py
-      - name: Commit dev projection artifact only
+      - name: Commit refreshed dev standings and projection snapshots
         run: |
-          # The production standings snapshot is only an input. Keep the working tree clean for a push-race rebase.
-          git restore -- data/standings-s50.json
+          # DEV STANDINGS REFRESH: publish the read-only official snapshot too.
+          # Otherwise the dev standings page stays stuck at the original mirror date.
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-          git add data/projections-s50.json
+          git add data/projections-s50.json data/standings-s50.json
           git diff --cached --quiet || (git commit -m "Update dev projections" && git push || (git pull --rebase -X theirs && git push))
