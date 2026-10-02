@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 3,
-  "updated_at": "2026-10-02T17:36:34.783063Z",
+  "updated_at": "2026-10-02T17:50:00.277248Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1568,7 +1568,7 @@
         {
           "handle": "pykkis",
           "status": "lost",
-          "rating": 1718,
+          "rating": 1724,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -2238,7 +2238,7 @@
         {
           "handle": "pykkis",
           "status": "lost",
-          "rating": 1718,
+          "rating": 1724,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3652,7 +3652,7 @@
         {
           "handle": "yellorambo",
           "status": "won",
-          "rating": 2139,
+          "rating": 2132,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -3920,7 +3920,7 @@
         {
           "handle": "yellorambo",
           "status": "won",
-          "rating": 2139,
+          "rating": 2132,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4322,7 +4322,7 @@
         {
           "handle": "yellorambo",
           "status": "won",
-          "rating": 2139,
+          "rating": 2132,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
