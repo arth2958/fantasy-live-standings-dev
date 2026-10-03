@@ -2,7 +2,7 @@
   "season": 50,
   "round": 2,
   "round_in_progress": 2,
-  "updated_at": "2026-10-03T10:37:52.465909Z",
+  "updated_at": "2026-10-03T11:08:22.811830Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7246,8 +7246,8 @@
       "name": "Fantasy8",
       "actual_points": 4.0,
       "actual_round": 1.5,
-      "projected_points": 6.384872088689141,
-      "projected_round": 3.8848720886891415,
+      "projected_points": 6.377679152207422,
+      "projected_round": 3.8776791522074223,
       "left": 5,
       "in_progress": 0,
       "paired": 8,
@@ -7360,9 +7360,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1425,
+          "rating": 1420,
           "decided_without_play": false,
-          "expected_points": 0.5129491448928637,
+          "expected_points": 0.5057562084111449,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -9028,19 +9028,19 @@
       "eligible": false
     },
     {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 4.070294359286411,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "There Will Be Blunders",
       "projected": 4.064584766088502,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
+      "eligible": false
+    },
+    {
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 4.063101422804692,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
@@ -9085,10 +9085,18 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.9544018741778375,
+      "projected": 3.954401874177838,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
+      "eligible": false
+    },
+    {
+      "name": "Wandering Knights",
+      "projected": 3.936898577195308,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
@@ -9097,14 +9105,6 @@
       "actual": 2.0,
       "paired": 8,
       "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Wandering Knights",
-      "projected": 3.929705640713589,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
