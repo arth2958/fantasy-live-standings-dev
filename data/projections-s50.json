@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 2,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-04T21:44:37.278719Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-04T22:00:22.188483Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4278,7 +4278,7 @@
         {
           "handle": "K5KGC",
           "status": "lost",
-          "rating": 1397,
+          "rating": 1401,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8948,14 +8948,6 @@
       "eligible": false
     },
     {
-      "name": "Pirc and Roll",
-      "projected": 4.567228844342952,
-      "actual": 4.0,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "The Woodpushers",
       "projected": 4.547348518045865,
       "actual": 4.0,
@@ -9052,6 +9044,14 @@
       "eligible": false
     },
     {
+      "name": "Blunders Without Borders",
+      "projected": 4.0,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Inexplicable Fianchetto Agenda",
       "projected": 4.0,
       "actual": 4.0,
@@ -9061,6 +9061,14 @@
     },
     {
       "name": "Operation Pawnstorm",
+      "projected": 4.0,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
+      "name": "Pirc and Roll",
       "projected": 4.0,
       "actual": 4.0,
       "paired": 8,
@@ -9174,14 +9182,6 @@
     {
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 3.452651481954135,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Blunders Without Borders",
-      "projected": 3.432771155657048,
       "actual": 3.0,
       "paired": 8,
       "left": 1,

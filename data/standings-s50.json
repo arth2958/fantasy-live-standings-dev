@@ -1,13 +1,13 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-04T21:44:34.733298Z",
+  "updated_at": "2026-10-04T22:00:18.892773Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
   },
   "method": "Everyone starts at 0 until round 1 pairings are published. Points from live pairings; ties: points per game, then lowest total team price.",
-  "pairings_parsed": 424,
+  "pairings_parsed": 425,
   "popular": [
     {
       "board": 1,
@@ -7232,6 +7232,119 @@
       ]
     },
     {
+      "owner": "arbitrary",
+      "name": "Random Team",
+      "bot": true,
+      "total": 13863,
+      "points": 5.0,
+      "games": 13,
+      "round_games": 5,
+      "round_scheduled": 5,
+      "games_left": 0,
+      "ppg": 0.38461538461538464,
+      "roster": [
+        {
+          "handle": "Kjar",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Narrenkind",
+          "points": 0.0,
+          "games": 1
+        },
+        {
+          "handle": "AlexGaul",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "BLang316",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Angrybird029",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "kostasvl",
+          "points": 0.0,
+          "games": 1
+        },
+        {
+          "handle": "burner_account17",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "mmkgtc",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 65,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 2.0,
+          "finished": 5,
+          "paired": 5,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
       "owner": "Bpack",
       "name": "int-T-ana Jones and the Tomple of Doom",
       "total": 15669,
@@ -7283,7 +7396,7 @@
           "games": 2
         }
       ],
-      "rank": 65,
+      "rank": 66,
       "round_scores": [
         {
           "round": 1,
@@ -7395,7 +7508,7 @@
           "games": 2
         }
       ],
-      "rank": 66,
+      "rank": 67,
       "round_scores": [
         {
           "round": 1,
@@ -7507,7 +7620,7 @@
           "games": 2
         }
       ],
-      "rank": 67,
+      "rank": 68,
       "round_scores": [
         {
           "round": 1,
@@ -7619,7 +7732,7 @@
           "games": 2
         }
       ],
-      "rank": 68,
+      "rank": 69,
       "round_scores": [
         {
           "round": 1,
@@ -7731,7 +7844,7 @@
           "games": 1
         }
       ],
-      "rank": 69,
+      "rank": 70,
       "round_scores": [
         {
           "round": 1,
@@ -7843,7 +7956,7 @@
           "games": 2
         }
       ],
-      "rank": 70,
+      "rank": 71,
       "round_scores": [
         {
           "round": 1,
@@ -7902,124 +8015,11 @@
           "state": "upcoming"
         }
       ]
-    },
-    {
-      "owner": "arbitrary",
-      "name": "Random Team",
-      "bot": true,
-      "total": 13863,
-      "points": 4.0,
-      "games": 12,
-      "round_games": 4,
-      "round_scheduled": 5,
-      "games_left": 1,
-      "ppg": 0.3333333333333333,
-      "roster": [
-        {
-          "handle": "Kjar",
-          "points": 0.0,
-          "games": 1
-        },
-        {
-          "handle": "Narrenkind",
-          "points": 0.0,
-          "games": 1
-        },
-        {
-          "handle": "AlexGaul",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "BLang316",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Angrybird029",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "kostasvl",
-          "points": 0.0,
-          "games": 1
-        },
-        {
-          "handle": "burner_account17",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "mmkgtc",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 71,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 3.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 1.0,
-          "finished": 4,
-          "paired": 5,
-          "state": "so_far"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
     }
   ],
   "round": {
     "number": 2,
-    "played": 208,
+    "played": 209,
     "total": 216
   }
 }
