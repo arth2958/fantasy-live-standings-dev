@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-05T16:24:29.041085Z",
+  "updated_at": "2026-10-05T16:51:35.224755Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 4.394433626237635,
+      "projected": 4.3944336262376344,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8925,7 +8925,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.195453046778757,
+      "projected": 4.1954530467787565,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 4.147644924426592,
+      "projected": 4.147644924426591,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.8523550755734086,
+      "projected": 3.852355075573409,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "pspspspspsps",
-      "projected": 3.605566373762365,
+      "projected": 3.6055663737623647,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
