@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 2,
-  "updated_at": "2026-10-05T18:29:59.633844Z",
+  "updated_at": "2026-10-05T19:00:40.222341Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.873865656182708,
+      "projected": 4.873865656182707,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8892,16 +8892,16 @@
       "eligible": false
     },
     {
-      "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 4.3044619176109435,
+      "name": "There Will Be Blunders",
+      "projected": 4.311112671470966,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "There Will Be Blunders",
-      "projected": 4.2665453613818185,
+      "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
+      "projected": 4.3044619176109435,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8925,7 +8925,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.1954530467787565,
+      "projected": 4.195453046778757,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.9588837189756876,
+      "projected": 3.958883718975688,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9228,16 +9228,16 @@
       "eligible": false
     },
     {
-      "name": "King's Landing",
-      "projected": 3.733454638618182,
+      "name": "oh those 64 squares can encompass such immensity",
+      "projected": 3.6955380823890565,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "oh those 64 squares can encompass such immensity",
-      "projected": 3.6955380823890565,
+      "name": "King's Landing",
+      "projected": 3.688887328529033,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
