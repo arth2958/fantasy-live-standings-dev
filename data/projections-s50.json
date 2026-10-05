@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-05T17:21:21.377615Z",
+  "updated_at": "2026-10-05T17:37:41.498171Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.873865656182707,
+      "projected": 4.873865656182708,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.245256526279687,
+      "projected": 4.245256526279688,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9021,7 +9021,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 4.041116281024313,
+      "projected": 4.041116281024312,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 4.001855117526253,
+      "projected": 4.001855117526252,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.754743473720313,
+      "projected": 3.7547434737203127,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
