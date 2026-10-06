@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 3,
-  "updated_at": "2026-10-06T19:37:06.669403Z",
+  "updated_at": "2026-10-06T19:51:14.621228Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "The horsey don't belong here",
-      "projected": 4.314488634588566,
+      "projected": 4.314488634588565,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 4.291086245548419,
+      "projected": 4.294465477025578,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.708913754451581,
+      "projected": 3.705534522974422,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
