@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 5,
-  "updated_at": "2026-10-06T20:22:23.484152Z",
+  "updated_at": "2026-10-06T20:39:32.145873Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -948,8 +948,8 @@
       "name": "Hedgehogs, Hippos, and Effin' Birds",
       "actual_points": 10.0,
       "actual_round": 0.0,
-      "projected_points": 13.59506349257048,
-      "projected_round": 3.59506349257048,
+      "projected_points": 13.60349271954489,
+      "projected_round": 3.6034927195448905,
       "left": 8,
       "in_progress": 1,
       "paired": 8,
@@ -1002,9 +1002,9 @@
         {
           "handle": "robertjackson",
           "status": "pending",
-          "rating": 1904,
+          "rating": 1910,
           "decided_without_play": false,
-          "expected_points": 0.41869852163108506,
+          "expected_points": 0.4271277486054956,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3624,140 +3624,6 @@
       "projected_rank": 27
     },
     {
-      "owner": "Tranzoo",
-      "name": "Shakalaka",
-      "actual_points": 9.0,
-      "actual_round": 0.0,
-      "projected_points": 12.420908596943885,
-      "projected_round": 3.4209085969438857,
-      "left": 7,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "Unknownprodigy",
-          "status": "pending",
-          "rating": 2282,
-          "decided_without_play": false,
-          "expected_points": 0.3895975779053109,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:rajuppi:unknownprodigy",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Hanzo_19",
-          "status": "pending",
-          "rating": 2084,
-          "decided_without_play": false,
-          "expected_points": 0.47842666694885455,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:fyrox96:hanzo_19",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Ciraid",
-          "status": "pending",
-          "rating": 1986,
-          "decided_without_play": false,
-          "expected_points": 0.3909673965957604,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:alexgaul:ciraid",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "KirkD",
-          "status": "pending",
-          "rating": 1910,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:blazedandconfused:kirkd",
-          "season_points": 0.5,
-          "season_games": 2
-        },
-        {
-          "handle": "MarekW78",
-          "status": "pending",
-          "rating": 1862,
-          "decided_without_play": false,
-          "expected_points": 0.4769904127024377,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:joonaf:marekw78",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Lotus_62",
-          "status": "pending",
-          "rating": 1775,
-          "decided_without_play": false,
-          "expected_points": 0.5952430396515719,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:lotus_62:makemymove",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "PatrickVrielink",
-          "status": "pending",
-          "rating": 1700,
-          "decided_without_play": false,
-          "expected_points": 0.5896835031399501,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/bhO9J5qO",
-          "game_link_kind": "live",
-          "round_game": "3:ekramymedad:patrickvrielink",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "Ezze_13",
-          "status": "unpaired",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 0.5,
-          "season_games": 2
-        }
-      ],
-      "projected_rank": 28
-    },
-    {
       "owner": "berndwind",
       "name": "Sweet perfection",
       "actual_points": 9.0,
@@ -3889,7 +3755,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 29
+      "projected_rank": 28
     },
     {
       "owner": "gary0892",
@@ -4023,7 +3889,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 30
+      "projected_rank": 29
     },
     {
       "owner": "GlennJamesMax",
@@ -4157,7 +4023,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 31
+      "projected_rank": 30
     },
     {
       "owner": "cinemashow",
@@ -4291,7 +4157,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 32
+      "projected_rank": 31
     },
     {
       "owner": "somerapidplayer",
@@ -4425,7 +4291,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 33
+      "projected_rank": 32
     },
     {
       "owner": "Oachkatzerlschwoaf",
@@ -4556,6 +4422,140 @@
           "game_link_kind": "live",
           "round_game": "3:apidae:nightsub",
           "season_points": 1.5,
+          "season_games": 2
+        }
+      ],
+      "projected_rank": 33
+    },
+    {
+      "owner": "Tranzoo",
+      "name": "Shakalaka",
+      "actual_points": 9.0,
+      "actual_round": 0.0,
+      "projected_points": 11.831225093803935,
+      "projected_round": 2.8312250938039356,
+      "left": 6,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "Unknownprodigy",
+          "status": "pending",
+          "rating": 2282,
+          "decided_without_play": false,
+          "expected_points": 0.3895975779053109,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:rajuppi:unknownprodigy",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Hanzo_19",
+          "status": "pending",
+          "rating": 2084,
+          "decided_without_play": false,
+          "expected_points": 0.47842666694885455,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:fyrox96:hanzo_19",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Ciraid",
+          "status": "pending",
+          "rating": 1986,
+          "decided_without_play": false,
+          "expected_points": 0.3909673965957604,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:alexgaul:ciraid",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "KirkD",
+          "status": "pending",
+          "rating": 1910,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:blazedandconfused:kirkd",
+          "season_points": 0.5,
+          "season_games": 2
+        },
+        {
+          "handle": "MarekW78",
+          "status": "pending",
+          "rating": 1862,
+          "decided_without_play": false,
+          "expected_points": 0.4769904127024377,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:joonaf:marekw78",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Lotus_62",
+          "status": "pending",
+          "rating": 1775,
+          "decided_without_play": false,
+          "expected_points": 0.5952430396515719,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:lotus_62:makemymove",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "PatrickVrielink",
+          "status": "lost",
+          "rating": 1693,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/bhO9J5qO",
+          "game_link_kind": "recent",
+          "round_game": "3:ekramymedad:patrickvrielink",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Ezze_13",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 0.5,
           "season_games": 2
         }
       ],
@@ -8852,6 +8852,14 @@
   ],
   "league_teams": [
     {
+      "name": "Operation Pawnstorm",
+      "projected": 4.898376595502704,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "100 Suggestions You Must Know",
       "projected": 4.853988858150186,
       "actual": 0.0,
@@ -8910,14 +8918,6 @@
     {
       "name": "The horsey don't belong here",
       "projected": 4.314488634588566,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Operation Pawnstorm",
-      "projected": 4.308693092362754,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9013,7 +9013,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.082120772668345,
+      "projected": 4.0905499996427555,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9117,7 +9117,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.9178792273316545,
+      "projected": 3.909450000357244,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9212,14 +9212,6 @@
       "eligible": false
     },
     {
-      "name": "fifty shades of black and white",
-      "projected": 3.691306907637246,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
       "projected": 3.6855113654114353,
       "actual": 0.0,
@@ -9281,6 +9273,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "fifty shades of black and white",
+      "projected": 3.1016234044972957,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     }
   ],
