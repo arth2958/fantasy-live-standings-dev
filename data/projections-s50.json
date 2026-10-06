@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 1,
-  "updated_at": "2026-10-06T17:35:52.536183Z",
+  "updated_at": "2026-10-06T17:51:09.238090Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 4.147644924426591,
+      "projected": 4.147644924426592,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
