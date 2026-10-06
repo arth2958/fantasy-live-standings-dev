@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 3,
-  "updated_at": "2026-10-06T16:02:48.560786Z",
+  "updated_at": "2026-10-06T16:25:09.486321Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.853988858150187,
+      "projected": 4.853988858150186,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 3.9898648225602575,
+      "projected": 3.989864822560257,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.1460111418498133,
+      "projected": 3.146011141849814,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
