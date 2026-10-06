@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-06T22:36:36.266940Z",
+  "updated_at": "2026-10-06T22:49:52.086119Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.853988858150186,
+      "projected": 4.853988858150187,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.146011141849814,
+      "projected": 3.1460111418498133,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
