@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-06T02:21:29.396929Z",
+  "updated_at": "2026-10-06T02:38:13.012739Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.958883718975688,
+      "projected": 3.958883718975687,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
