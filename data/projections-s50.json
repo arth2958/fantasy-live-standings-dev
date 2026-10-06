@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-06T10:39:27.904000Z",
+  "updated_at": "2026-10-06T11:00:49.862892Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8964,6 +8964,14 @@
       "eligible": false
     },
     {
+      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "projected": 4.165618092144823,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "Not all who blunder are lost",
       "projected": 4.147644924426591,
       "actual": 0.0,
@@ -9022,14 +9030,6 @@
     {
       "name": "Illiterate Alliteration Explorers",
       "projected": 4.04814535250641,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.043207523149293,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9100,14 +9100,6 @@
       "eligible": false
     },
     {
-      "name": "Knights of the Round Tablebase",
-      "projected": 3.9567924768507075,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "50-50 my next move is a blunder",
       "projected": 3.95185464749359,
       "actual": 0.0,
@@ -9166,6 +9158,14 @@
     {
       "name": "Inexplicable Fianchetto Agenda",
       "projected": 3.8523550755734086,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Knights of the Round Tablebase",
+      "projected": 3.8343819078551777,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
