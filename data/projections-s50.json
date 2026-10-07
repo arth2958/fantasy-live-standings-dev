@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-07T20:01:37.512939Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-07T20:23:21.503081Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6706,140 +6706,6 @@
       "projected_rank": 50
     },
     {
-      "owner": "Acebulf",
-      "name": "The chonkers",
-      "actual_points": 6.5,
-      "actual_round": 0.0,
-      "projected_points": 9.921876931677057,
-      "projected_round": 3.421876931677056,
-      "left": 7,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "betolini",
-          "status": "pending",
-          "rating": 2314,
-          "decided_without_play": false,
-          "expected_points": 0.6117705007810643,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:betolini:chatakkuma",
-          "season_points": 1.0,
-          "season_games": 1
-        },
-        {
-          "handle": "far1108",
-          "status": "pending",
-          "rating": 2059,
-          "decided_without_play": false,
-          "expected_points": 0.4640840730548977,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/fKGqpH3b",
-          "game_link_kind": "live",
-          "round_game": "3:far1108:hagia_sophia",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "berndwind",
-          "status": "pending",
-          "rating": 2011,
-          "decided_without_play": false,
-          "expected_points": 0.5601501452319029,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:berndwind:nermin_dedovic",
-          "season_points": 0.5,
-          "season_games": 1
-        },
-        {
-          "handle": "waterlorda7890",
-          "status": "pending",
-          "rating": 1975,
-          "decided_without_play": false,
-          "expected_points": 0.5143871841659986,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:gidged:waterlorda7890",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "TristanBrown17",
-          "status": "unpaired",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Acebulf",
-          "status": "pending",
-          "rating": 1735,
-          "decided_without_play": false,
-          "expected_points": 0.46981531999609794,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:acebulf:its_ck",
-          "season_points": 0.0,
-          "season_games": 3
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "status": "pending",
-          "rating": 1650,
-          "decided_without_play": false,
-          "expected_points": 0.5014391117091529,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:cosmoaps:pineapplechiffoncake",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "mongreltiger",
-          "status": "pending",
-          "rating": 1463,
-          "decided_without_play": false,
-          "expected_points": 0.3002305967379419,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:mongreltiger:tomb85",
-          "season_points": 1.0,
-          "season_games": 2
-        }
-      ],
-      "projected_rank": 51
-    },
-    {
       "owner": "MatthewKCanada",
       "name": "Order of the Knights Who Say \"Ni!\"",
       "actual_points": 7.0,
@@ -6971,7 +6837,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 52
+      "projected_rank": 51
     },
     {
       "owner": "AACtrl",
@@ -7105,7 +6971,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 53
+      "projected_rank": 52
     },
     {
       "owner": "Sussasun",
@@ -7239,7 +7105,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 54
+      "projected_rank": 53
     },
     {
       "owner": "EnPriseWithEase",
@@ -7370,6 +7236,140 @@
           "game_link_kind": null,
           "round_game": "3:martindanielsson:welshkebab",
           "season_points": 0.0,
+          "season_games": 2
+        }
+      ],
+      "projected_rank": 54
+    },
+    {
+      "owner": "Acebulf",
+      "name": "The chonkers",
+      "actual_points": 6.5,
+      "actual_round": 0.0,
+      "projected_points": 9.45779285862216,
+      "projected_round": 2.9577928586221587,
+      "left": 6,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "betolini",
+          "status": "pending",
+          "rating": 2314,
+          "decided_without_play": false,
+          "expected_points": 0.6117705007810643,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:betolini:chatakkuma",
+          "season_points": 1.0,
+          "season_games": 1
+        },
+        {
+          "handle": "far1108",
+          "status": "lost",
+          "rating": 2041,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/fKGqpH3b",
+          "game_link_kind": "recent",
+          "round_game": "3:far1108:hagia_sophia",
+          "season_points": 1.0,
+          "season_games": 3
+        },
+        {
+          "handle": "berndwind",
+          "status": "pending",
+          "rating": 2011,
+          "decided_without_play": false,
+          "expected_points": 0.5601501452319029,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:berndwind:nermin_dedovic",
+          "season_points": 0.5,
+          "season_games": 1
+        },
+        {
+          "handle": "waterlorda7890",
+          "status": "pending",
+          "rating": 1975,
+          "decided_without_play": false,
+          "expected_points": 0.5143871841659986,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:gidged:waterlorda7890",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "TristanBrown17",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Acebulf",
+          "status": "pending",
+          "rating": 1735,
+          "decided_without_play": false,
+          "expected_points": 0.46981531999609794,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:acebulf:its_ck",
+          "season_points": 0.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "status": "pending",
+          "rating": 1650,
+          "decided_without_play": false,
+          "expected_points": 0.5014391117091529,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:cosmoaps:pineapplechiffoncake",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "mongreltiger",
+          "status": "pending",
+          "rating": 1463,
+          "decided_without_play": false,
+          "expected_points": 0.3002305967379419,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:mongreltiger:tomb85",
+          "season_points": 1.0,
           "season_games": 2
         }
       ],
@@ -8860,6 +8860,14 @@
       "eligible": false
     },
     {
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 4.867474804039883,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "50 Ways to Fork Your Lover",
       "projected": 4.714140156504609,
       "actual": 1.0,
@@ -8905,14 +8913,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 4.403390730984985,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
       "eligible": false
     },
     {
@@ -9220,14 +9220,6 @@
       "eligible": false
     },
     {
-      "name": "Riding with the King",
-      "projected": 3.5966092690150147,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "Fork You Very Much",
       "projected": 3.5928449594125054,
       "actual": 0.5,
@@ -9273,6 +9265,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "Riding with the King",
+      "projected": 3.132525195960117,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
