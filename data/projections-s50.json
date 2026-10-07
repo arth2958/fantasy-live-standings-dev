@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-07T03:41:17.813868Z",
+  "updated_at": "2026-10-07T04:01:14.651744Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 4.314162429651217,
+      "projected": 4.318403007855887,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.6858375703487827,
+      "projected": 3.6815969921441134,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
