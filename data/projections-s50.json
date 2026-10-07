@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-07T03:00:48.800555Z",
+  "updated_at": "2026-10-07T03:23:33.262118Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5638,8 +5638,8 @@
       "name": "Rushing picker",
       "actual_points": 8.0,
       "actual_round": 1.0,
-      "projected_points": 10.654737273467262,
-      "projected_round": 3.654737273467263,
+      "projected_points": 10.667659429038789,
+      "projected_round": 3.667659429038789,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -5737,9 +5737,9 @@
         {
           "handle": "Bortvinik",
           "status": "pending",
-          "rating": 1690,
+          "rating": 1699,
           "decided_without_play": false,
-          "expected_points": 0.5172625244323762,
+          "expected_points": 0.5301846800039021,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -9021,7 +9021,15 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.0905499996427555,
+      "projected": 4.0776278440712295,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Leningrad School of Blunders",
+      "projected": 4.070937901357936,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9030,14 +9038,6 @@
     {
       "name": "Illiterate Alliteration Explorers",
       "projected": 4.04814535250641,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Leningrad School of Blunders",
-      "projected": 4.04674563944126,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9092,14 +9092,6 @@
       "eligible": false
     },
     {
-      "name": "The kannjuring",
-      "projected": 3.9532543605587396,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "50-50 my next move is a blunder",
       "projected": 3.95185464749359,
       "actual": 0.0,
@@ -9108,8 +9100,16 @@
       "eligible": false
     },
     {
+      "name": "The kannjuring",
+      "projected": 3.9290620986420643,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "Silk Road Sacrifices",
-      "projected": 3.909450000357244,
+      "projected": 3.92237215592877,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
