@@ -1,13 +1,13 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-07T02:22:20.240331Z",
+  "updated_at": "2026-10-07T02:38:48.237731Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
   },
   "method": "Everyone starts at 0 until round 1 pairings are published. Points from live pairings; ties: points per game, then lowest total team price.",
-  "pairings_parsed": 432,
+  "pairings_parsed": 447,
   "popular": [
     {
       "board": 1,
@@ -65,9 +65,9 @@
       "total": 15967,
       "points": 12.5,
       "games": 17,
-      "round_games": 9,
-      "round_scheduled": 9,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 8,
+      "games_left": 8,
       "ppg": 0.7352941176470589,
       "roster": [
         {
@@ -129,10 +129,906 @@
         },
         {
           "round": 3,
+          "points": 0.0,
+          "finished": 0,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "guitarspider",
+      "name": "and all I got was this lousy team name",
+      "total": 15051,
+      "points": 11.0,
+      "games": 16,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.6875,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "berndwind",
+          "points": 0.5,
+          "games": 1
+        },
+        {
+          "handle": "Lou-E",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "pykkis",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "fulmarsky",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "macha1313",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 2,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 6.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 6,
+          "paired": 6,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "Pineapplechiffoncake",
+      "name": "Hedgehogs, Hippos, and Effin' Birds",
+      "total": 15995,
+      "points": 11.0,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.6875,
+      "roster": [
+        {
+          "handle": "Silkthewanderer",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Astronominoff",
+          "points": 0.0,
+          "games": 1
+        },
+        {
+          "handle": "Warvold",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "robertjackson",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "patk74",
+          "points": 3.0,
+          "games": 3
+        },
+        {
+          "handle": "RBorja1980",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "HighonPotnuse",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "FranconianChess",
+          "points": 0.5,
+          "games": 2
+        }
+      ],
+      "rank": 3,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "bufferunderrun",
+      "name": "Peter's Pan, duh!",
+      "total": 15330,
+      "points": 11.0,
+      "games": 18,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.6111111111111112,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Jg777",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "MrScribbles",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "TristanBrown17",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "cinemashow",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "cham",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "macha1313",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 4,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 5.0,
+          "finished": 9,
+          "paired": 9,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "ecoarrivazumashoomzo",
+      "name": "Freed From The Sire",
+      "total": 15845,
+      "points": 10.5,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.65625,
+      "roster": [
+        {
+          "handle": "Mennonite",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "berndwind",
+          "points": 0.5,
+          "games": 1
+        },
+        {
+          "handle": "ecoarrivazumashoomzo",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "MarekW78",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "jfiras",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Marco_Chess13",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "jcarmody",
+          "points": 2.0,
+          "games": 2
+        }
+      ],
+      "rank": 5,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "Feet_barbie",
+      "name": "here to beat gary0892",
+      "total": 15916,
+      "points": 10.5,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.65625,
+      "roster": [
+        {
+          "handle": "Leverkuhn",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "berndwind",
+          "points": 0.5,
+          "games": 1
+        },
+        {
+          "handle": "ecoarrivazumashoomzo",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "pepepibote",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "cinemashow",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "fulmarsky",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "electricfalcon",
+          "points": 2.0,
+          "games": 2
+        }
+      ],
+      "rank": 6,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "Bennol",
+      "name": "Candidudes",
+      "total": 14910,
+      "points": 10.5,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.6176470588235294,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Bennol",
+          "points": 0.5,
+          "games": 2
+        },
+        {
+          "handle": "M0r1",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "TristanBrown17",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "UpGoerFive",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "cham",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "macha1313",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 7,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 4.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "MilsBees",
+      "name": "Mils Bee Hive",
+      "total": 15661,
+      "points": 10.5,
+      "games": 17,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.6176470588235294,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "MilsBees",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Jg777",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "NirakuHakamura",
+          "points": 1.0,
+          "games": 3
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "RBorja1980",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "fulmarsky",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "mongreltiger",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 8,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "mynameismund",
+      "name": "Players who will play all 8 games.",
+      "total": 15956,
+      "points": 10.5,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.6176470588235294,
+      "roster": [
+        {
+          "handle": "Mennonite",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "NameGoesInHere",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "gavalanche20",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "mynameismund",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Rolihlahla",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "lewinberg",
+          "points": 1.5,
+          "games": 3
+        },
+        {
+          "handle": "HighonPotnuse",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "jcarmody",
+          "points": 2.0,
+          "games": 2
+        }
+      ],
+      "rank": 9,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -176,11 +1072,11 @@
       "name": "Don't panic, it's 42 in duodecimal.",
       "total": 15987,
       "points": 10.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.65625,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.6176470588235294,
       "roster": [
         {
           "handle": "Silkthewanderer",
@@ -205,7 +1101,7 @@
         {
           "handle": "fork2020",
           "points": 2.0,
-          "games": 2
+          "games": 3
         },
         {
           "handle": "cinemashow",
@@ -223,7 +1119,7 @@
           "games": 2
         }
       ],
-      "rank": 2,
+      "rank": 10,
       "round_scores": [
         {
           "round": 1,
@@ -241,10 +1137,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -284,15 +1180,128 @@
       ]
     },
     {
-      "owner": "guitarspider",
-      "name": "and all I got was this lousy team name",
-      "total": 15051,
-      "points": 10.0,
-      "games": 14,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
-      "ppg": 0.7142857142857143,
+      "owner": "tastypotatohead",
+      "name": "Twice the Risk, Twice the Output (hopefully)",
+      "total": 15915,
+      "points": 10.5,
+      "games": 19,
+      "round_games": 3,
+      "round_scheduled": 7,
+      "games_left": 4,
+      "ppg": 0.5526315789473685,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "bufferunderrun",
+          "points": 0.0,
+          "games": 3
+        },
+        {
+          "handle": "cowtone",
+          "points": 2.5,
+          "games": 3
+        },
+        {
+          "handle": "MrScribbles",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "mkubecek",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "cham",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "angborxley",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 11,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.5,
+          "finished": 3,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "popularity",
+      "name": "Most Popular Players Team",
+      "bot": true,
+      "total": 17216,
+      "points": 10.5,
+      "games": 19,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.5526315789473685,
       "roster": [
         {
           "handle": "rio2018",
@@ -301,45 +1310,45 @@
         },
         {
           "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Jg777",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "berndwind",
-          "points": 0.5,
-          "games": 1
-        },
-        {
-          "handle": "Lou-E",
-          "points": 2.0,
+          "handle": "ecoarrivazumashoomzo",
+          "points": 1.0,
           "games": 2
         },
         {
           "handle": "fork2020",
           "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "cinemashow",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "points": 0.0,
           "games": 2
         },
         {
-          "handle": "pykkis",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "fulmarsky",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "macha1313",
+          "handle": "mongreltiger",
           "points": 1.0,
           "games": 2
         }
       ],
-      "rank": 3,
+      "rank": 12,
       "round_scores": [
         {
           "round": 1,
-          "points": 6.0,
+          "points": 5.5,
           "finished": 8,
           "paired": 8,
           "state": "final"
@@ -347,16 +1356,16 @@
         {
           "round": 2,
           "points": 4.0,
-          "finished": 6,
-          "paired": 6,
+          "finished": 9,
+          "paired": 9,
           "state": "final"
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -401,9 +1410,9 @@
       "total": 15920,
       "points": 10.0,
       "games": 14,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.7142857142857143,
       "roster": [
         {
@@ -447,7 +1456,7 @@
           "games": 2
         }
       ],
-      "rank": 4,
+      "rank": 13,
       "round_scores": [
         {
           "round": 1,
@@ -465,10 +1474,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -513,9 +1522,9 @@
       "total": 15977,
       "points": 10.0,
       "games": 15,
-      "round_games": 7,
+      "round_games": 0,
       "round_scheduled": 7,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.6666666666666666,
       "roster": [
         {
@@ -559,7 +1568,7 @@
           "games": 2
         }
       ],
-      "rank": 5,
+      "rank": 14,
       "round_scores": [
         {
           "round": 1,
@@ -577,122 +1586,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Pineapplechiffoncake",
-      "name": "Hedgehogs, Hippos, and Effin' Birds",
-      "total": 15995,
-      "points": 10.0,
-      "games": 15,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.6666666666666666,
-      "roster": [
-        {
-          "handle": "Silkthewanderer",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Astronominoff",
-          "points": 0.0,
-          "games": 1
-        },
-        {
-          "handle": "Warvold",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "robertjackson",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "patk74",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "RBorja1980",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "HighonPotnuse",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "FranconianChess",
-          "points": 0.5,
-          "games": 2
-        }
-      ],
-      "rank": 6,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.0,
-          "finished": 7,
+          "finished": 0,
           "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -737,9 +1634,9 @@
       "total": 15891,
       "points": 10.0,
       "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.625,
       "roster": [
         {
@@ -783,7 +1680,7 @@
           "games": 2
         }
       ],
-      "rank": 7,
+      "rank": 15,
       "round_scores": [
         {
           "round": 1,
@@ -801,10 +1698,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -844,79 +1741,79 @@
       ]
     },
     {
-      "owner": "tastypotatohead",
-      "name": "Twice the Risk, Twice the Output (hopefully)",
-      "total": 15915,
+      "owner": "tomb85",
+      "name": "50 reasons to give fantasy a try",
+      "total": 15977,
       "points": 10.0,
       "games": 16,
-      "round_games": 8,
+      "round_games": 1,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.625,
       "roster": [
         {
-          "handle": "rio2018",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "bufferunderrun",
+          "handle": "Silkthewanderer",
           "points": 0.0,
           "games": 2
         },
         {
-          "handle": "cowtone",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "MrScribbles",
+          "handle": "Alikadhim2",
           "points": 1.5,
           "games": 2
         },
         {
-          "handle": "fork2020",
-          "points": 2.0,
+          "handle": "titusalone91",
+          "points": 1.5,
           "games": 2
         },
         {
-          "handle": "mkubecek",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "cham",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "angborxley",
+          "handle": "McStudly",
           "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "patk74",
+          "points": 3.0,
+          "games": 3
+        },
+        {
+          "handle": "kostasvl",
+          "points": 0.0,
+          "games": 1
+        },
+        {
+          "handle": "Rehbein",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "jcarmody",
+          "points": 2.0,
           "games": 2
         }
       ],
-      "rank": 8,
+      "rank": 16,
       "round_scores": [
         {
           "round": 1,
-          "points": 5.0,
+          "points": 6.0,
           "finished": 8,
           "paired": 8,
           "state": "final"
         },
         {
           "round": 2,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
+          "points": 3.0,
+          "finished": 7,
+          "paired": 7,
           "state": "final"
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -960,11 +1857,11 @@
       "name": "I have horsey vibes again, therefore gary0892",
       "total": 15956,
       "points": 10.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.625,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.5882352941176471,
       "roster": [
         {
           "handle": "JEEprep2374",
@@ -1004,10 +1901,10 @@
         {
           "handle": "nightsub",
           "points": 0.5,
-          "games": 2
+          "games": 3
         }
       ],
-      "rank": 9,
+      "rank": 17,
       "round_scores": [
         {
           "round": 1,
@@ -1025,10 +1922,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -1068,239 +1965,127 @@
       ]
     },
     {
-      "owner": "bufferunderrun",
-      "name": "Peter's Pan, duh!",
-      "total": 15330,
+      "owner": "Bxvrc2lh",
+      "name": "AngrySwedes",
+      "total": 15997,
       "points": 10.0,
-      "games": 17,
-      "round_games": 9,
-      "round_scheduled": 9,
-      "games_left": 0,
-      "ppg": 0.5882352941176471,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Jg777",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "MrScribbles",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "TristanBrown17",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "cinemashow",
-          "points": 2.0,
-          "games": 3
-        },
-        {
-          "handle": "cham",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "macha1313",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 10,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 5.0,
-          "finished": 9,
-          "paired": 9,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "MilsBees",
-      "name": "Mils Bee Hive",
-      "total": 15661,
-      "points": 9.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.6333333333333333,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "MilsBees",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Jg777",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "NirakuHakamura",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "fork2020",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "RBorja1980",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "fulmarsky",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "mongreltiger",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 11,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Lordziax",
-      "name": "I just pressed some buttons and this is what happened",
-      "total": 15739,
-      "points": 9.5,
-      "games": 15,
-      "round_games": 8,
+      "games": 18,
+      "round_games": 2,
       "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.6333333333333333,
+      "games_left": 6,
+      "ppg": 0.5555555555555556,
+      "roster": [
+        {
+          "handle": "chatakkuma",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Warvold",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "ecoarrivazumashoomzo",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "glbert",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "kyriakos1301",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "jd0972",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "f1re_bunny",
+          "points": 0.0,
+          "games": 3
+        }
+      ],
+      "rank": 18,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 4.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "somerapidplayer",
+      "name": "i just picked the first names i saw",
+      "total": 15971,
+      "points": 9.5,
+      "games": 14,
+      "round_games": 1,
+      "round_scheduled": 6,
+      "games_left": 5,
+      "ppg": 0.6785714285714286,
       "roster": [
         {
           "handle": "rio2018",
@@ -1308,272 +2093,48 @@
           "games": 2
         },
         {
-          "handle": "Lordziax",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Fischer_and_Chips88",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "M0r1",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "diecast_illusion",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Nubro",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Lexgrad",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "GLAYGHOST",
-          "points": 0.5,
-          "games": 2
-        }
-      ],
-      "rank": 12,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 3.5,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 6.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "ecoarrivazumashoomzo",
-      "name": "Freed From The Sire",
-      "total": 15845,
-      "points": 9.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.6333333333333333,
-      "roster": [
-        {
-          "handle": "Mennonite",
-          "points": 0.0,
-          "games": 2
-        },
-        {
           "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "berndwind",
-          "points": 0.5,
-          "games": 1
-        },
-        {
-          "handle": "ecoarrivazumashoomzo",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "MarekW78",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "jfiras",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Marco_Chess13",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "jcarmody",
-          "points": 2.0,
-          "games": 2
-        }
-      ],
-      "rank": 13,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Feet_barbie",
-      "name": "here to beat gary0892",
-      "total": 15916,
-      "points": 9.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.6333333333333333,
-      "roster": [
-        {
-          "handle": "Leverkuhn",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "berndwind",
-          "points": 0.5,
-          "games": 1
-        },
-        {
-          "handle": "ecoarrivazumashoomzo",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "pepepibote",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "cinemashow",
           "points": 2.0,
           "games": 3
         },
         {
-          "handle": "fulmarsky",
+          "handle": "rustyvm",
           "points": 1.0,
           "games": 1
         },
         {
-          "handle": "electricfalcon",
+          "handle": "TheDifferenceOfTier5",
+          "points": 0.0,
+          "games": 0
+        },
+        {
+          "handle": "Rolihlahla",
           "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "PratikBora",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "mqll",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "K5KGC",
+          "points": 1.0,
           "games": 2
         }
       ],
-      "rank": 14,
+      "rank": 19,
       "round_scores": [
         {
           "round": 1,
-          "points": 5.5,
-          "finished": 8,
-          "paired": 8,
+          "points": 4.5,
+          "finished": 6,
+          "paired": 6,
           "state": "final"
         },
         {
@@ -1585,10 +2146,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 1.0,
+          "finished": 1,
+          "paired": 6,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -1633,9 +2194,9 @@
       "total": 16000,
       "points": 9.5,
       "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 8,
+      "games_left": 8,
       "ppg": 0.6333333333333333,
       "roster": [
         {
@@ -1679,7 +2240,7 @@
           "games": 2
         }
       ],
-      "rank": 15,
+      "rank": 20,
       "round_scores": [
         {
           "round": 1,
@@ -1697,10 +2258,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -1740,14 +2301,14 @@
       ]
     },
     {
-      "owner": "Bennol",
-      "name": "Candidudes",
-      "total": 14910,
+      "owner": "Lordziax",
+      "name": "I just pressed some buttons and this is what happened",
+      "total": 15739,
       "points": 9.5,
       "games": 16,
-      "round_games": 8,
+      "round_games": 1,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.59375,
       "roster": [
         {
@@ -1756,272 +2317,48 @@
           "games": 2
         },
         {
-          "handle": "Feet_Barbie",
+          "handle": "Lordziax",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "Bennol",
+          "handle": "Fischer_and_Chips88",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "M0r1",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "diecast_illusion",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "Nubro",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Lexgrad",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "GLAYGHOST",
           "points": 0.5,
           "games": 2
-        },
-        {
-          "handle": "M0r1",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "TristanBrown17",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "UpGoerFive",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "cham",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "macha1313",
-          "points": 1.0,
-          "games": 2
         }
       ],
-      "rank": 16,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "cinemashow",
-      "name": "Can they do it on a cold wet windy night in Stoke?",
-      "total": 15703,
-      "points": 9.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.59375,
-      "roster": [
-        {
-          "handle": "Duty5521",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "bufferunderrun",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "scarff",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "M0r1",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "fork2020",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Lotus_62",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "mongreltiger",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 17,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "GoldenRetrieverChess",
-      "name": "Frank & George’s S50 Celebration Squad",
-      "total": 15725,
-      "points": 9.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.59375,
-      "roster": [
-        {
-          "handle": "alp_arslan92",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "yellorambo",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Jg777",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "simonWasHere",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "fork2020",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "KamagayaJiji",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "jdw10",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "macha1313",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 18,
+      "rank": 21,
       "round_scores": [
         {
           "round": 1,
           "points": 3.5,
-          "finished": 8,
-          "paired": 8,
+          "finished": 7,
+          "paired": 7,
           "state": "final"
         },
         {
@@ -2033,10 +2370,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2081,9 +2418,9 @@
       "total": 15758,
       "points": 9.5,
       "games": 16,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.59375,
       "roster": [
         {
@@ -2127,7 +2464,7 @@
           "games": 2
         }
       ],
-      "rank": 19,
+      "rank": 22,
       "round_scores": [
         {
           "round": 1,
@@ -2145,122 +2482,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "alp_arslan92",
-      "name": "The Brave Lions",
-      "total": 15769,
-      "points": 9.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.59375,
-      "roster": [
-        {
-          "handle": "alp_arslan92",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "LloydRet",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "AlexGaul",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "schittering06",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "fork2020",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "prostidude",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "baberle",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "mongreltiger",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 20,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 6.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2305,9 +2530,9 @@
       "total": 15940,
       "points": 9.5,
       "games": 16,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.59375,
       "roster": [
         {
@@ -2351,7 +2576,7 @@
           "games": 2
         }
       ],
-      "rank": 21,
+      "rank": 23,
       "round_scores": [
         {
           "round": 1,
@@ -2369,10 +2594,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2412,136 +2637,23 @@
       ]
     },
     {
-      "owner": "mynameismund",
-      "name": "Players who will play all 8 games.",
-      "total": 15956,
+      "owner": "GoldenRetrieverChess",
+      "name": "Frank & George’s S50 Celebration Squad",
+      "total": 15725,
       "points": 9.5,
-      "games": 16,
-      "round_games": 8,
+      "games": 17,
+      "round_games": 1,
       "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.59375,
+      "games_left": 7,
+      "ppg": 0.5588235294117647,
       "roster": [
         {
-          "handle": "Mennonite",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "NameGoesInHere",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "gavalanche20",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "mynameismund",
+          "handle": "alp_arslan92",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "Rolihlahla",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "lewinberg",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "HighonPotnuse",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "jcarmody",
-          "points": 2.0,
-          "games": 2
-        }
-      ],
-      "rank": 22,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "popularity",
-      "name": "Most Popular Players Team",
-      "bot": true,
-      "total": 17216,
-      "points": 9.5,
-      "games": 17,
-      "round_games": 9,
-      "round_scheduled": 9,
-      "games_left": 0,
-      "ppg": 0.5588235294117647,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
+          "handle": "yellorambo",
           "points": 1.0,
           "games": 2
         },
@@ -2551,19 +2663,356 @@
           "games": 2
         },
         {
-          "handle": "ecoarrivazumashoomzo",
-          "points": 1.0,
+          "handle": "simonWasHere",
+          "points": 1.5,
           "games": 2
         },
         {
           "handle": "fork2020",
           "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "KamagayaJiji",
+          "points": 1.0,
           "games": 2
         },
         {
-          "handle": "cinemashow",
+          "handle": "jdw10",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "macha1313",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 24,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 6.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "alp_arslan92",
+      "name": "The Brave Lions",
+      "total": 15769,
+      "points": 9.5,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.5588235294117647,
+      "roster": [
+        {
+          "handle": "alp_arslan92",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "LloydRet",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "AlexGaul",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "schittering06",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
           "points": 2.0,
           "games": 3
+        },
+        {
+          "handle": "prostidude",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "baberle",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "mongreltiger",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 25,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 6.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 3.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "On the dot",
+      "name": "A random 16,000 Team",
+      "bot": true,
+      "total": 16000,
+      "points": 9.5,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.5588235294117647,
+      "roster": [
+        {
+          "handle": "BicKedag",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "NameGoesInHere",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "aloo_bhaloo",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "schittering06",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "Anupam1213",
+          "points": 2.5,
+          "games": 3
+        },
+        {
+          "handle": "Rusty_2003",
+          "points": 0.5,
+          "games": 2
+        },
+        {
+          "handle": "Vayne987",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "AthenianKnight",
+          "points": 0.0,
+          "games": 2
+        }
+      ],
+      "rank": 26,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 4.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.5,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "cinemashow",
+      "name": "Can they do it on a cold wet windy night in Stoke?",
+      "total": 15703,
+      "points": 9.5,
+      "games": 18,
+      "round_games": 2,
+      "round_scheduled": 7,
+      "games_left": 5,
+      "ppg": 0.5277777777777778,
+      "roster": [
+        {
+          "handle": "Duty5521",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "bufferunderrun",
+          "points": 0.0,
+          "games": 3
+        },
+        {
+          "handle": "scarff",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "M0r1",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Lotus_62",
+          "points": 1.5,
+          "games": 2
         },
         {
           "handle": "Pineapplechiffoncake",
@@ -2576,28 +3025,28 @@
           "games": 2
         }
       ],
-      "rank": 23,
+      "rank": 27,
       "round_scores": [
         {
           "round": 1,
-          "points": 5.5,
+          "points": 4.5,
           "finished": 8,
           "paired": 8,
           "state": "final"
         },
         {
           "round": 2,
-          "points": 4.0,
-          "finished": 9,
-          "paired": 9,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
           "state": "final"
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.0,
+          "finished": 2,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2637,79 +3086,191 @@
       ]
     },
     {
-      "owner": "Tactix47",
-      "name": "TheChosenOnes",
-      "total": 15994,
-      "points": 9.0,
-      "games": 13,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
-      "ppg": 0.6923076923076923,
+      "owner": "Oachkatzerlschwoaf",
+      "name": "trust in all, but myself",
+      "total": 15879,
+      "points": 9.5,
+      "games": 18,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.5277777777777778,
       "roster": [
         {
-          "handle": "Checkmate_Insurance",
+          "handle": "tommeketoch",
           "points": 0.5,
-          "games": 1
+          "games": 3
         },
         {
-          "handle": "j3084",
+          "handle": "Inter-temporal",
           "points": 0.0,
-          "games": 1
+          "games": 2
         },
         {
-          "handle": "lc69",
+          "handle": "Ciraid",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "ecoarrivazumashoomzo",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "MrScribbles",
+          "handle": "Bpack",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "JokicInator15",
           "points": 1.5,
           "games": 2
         },
         {
-          "handle": "fork2020",
+          "handle": "HighonPotnuse",
           "points": 2.0,
           "games": 2
         },
         {
-          "handle": "GoldenRetrieverChess",
+          "handle": "Apidae",
+          "points": 2.5,
+          "games": 3
+        }
+      ],
+      "rank": 28,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.5,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "NameGoesInHere",
+      "name": "Is this the real team? Is this just fantasy?",
+      "total": 15975,
+      "points": 9.5,
+      "games": 18,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.5277777777777778,
+      "roster": [
+        {
+          "handle": "tommeketoch",
+          "points": 0.5,
+          "games": 3
+        },
+        {
+          "handle": "akristjansson",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "burner_account17",
+          "handle": "Jg777",
           "points": 1.0,
-          "games": 1
+          "games": 2
         },
         {
-          "handle": "electricfalcon",
+          "handle": "serenemoose",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Joonaf",
           "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "cinemashow",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Kborman",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "angborxley",
+          "points": 1.0,
           "games": 2
         }
       ],
-      "rank": 24,
+      "rank": 29,
       "round_scores": [
         {
           "round": 1,
           "points": 5.5,
-          "finished": 7,
-          "paired": 7,
+          "finished": 8,
+          "paired": 8,
           "state": "final"
         },
         {
           "round": 2,
           "points": 3.5,
-          "finished": 6,
-          "paired": 6,
+          "finished": 9,
+          "paired": 9,
           "state": "final"
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.5,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2754,9 +3315,9 @@
       "total": 15806,
       "points": 9.0,
       "games": 14,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.6428571428571429,
       "roster": [
         {
@@ -2800,7 +3361,7 @@
           "games": 2
         }
       ],
-      "rank": 25,
+      "rank": 30,
       "round_scores": [
         {
           "round": 1,
@@ -2818,10 +3379,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2861,79 +3422,79 @@
       ]
     },
     {
-      "owner": "tomb85",
-      "name": "50 reasons to give fantasy a try",
-      "total": 15977,
+      "owner": "Tactix47",
+      "name": "TheChosenOnes",
+      "total": 15994,
       "points": 9.0,
-      "games": 15,
-      "round_games": 7,
+      "games": 14,
+      "round_games": 1,
       "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.6,
+      "games_left": 6,
+      "ppg": 0.6428571428571429,
       "roster": [
         {
-          "handle": "Silkthewanderer",
-          "points": 0.0,
-          "games": 2
+          "handle": "Checkmate_Insurance",
+          "points": 0.5,
+          "games": 1
         },
         {
-          "handle": "Alikadhim2",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "titusalone91",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "McStudly",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "patk74",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "kostasvl",
+          "handle": "j3084",
           "points": 0.0,
           "games": 1
         },
         {
-          "handle": "Rehbein",
+          "handle": "lc69",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "jcarmody",
+          "handle": "MrScribbles",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "GoldenRetrieverChess",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "burner_account17",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "electricfalcon",
           "points": 2.0,
           "games": 2
         }
       ],
-      "rank": 26,
+      "rank": 31,
       "round_scores": [
         {
           "round": 1,
-          "points": 6.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.0,
+          "points": 5.5,
           "finished": 7,
           "paired": 7,
           "state": "final"
         },
         {
+          "round": 2,
+          "points": 3.5,
+          "finished": 6,
+          "paired": 6,
+          "state": "final"
+        },
+        {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "points": 0.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -2978,9 +3539,9 @@
       "total": 15159,
       "points": 9.0,
       "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.5625,
       "roster": [
         {
@@ -3024,7 +3585,7 @@
           "games": 2
         }
       ],
-      "rank": 27,
+      "rank": 32,
       "round_scores": [
         {
           "round": 1,
@@ -3042,10 +3603,122 @@
         },
         {
           "round": 3,
+          "points": 0.0,
+          "finished": 0,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "Silkthewanderer",
+      "name": "Why does the king the largest of the pieces not simpy eat the other ones?",
+      "total": 15874,
+      "points": 9.0,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.5294117647058824,
+      "roster": [
+        {
+          "handle": "tommeketoch",
+          "points": 0.5,
+          "games": 3
+        },
+        {
+          "handle": "ben3536",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "aloo_bhaloo",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "MrScribbles",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "glbert",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "JokicInator15",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "MatthewKCanada",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "jcarmody",
+          "points": 2.0,
+          "games": 2
+        }
+      ],
+      "rank": 33,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 3.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.5,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -3089,11 +3762,11 @@
       "name": "Shakalaka",
       "total": 15935,
       "points": 9.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.5625,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.5294117647058824,
       "roster": [
         {
           "handle": "Unknownprodigy",
@@ -3128,7 +3801,7 @@
         {
           "handle": "PatrickVrielink",
           "points": 1.5,
-          "games": 2
+          "games": 3
         },
         {
           "handle": "Ezze_13",
@@ -3136,7 +3809,7 @@
           "games": 2
         }
       ],
-      "rank": 28,
+      "rank": 34,
       "round_scores": [
         {
           "round": 1,
@@ -3154,459 +3827,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Bxvrc2lh",
-      "name": "AngrySwedes",
-      "total": 15997,
-      "points": 9.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.5625,
-      "roster": [
-        {
-          "handle": "chatakkuma",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Warvold",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "ecoarrivazumashoomzo",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "glbert",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "kyriakos1301",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "jd0972",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "f1re_bunny",
           "points": 0.0,
-          "games": 2
-        }
-      ],
-      "rank": 29,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "On the dot",
-      "name": "A random 16,000 Team",
-      "bot": true,
-      "total": 16000,
-      "points": 9.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.5625,
-      "roster": [
-        {
-          "handle": "BicKedag",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "NameGoesInHere",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "aloo_bhaloo",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "schittering06",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Anupam1213",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Rusty_2003",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "Vayne987",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "AthenianKnight",
-          "points": 0.0,
-          "games": 2
-        }
-      ],
-      "rank": 30,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "NameGoesInHere",
-      "name": "Is this the real team? Is this just fantasy?",
-      "total": 15975,
-      "points": 9.0,
-      "games": 17,
-      "round_games": 9,
-      "round_scheduled": 9,
-      "games_left": 0,
-      "ppg": 0.5294117647058824,
-      "roster": [
-        {
-          "handle": "tommeketoch",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "akristjansson",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Jg777",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "serenemoose",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Joonaf",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "cinemashow",
-          "points": 2.0,
-          "games": 3
-        },
-        {
-          "handle": "Kborman",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "angborxley",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 31,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.5,
-          "finished": 9,
-          "paired": 9,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "somerapidplayer",
-      "name": "i just picked the first names i saw",
-      "total": 15971,
-      "points": 8.5,
-      "games": 13,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.6538461538461539,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "rustyvm",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "TheDifferenceOfTier5",
-          "points": 0.0,
-          "games": 0
-        },
-        {
-          "handle": "Rolihlahla",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "PratikBora",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "mqll",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "K5KGC",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 32,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.5,
-          "finished": 6,
-          "paired": 6,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.0,
-          "finished": 7,
+          "finished": 1,
           "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -3651,9 +3875,9 @@
       "total": 15398,
       "points": 8.5,
       "games": 14,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 8,
+      "games_left": 8,
       "ppg": 0.6071428571428571,
       "roster": [
         {
@@ -3697,7 +3921,7 @@
           "games": 2
         }
       ],
-      "rank": 33,
+      "rank": 35,
       "round_scores": [
         {
           "round": 1,
@@ -3715,10 +3939,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -3763,9 +3987,9 @@
       "total": 15355,
       "points": 8.5,
       "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.53125,
       "roster": [
         {
@@ -3809,7 +4033,7 @@
           "games": 2
         }
       ],
-      "rank": 34,
+      "rank": 36,
       "round_scores": [
         {
           "round": 1,
@@ -3827,10 +4051,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -3870,39 +4094,151 @@
       ]
     },
     {
-      "owner": "Silkthewanderer",
-      "name": "Why does the king the largest of the pieces not simpy eat the other ones?",
-      "total": 15874,
+      "owner": "mmkgtc",
+      "name": "in da fantasy club",
+      "total": 15401,
       "points": 8.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.53125,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.5,
       "roster": [
         {
-          "handle": "tommeketoch",
+          "handle": "Silkthewanderer",
           "points": 0.0,
           "games": 2
         },
         {
-          "handle": "ben3536",
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "Jg777",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "aloo_bhaloo",
-          "points": 1.5,
+          "handle": "M0r1",
+          "points": 2.0,
           "games": 2
         },
         {
-          "handle": "MrScribbles",
-          "points": 1.5,
+          "handle": "Tranzoo",
+          "points": 0.5,
           "games": 2
         },
         {
-          "handle": "glbert",
+          "handle": "mkubecek",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "cham",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "angborxley",
           "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 37,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 2.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "Inter-temporal",
+      "name": "This is the way.",
+      "total": 15948,
+      "points": 8.5,
+      "games": 18,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.4722222222222222,
+      "roster": [
+        {
+          "handle": "tommeketoch",
+          "points": 0.5,
+          "games": 3
+        },
+        {
+          "handle": "irongalaxy",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Ciraid",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Oachkatzerlschwoaf",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Bpack",
+          "points": 2.0,
           "games": 2
         },
         {
@@ -3911,38 +4247,150 @@
           "games": 2
         },
         {
-          "handle": "MatthewKCanada",
+          "handle": "Pineapplechiffoncake",
           "points": 0.0,
           "games": 2
         },
         {
-          "handle": "jcarmody",
-          "points": 2.0,
-          "games": 2
+          "handle": "Apidae",
+          "points": 2.5,
+          "games": 3
         }
       ],
-      "rank": 35,
+      "rank": 38,
       "round_scores": [
         {
           "round": 1,
-          "points": 5.5,
+          "points": 4.5,
           "finished": 8,
           "paired": 8,
           "state": "final"
         },
         {
           "round": 2,
-          "points": 3.0,
+          "points": 2.5,
           "finished": 8,
           "paired": 8,
           "state": "final"
         },
         {
           "round": 3,
+          "points": 1.5,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "flipiflapi",
+      "name": "everyone but me :(",
+      "total": 15983,
+      "points": 8.5,
+      "games": 18,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.4722222222222222,
+      "roster": [
+        {
+          "handle": "ItsASecret2000",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "val1313",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "KirkD",
+          "points": 0.5,
+          "games": 2
+        },
+        {
+          "handle": "gary0892",
+          "points": 0.5,
+          "games": 2
+        },
+        {
+          "handle": "RBorja1980",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "ameyer",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "f1re_bunny",
+          "points": 0.0,
+          "games": 3
+        }
+      ],
+      "rank": 39,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 4.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -3987,9 +4435,9 @@
       "total": 15875,
       "points": 8.0,
       "games": 15,
-      "round_games": 7,
+      "round_games": 0,
       "round_scheduled": 7,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.5333333333333333,
       "roster": [
         {
@@ -4033,7 +4481,7 @@
           "games": 2
         }
       ],
-      "rank": 36,
+      "rank": 40,
       "round_scores": [
         {
           "round": 1,
@@ -4051,10 +4499,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4099,9 +4547,9 @@
       "total": 12656,
       "points": 8.0,
       "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.5,
       "roster": [
         {
@@ -4145,7 +4593,7 @@
           "games": 2
         }
       ],
-      "rank": 37,
+      "rank": 41,
       "round_scores": [
         {
           "round": 1,
@@ -4163,10 +4611,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4206,18 +4654,18 @@
       ]
     },
     {
-      "owner": "Oachkatzerlschwoaf",
-      "name": "trust in all, but myself",
-      "total": 15879,
+      "owner": "Asturc0n",
+      "name": "Rushing picker",
+      "total": 15905,
       "points": 8.0,
       "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
       "ppg": 0.5,
       "roster": [
         {
-          "handle": "tommeketoch",
+          "handle": "Silkthewanderer",
           "points": 0.0,
           "games": 2
         },
@@ -4227,58 +4675,170 @@
           "games": 2
         },
         {
-          "handle": "Ciraid",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "ecoarrivazumashoomzo",
+          "handle": "AlexGaul",
           "points": 1.0,
           "games": 2
         },
         {
-          "handle": "Bpack",
+          "handle": "NirakuHakamura",
+          "points": 1.0,
+          "games": 3
+        },
+        {
+          "handle": "glbert",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "mkubecek",
           "points": 2.0,
           "games": 2
         },
         {
-          "handle": "JokicInator15",
-          "points": 1.5,
-          "games": 2
+          "handle": "Bortvinik",
+          "points": 1.0,
+          "games": 1
         },
         {
-          "handle": "HighonPotnuse",
+          "handle": "electricfalcon",
           "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Apidae",
-          "points": 1.5,
           "games": 2
         }
       ],
-      "rank": 38,
+      "rank": 42,
       "round_scores": [
         {
           "round": 1,
-          "points": 3.5,
-          "finished": 8,
-          "paired": 8,
+          "points": 4.0,
+          "finished": 7,
+          "paired": 7,
           "state": "final"
         },
         {
           "round": 2,
-          "points": 4.5,
+          "points": 3.0,
           "finished": 8,
           "paired": 8,
           "state": "final"
         },
         {
           "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "kayrosas",
+      "name": "just whimsical vibes",
+      "total": 15992,
+      "points": 8.0,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.5,
+      "roster": [
+        {
+          "handle": "TBest",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "aldric123",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "lc69",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "NirakuHakamura",
+          "points": 1.0,
+          "games": 3
+        },
+        {
+          "handle": "tomshko",
+          "points": 0.5,
+          "games": 2
+        },
+        {
+          "handle": "Fischerforlife",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "fulmarsky",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "Computability",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 43,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 4.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 3.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4324,9 +4884,9 @@
       "total": 25834,
       "points": 7.5,
       "games": 14,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 8,
+      "games_left": 8,
       "ppg": 0.5357142857142857,
       "roster": [
         {
@@ -4370,7 +4930,7 @@
           "games": 2
         }
       ],
-      "rank": 39,
+      "rank": 44,
       "round_scores": [
         {
           "round": 1,
@@ -4388,10 +4948,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4436,9 +4996,9 @@
       "total": 15831,
       "points": 7.5,
       "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 6,
+      "games_left": 6,
       "ppg": 0.5,
       "roster": [
         {
@@ -4482,7 +5042,7 @@
           "games": 2
         }
       ],
-      "rank": 40,
+      "rank": 45,
       "round_scores": [
         {
           "round": 1,
@@ -4500,10 +5060,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 6,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4548,9 +5108,9 @@
       "total": 15944,
       "points": 7.5,
       "games": 15,
-      "round_games": 7,
+      "round_games": 0,
       "round_scheduled": 7,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.5,
       "roster": [
         {
@@ -4594,7 +5154,7 @@
           "games": 2
         }
       ],
-      "rank": 41,
+      "rank": 46,
       "round_scores": [
         {
           "round": 1,
@@ -4612,122 +5172,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "mmkgtc",
-      "name": "in da fantasy club",
-      "total": 15401,
-      "points": 7.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.46875,
-      "roster": [
-        {
-          "handle": "Silkthewanderer",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Jg777",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "M0r1",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Tranzoo",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "mkubecek",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "cham",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "angborxley",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 42,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 2.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4771,11 +5219,11 @@
       "name": "All players were handpicked with care",
       "total": 15734,
       "points": 7.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.46875,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 7,
+      "games_left": 6,
+      "ppg": 0.4411764705882353,
       "roster": [
         {
           "handle": "rio2018",
@@ -4785,7 +5233,7 @@
         {
           "handle": "bufferunderrun",
           "points": 0.0,
-          "games": 2
+          "games": 3
         },
         {
           "handle": "VanRoy",
@@ -4818,7 +5266,7 @@
           "games": 2
         }
       ],
-      "rank": 43,
+      "rank": 47,
       "round_scores": [
         {
           "round": 1,
@@ -4836,122 +5284,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "flipiflapi",
-      "name": "everyone but me :(",
-      "total": 15983,
-      "points": 7.5,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.46875,
-      "roster": [
-        {
-          "handle": "ItsASecret2000",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "val1313",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "KirkD",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "gary0892",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "RBorja1980",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "ameyer",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "f1re_bunny",
           "points": 0.0,
-          "games": 2
-        }
-      ],
-      "rank": 44,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 3.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 4.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "finished": 1,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -4997,9 +5333,9 @@
       "total": 7463,
       "points": 7.0,
       "games": 15,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.4666666666666667,
       "roster": [
         {
@@ -5043,7 +5379,7 @@
           "games": 2
         }
       ],
-      "rank": 45,
+      "rank": 48,
       "round_scores": [
         {
           "round": 1,
@@ -5061,10 +5397,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -5108,11 +5444,11 @@
       "name": "Order of the Knights Who Say \"Ni!\"",
       "total": 15719,
       "points": 7.0,
-      "games": 15,
-      "round_games": 7,
+      "games": 16,
+      "round_games": 1,
       "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.4666666666666667,
+      "games_left": 6,
+      "ppg": 0.4375,
       "roster": [
         {
           "handle": "rio2018",
@@ -5122,7 +5458,7 @@
         {
           "handle": "bufferunderrun",
           "points": 0.0,
-          "games": 2
+          "games": 3
         },
         {
           "handle": "Jg777",
@@ -5155,7 +5491,7 @@
           "games": 2
         }
       ],
-      "rank": 46,
+      "rank": 49,
       "round_scores": [
         {
           "round": 1,
@@ -5173,234 +5509,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Asturc0n",
-      "name": "Rushing picker",
-      "total": 15905,
-      "points": 7.0,
-      "games": 15,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.4666666666666667,
-      "roster": [
-        {
-          "handle": "Silkthewanderer",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Inter-temporal",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "AlexGaul",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "NirakuHakamura",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "glbert",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "mkubecek",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "Bortvinik",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "electricfalcon",
-          "points": 2.0,
-          "games": 2
-        }
-      ],
-      "rank": 47,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.0,
-          "finished": 7,
+          "finished": 1,
           "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "kayrosas",
-      "name": "just whimsical vibes",
-      "total": 15992,
-      "points": 7.0,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.4666666666666667,
-      "roster": [
-        {
-          "handle": "TBest",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "aldric123",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "lc69",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "NirakuHakamura",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "tomshko",
-          "points": 0.5,
-          "games": 2
-        },
-        {
-          "handle": "Fischerforlife",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "fulmarsky",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Computability",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 48,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.0,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -5444,11 +5556,11 @@
       "name": "My other team is coming in 53rd place",
       "total": 15946,
       "points": 7.0,
-      "games": 16,
-      "round_games": 8,
+      "games": 17,
+      "round_games": 1,
       "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.4375,
+      "games_left": 7,
+      "ppg": 0.4117647058823529,
       "roster": [
         {
           "handle": "NLance",
@@ -5473,7 +5585,7 @@
         {
           "handle": "fork2020",
           "points": 2.0,
-          "games": 2
+          "games": 3
         },
         {
           "handle": "jfiras",
@@ -5491,7 +5603,7 @@
           "games": 2
         }
       ],
-      "rank": 49,
+      "rank": 50,
       "round_scores": [
         {
           "round": 1,
@@ -5509,122 +5621,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "Inter-temporal",
-      "name": "This is the way.",
-      "total": 15948,
-      "points": 7.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.4375,
-      "roster": [
-        {
-          "handle": "tommeketoch",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "irongalaxy",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Ciraid",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Oachkatzerlschwoaf",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Bpack",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "JokicInator15",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Apidae",
-          "points": 1.5,
-          "games": 2
-        }
-      ],
-      "rank": 50,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 4.5,
-          "finished": 8,
+          "finished": 1,
           "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 2.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -5669,9 +5669,9 @@
       "total": 15986,
       "points": 7.0,
       "games": 17,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.4117647058823529,
       "roster": [
         {
@@ -5733,10 +5733,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -5781,9 +5781,9 @@
       "total": 15978,
       "points": 6.5,
       "games": 15,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.43333333333333335,
       "roster": [
         {
@@ -5845,10 +5845,458 @@
         },
         {
           "round": 3,
+          "points": 0.0,
+          "finished": 0,
+          "paired": 7,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "rio2018",
+      "name": "Something magnificant",
+      "total": 14931,
+      "points": 6.5,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.40625,
+      "roster": [
+        {
+          "handle": "Mennonite",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "berndwind",
+          "points": 0.5,
+          "games": 1
+        },
+        {
+          "handle": "Llawlietnea",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "glbert",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "pezzo17",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Gingersquirrelnuts",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "DavidSifre",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 53,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 0.5,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "shurbz",
+      "name": "Its like the Madden curse",
+      "total": 15985,
+      "points": 6.5,
+      "games": 16,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.40625,
+      "roster": [
+        {
+          "handle": "drchessdad",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "NameGoesInHere",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "VanRoy",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "NirakuHakamura",
+          "points": 1.0,
+          "games": 3
+        },
+        {
+          "handle": "Chesspatzerswan",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "GoldenRetrieverChess",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Shurbz",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "MartinDanielsson",
+          "points": 0.0,
+          "games": 2
+        }
+      ],
+      "rank": 54,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 2.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 3.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "FinErik",
+      "name": "50 ways to cook with Pineapple",
+      "total": 15992,
+      "points": 6.5,
+      "games": 16,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.40625,
+      "roster": [
+        {
+          "handle": "Kayrosas",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "Inter-temporal",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Nestor3690",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Llawlietnea",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "pepepibote",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Nubro",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Apidae",
+          "points": 2.5,
+          "games": 3
+        }
+      ],
+      "rank": 55,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 2.5,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 3.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "semlegesnev",
+      "name": "Call it nationalism",
+      "total": 15401,
+      "points": 6.5,
+      "games": 17,
+      "round_games": 1,
+      "round_scheduled": 8,
+      "games_left": 7,
+      "ppg": 0.38235294117647056,
+      "roster": [
+        {
+          "handle": "Petro2",
+          "points": 2.0,
+          "games": 2
+        },
+        {
+          "handle": "semlegesnev",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "mixxanber",
+          "points": 1.5,
+          "games": 3
+        },
+        {
+          "handle": "Paulze2000",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "zal667",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "KamagayaJiji",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Hylpen",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "BLuesiDE617",
+          "points": 0.5,
+          "games": 2
+        }
+      ],
+      "rank": 56,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 2.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.5,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -5892,11 +6340,11 @@
       "name": "Timelord's ocho locos",
       "total": 15921,
       "points": 6.5,
-      "games": 16,
-      "round_games": 8,
+      "games": 17,
+      "round_games": 1,
       "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.40625,
+      "games_left": 7,
+      "ppg": 0.38235294117647056,
       "roster": [
         {
           "handle": "JEEprep2374",
@@ -5936,10 +6384,10 @@
         {
           "handle": "nightsub",
           "points": 0.5,
-          "games": 2
+          "games": 3
         }
       ],
-      "rank": 53,
+      "rank": 57,
       "round_scores": [
         {
           "round": 1,
@@ -5957,10 +6405,122 @@
         },
         {
           "round": 3,
+          "points": 0.0,
+          "finished": 1,
+          "paired": 8,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "RPCX",
+      "name": "^_~",
+      "total": 15792,
+      "points": 6.5,
+      "games": 19,
+      "round_games": 2,
+      "round_scheduled": 7,
+      "games_left": 5,
+      "ppg": 0.34210526315789475,
+      "roster": [
+        {
+          "handle": "Silkthewanderer",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "bufferunderrun",
+          "points": 0.0,
+          "games": 3
+        },
+        {
+          "handle": "Fischer_and_Chips88",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Zubenelgenubi",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "RPCX",
+          "points": 3.0,
+          "games": 4
+        },
+        {
+          "handle": "prostidude",
+          "points": 1.5,
+          "games": 2
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "mongreltiger",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 58,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 5.0,
+          "finished": 9,
+          "paired": 9,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 0.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 1.0,
+          "finished": 2,
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6005,9 +6565,9 @@
       "total": 15516,
       "points": 6.0,
       "games": 14,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 8,
+      "games_left": 8,
       "ppg": 0.42857142857142855,
       "roster": [
         {
@@ -6051,7 +6611,7 @@
           "games": 2
         }
       ],
-      "rank": 54,
+      "rank": 59,
       "round_scores": [
         {
           "round": 1,
@@ -6069,10 +6629,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6117,9 +6677,9 @@
       "total": 15912,
       "points": 6.0,
       "games": 14,
-      "round_games": 7,
+      "round_games": 0,
       "round_scheduled": 7,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.42857142857142855,
       "roster": [
         {
@@ -6163,7 +6723,7 @@
           "games": 1
         }
       ],
-      "rank": 55,
+      "rank": 60,
       "round_scores": [
         {
           "round": 1,
@@ -6181,10 +6741,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6229,9 +6789,9 @@
       "total": 15983,
       "points": 6.0,
       "games": 15,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.4,
       "roster": [
         {
@@ -6275,7 +6835,7 @@
           "games": 2
         }
       ],
-      "rank": 56,
+      "rank": 61,
       "round_scores": [
         {
           "round": 1,
@@ -6293,122 +6853,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "semlegesnev",
-      "name": "Call it nationalism",
-      "total": 15401,
-      "points": 6.0,
-      "games": 16,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.375,
-      "roster": [
-        {
-          "handle": "Petro2",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "semlegesnev",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "mixxanber",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Paulze2000",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "zal667",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "KamagayaJiji",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Hylpen",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "BLuesiDE617",
-          "points": 0.5,
-          "games": 2
-        }
-      ],
-      "rank": 57,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 3.5,
-          "finished": 8,
+          "finished": 0,
           "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 2.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6453,9 +6901,9 @@
       "total": 15971,
       "points": 6.0,
       "games": 16,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.375,
       "roster": [
         {
@@ -6499,7 +6947,7 @@
           "games": 2
         }
       ],
-      "rank": 58,
+      "rank": 62,
       "round_scores": [
         {
           "round": 1,
@@ -6517,10 +6965,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6565,9 +7013,9 @@
       "total": 15971,
       "points": 6.0,
       "games": 16,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.375,
       "roster": [
         {
@@ -6611,7 +7059,7 @@
           "games": 2
         }
       ],
-      "rank": 58,
+      "rank": 62,
       "round_scores": [
         {
           "round": 1,
@@ -6629,234 +7077,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "FinErik",
-      "name": "50 ways to cook with Pineapple",
-      "total": 15992,
-      "points": 5.5,
-      "games": 14,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.39285714285714285,
-      "roster": [
-        {
-          "handle": "Kayrosas",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Inter-temporal",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Nestor3690",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Llawlietnea",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "pepepibote",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Nubro",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Apidae",
-          "points": 1.5,
-          "games": 2
-        }
-      ],
-      "rank": 60,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 2.5,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "rio2018",
-      "name": "Something magnificant",
-      "total": 14931,
-      "points": 5.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.36666666666666664,
-      "roster": [
-        {
-          "handle": "Mennonite",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "berndwind",
-          "points": 0.5,
-          "games": 1
-        },
-        {
-          "handle": "Llawlietnea",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "glbert",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "pezzo17",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Gingersquirrelnuts",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "DavidSifre",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 61,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.0,
-          "finished": 8,
           "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 0.5,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -6901,9 +7125,9 @@
       "total": 15941,
       "points": 5.5,
       "games": 15,
-      "round_games": 7,
+      "round_games": 0,
       "round_scheduled": 7,
-      "games_left": 0,
+      "games_left": 7,
       "ppg": 0.36666666666666664,
       "roster": [
         {
@@ -6947,7 +7171,7 @@
           "games": 2
         }
       ],
-      "rank": 62,
+      "rank": 64,
       "round_scores": [
         {
           "round": 1,
@@ -6965,234 +7189,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "shurbz",
-      "name": "Its like the Madden curse",
-      "total": 15985,
-      "points": 5.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.36666666666666664,
-      "roster": [
-        {
-          "handle": "drchessdad",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "NameGoesInHere",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "VanRoy",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "NirakuHakamura",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Chesspatzerswan",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "GoldenRetrieverChess",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Shurbz",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "MartinDanielsson",
-          "points": 0.0,
-          "games": 2
-        }
-      ],
-      "rank": 63,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 2.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 3.0,
-          "finished": 7,
+          "finished": 0,
           "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "RPCX",
-      "name": "^_~",
-      "total": 15792,
-      "points": 5.5,
-      "games": 17,
-      "round_games": 8,
-      "round_scheduled": 8,
-      "games_left": 0,
-      "ppg": 0.3235294117647059,
-      "roster": [
-        {
-          "handle": "Silkthewanderer",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "bufferunderrun",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Fischer_and_Chips88",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Zubenelgenubi",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "RPCX",
-          "points": 2.0,
-          "games": 3
-        },
-        {
-          "handle": "prostidude",
-          "points": 1.5,
-          "games": 2
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "mongreltiger",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 64,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 5.0,
-          "finished": 9,
-          "paired": 9,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 0.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -7238,9 +7238,9 @@
       "total": 13863,
       "points": 5.0,
       "games": 13,
-      "round_games": 5,
-      "round_scheduled": 5,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.38461538461538464,
       "roster": [
         {
@@ -7302,10 +7302,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 7,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -7350,9 +7350,9 @@
       "total": 15669,
       "points": 5.0,
       "games": 13,
-      "round_games": 6,
-      "round_scheduled": 6,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.38461538461538464,
       "roster": [
         {
@@ -7414,122 +7414,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "AceRb95",
-      "name": "Blunnder masterss",
-      "total": 15865,
-      "points": 5.0,
-      "games": 14,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.35714285714285715,
-      "roster": [
-        {
-          "handle": "digvijay_sunil",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Inter-temporal",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Fischer_and_Chips88",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "Zubenelgenubi",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "Airini_H",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Nubro",
-          "points": 1.0,
-          "games": 1
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "DavidSifre",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 67,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 3.0,
-          "finished": 7,
+          "finished": 0,
           "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 2.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -7574,9 +7462,9 @@
       "total": 14937,
       "points": 5.0,
       "games": 15,
-      "round_games": 8,
+      "round_games": 0,
       "round_scheduled": 8,
-      "games_left": 0,
+      "games_left": 8,
       "ppg": 0.3333333333333333,
       "roster": [
         {
@@ -7620,7 +7508,7 @@
           "games": 2
         }
       ],
-      "rank": 68,
+      "rank": 67,
       "round_scores": [
         {
           "round": 1,
@@ -7638,10 +7526,10 @@
         },
         {
           "round": 3,
-          "points": null,
+          "points": 0.0,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -7686,9 +7574,9 @@
       "total": 15705,
       "points": 5.0,
       "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 6,
+      "games_left": 6,
       "ppg": 0.3333333333333333,
       "roster": [
         {
@@ -7732,7 +7620,7 @@
           "games": 2
         }
       ],
-      "rank": 69,
+      "rank": 68,
       "round_scores": [
         {
           "round": 1,
@@ -7750,10 +7638,234 @@
         },
         {
           "round": 3,
+          "points": 0.0,
+          "finished": 0,
+          "paired": 6,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
           "points": null,
           "finished": 0,
           "paired": 0,
           "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "AceRb95",
+      "name": "Blunnder masterss",
+      "total": 15865,
+      "points": 5.0,
+      "games": 15,
+      "round_games": 1,
+      "round_scheduled": 6,
+      "games_left": 5,
+      "ppg": 0.3333333333333333,
+      "roster": [
+        {
+          "handle": "digvijay_sunil",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Inter-temporal",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Fischer_and_Chips88",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "Zubenelgenubi",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Airini_H",
+          "points": 1.0,
+          "games": 1
+        },
+        {
+          "handle": "Nubro",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "DavidSifre",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 69,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 3.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 2.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.0,
+          "finished": 1,
+          "paired": 6,
+          "state": "so_far"
+        },
+        {
+          "round": 4,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 5,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 6,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 7,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        },
+        {
+          "round": 8,
+          "points": null,
+          "finished": 0,
+          "paired": 0,
+          "state": "upcoming"
+        }
+      ]
+    },
+    {
+      "owner": "fork2020",
+      "name": "Finally a Website League.",
+      "total": 15784,
+      "points": 5.0,
+      "games": 17,
+      "round_games": 2,
+      "round_scheduled": 8,
+      "games_left": 6,
+      "ppg": 0.29411764705882354,
+      "roster": [
+        {
+          "handle": "tommeketoch",
+          "points": 0.5,
+          "games": 3
+        },
+        {
+          "handle": "LloydRet",
+          "points": 1.0,
+          "games": 2
+        },
+        {
+          "handle": "berndwind",
+          "points": 0.5,
+          "games": 1
+        },
+        {
+          "handle": "BLang316",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "fork2020",
+          "points": 2.0,
+          "games": 3
+        },
+        {
+          "handle": "SedNomini",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "MatthewKCanada",
+          "points": 0.0,
+          "games": 2
+        },
+        {
+          "handle": "R0B-W",
+          "points": 1.0,
+          "games": 2
+        }
+      ],
+      "rank": 70,
+      "round_scores": [
+        {
+          "round": 1,
+          "points": 2.5,
+          "finished": 8,
+          "paired": 8,
+          "state": "final"
+        },
+        {
+          "round": 2,
+          "points": 2.0,
+          "finished": 7,
+          "paired": 7,
+          "state": "final"
+        },
+        {
+          "round": 3,
+          "points": 0.5,
+          "finished": 2,
+          "paired": 8,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -7798,9 +7910,9 @@
       "total": 16000,
       "points": 4.5,
       "games": 12,
-      "round_games": 5,
-      "round_scheduled": 5,
-      "games_left": 0,
+      "round_games": 0,
+      "round_scheduled": 6,
+      "games_left": 6,
       "ppg": 0.375,
       "roster": [
         {
@@ -7844,7 +7956,7 @@
           "games": 1
         }
       ],
-      "rank": 70,
+      "rank": 71,
       "round_scores": [
         {
           "round": 1,
@@ -7862,122 +7974,10 @@
         },
         {
           "round": 3,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 4,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 5,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 6,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 7,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        },
-        {
-          "round": 8,
-          "points": null,
-          "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
-        }
-      ]
-    },
-    {
-      "owner": "fork2020",
-      "name": "Finally a Website League.",
-      "total": 15784,
-      "points": 4.5,
-      "games": 15,
-      "round_games": 7,
-      "round_scheduled": 7,
-      "games_left": 0,
-      "ppg": 0.3,
-      "roster": [
-        {
-          "handle": "tommeketoch",
           "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "LloydRet",
-          "points": 1.0,
-          "games": 2
-        },
-        {
-          "handle": "berndwind",
-          "points": 0.5,
-          "games": 1
-        },
-        {
-          "handle": "BLang316",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "fork2020",
-          "points": 2.0,
-          "games": 2
-        },
-        {
-          "handle": "SedNomini",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "MatthewKCanada",
-          "points": 0.0,
-          "games": 2
-        },
-        {
-          "handle": "R0B-W",
-          "points": 1.0,
-          "games": 2
-        }
-      ],
-      "rank": 71,
-      "round_scores": [
-        {
-          "round": 1,
-          "points": 2.5,
-          "finished": 8,
-          "paired": 8,
-          "state": "final"
-        },
-        {
-          "round": 2,
-          "points": 2.0,
-          "finished": 7,
-          "paired": 7,
-          "state": "final"
-        },
-        {
-          "round": 3,
-          "points": null,
           "finished": 0,
-          "paired": 0,
-          "state": "upcoming"
+          "paired": 6,
+          "state": "so_far"
         },
         {
           "round": 4,
@@ -8018,8 +8018,8 @@
     }
   ],
   "round": {
-    "number": 2,
-    "played": 216,
+    "number": 3,
+    "played": 15,
     "total": 216
   }
 }
