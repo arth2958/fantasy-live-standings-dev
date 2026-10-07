@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-07T15:04:40.172158Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-07T15:35:02.978454Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6043,7 +6043,7 @@
       "projected_points": 10.07777284526838,
       "projected_round": 4.577772845268379,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6085,8 +6085,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/At1rpaiB",
+          "game_link_kind": "live",
           "round_game": "3:asian42:vanroy",
           "season_points": 1.5,
           "season_games": 2
@@ -6445,7 +6445,7 @@
       "projected_points": 9.99126661443266,
       "projected_round": 2.4912666144326616,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -6487,8 +6487,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/At1rpaiB",
+          "game_link_kind": "live",
           "round_game": "3:asian42:vanroy",
           "season_points": 1.5,
           "season_games": 2
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.195700417598919,
+      "projected": 4.19570041759892,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
