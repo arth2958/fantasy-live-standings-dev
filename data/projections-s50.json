@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-07T14:03:23.282033Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-07T14:24:11.373373Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8948,19 +8948,19 @@
       "eligible": false
     },
     {
-      "name": "Pirc and Roll",
-      "projected": 4.27066571107821,
+      "name": "If anyone can refute it—don't show me",
+      "projected": 4.252627990796848,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 4.252627990796848,
-      "actual": 0.0,
+      "name": "50th Parallel Pawns",
+      "projected": 4.237968124742873,
+      "actual": 1.0,
       "paired": 8,
-      "left": 8,
+      "left": 7,
       "eligible": false
     },
     {
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.867163880372687,
+      "projected": 3.8671638803726873,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9172,16 +9172,16 @@
       "eligible": false
     },
     {
-      "name": "Blunders Without Borders",
-      "projected": 3.7473720092031524,
+      "name": "Pirc and Roll",
+      "projected": 3.7620318752571267,
       "actual": 0.0,
       "paired": 8,
-      "left": 8,
+      "left": 7,
       "eligible": false
     },
     {
-      "name": "50th Parallel Pawns",
-      "projected": 3.729334288921791,
+      "name": "Blunders Without Borders",
+      "projected": 3.7473720092031524,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
