@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 2,
-  "updated_at": "2026-10-07T23:00:43.081436Z",
+  "updated_at": "2026-10-07T23:18:54.860991Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2958,8 +2958,8 @@
       "name": "The Brave Lions",
       "actual_points": 9.5,
       "actual_round": 0.0,
-      "projected_points": 12.642169134855852,
-      "projected_round": 3.1421691348558527,
+      "projected_points": 12.61925679937293,
+      "projected_round": 3.119256799372931,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -3059,7 +3059,7 @@
           "status": "pending",
           "rating": 1752,
           "decided_without_play": false,
-          "expected_points": 0.4769904127024377,
+          "expected_points": 0.4540780772195163,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4432,8 +4432,8 @@
       "name": "Red Bull makes me hypermodern",
       "actual_points": 9.0,
       "actual_round": 1.0,
-      "projected_points": 11.589022528762941,
-      "projected_round": 3.5890225287629405,
+      "projected_points": 11.566110193280018,
+      "projected_round": 3.5661101932800188,
       "left": 6,
       "in_progress": 0,
       "paired": 7,
@@ -4533,7 +4533,7 @@
           "status": "pending",
           "rating": 1752,
           "decided_without_play": false,
-          "expected_points": 0.4769904127024377,
+          "expected_points": 0.4540780772195163,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5370,8 +5370,8 @@
       "name": "All players were handpicked with care",
       "actual_points": 9.5,
       "actual_round": 2.0,
-      "projected_points": 10.915958758552105,
-      "projected_round": 3.4159587585521045,
+      "projected_points": 10.893046423069183,
+      "projected_round": 3.393046423069183,
       "left": 3,
       "in_progress": 0,
       "paired": 7,
@@ -5471,7 +5471,7 @@
           "status": "pending",
           "rating": 1752,
           "decided_without_play": false,
-          "expected_points": 0.4769904127024377,
+          "expected_points": 0.4540780772195163,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8860,6 +8860,14 @@
       "eligible": false
     },
     {
+      "name": "Old but hoping for stratospheric improvement",
+      "projected": 4.71509033643396,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "50 Ways to Fork Your Lover",
       "projected": 4.714140156504609,
       "actual": 1.0,
@@ -8868,16 +8876,8 @@
       "eligible": false
     },
     {
-      "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.692178000951038,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.687322008518781,
+      "projected": 4.68732200851878,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 4.384602926197484,
+      "projected": 4.384602926197485,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8957,7 +8957,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 4.280415007178737,
+      "projected": 4.280415007178736,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.21521743102352,
+      "projected": 4.215217431023521,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -8989,7 +8989,7 @@
     },
     {
       "name": "Svidler? I hardly know her",
-      "projected": 4.190512337766156,
+      "projected": 4.190512337766157,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9005,7 +9005,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 4.154958199925897,
+      "projected": 4.154958199925896,
       "actual": 0.5,
       "paired": 8,
       "left": 7,
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 4.06817248443936,
+      "projected": 4.068172484439359,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.93182751556064,
+      "projected": 3.9318275155606397,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "Pawn with the Sickness",
-      "projected": 3.8450418000741036,
+      "projected": 3.845041800074104,
       "actual": 0.5,
       "paired": 8,
       "left": 7,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.8094876622338436,
+      "projected": 3.809487662233843,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.7735383166863854,
+      "projected": 3.773538316686386,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 3.719584992821263,
+      "projected": 3.7195849928212636,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9205,7 +9205,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 3.6376832264999925,
+      "projected": 3.637683226499993,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 3.615397073802515,
+      "projected": 3.6153970738025154,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9260,16 +9260,16 @@
       "eligible": false
     },
     {
-      "name": "Mating for Godot",
-      "projected": 3.3078219990489615,
+      "name": "Don't give a check your ascii can't cache",
+      "projected": 3.2858598434953916,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
       "eligible": false
     },
     {
-      "name": "Don't give a check your ascii can't cache",
-      "projected": 3.2858598434953916,
+      "name": "Mating for Godot",
+      "projected": 3.28490966356604,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
