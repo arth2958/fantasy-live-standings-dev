@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-08T13:52:20.793093Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-08T14:05:11.517151Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -147,7 +147,7 @@
       "projected_points": 14.321599753355752,
       "projected_round": 4.321599753355753,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -264,8 +264,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/p6Yiwslw",
+          "game_link_kind": "live",
           "round_game": "3:computability:drrickinct",
           "season_points": 1.0,
           "season_games": 2
@@ -2157,7 +2157,7 @@
       "projected_points": 13.302974625052494,
       "projected_round": 3.802974625052494,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2274,8 +2274,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/p6Yiwslw",
+          "game_link_kind": "live",
           "round_game": "3:computability:drrickinct",
           "season_points": 0.0,
           "season_games": 2
@@ -4435,7 +4435,7 @@
       "projected_points": 11.54859541650707,
       "projected_round": 4.548595416507069,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4552,8 +4552,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/p6Yiwslw",
+          "game_link_kind": "live",
           "round_game": "3:computability:drrickinct",
           "season_points": 1.0,
           "season_games": 2
