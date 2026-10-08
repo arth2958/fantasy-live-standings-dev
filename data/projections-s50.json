@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-08T21:39:59.795481Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-08T22:01:38.881022Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4834,8 +4834,8 @@
       "name": "Rushing picker",
       "actual_points": 9.5,
       "actual_round": 2.5,
-      "projected_points": 11.274730936151592,
-      "projected_round": 4.274730936151591,
+      "projected_points": 11.291984315038007,
+      "projected_round": 4.291984315038008,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -4933,9 +4933,9 @@
         {
           "handle": "Bortvinik",
           "status": "pending",
-          "rating": 1682,
+          "rating": 1694,
           "decided_without_play": false,
-          "expected_points": 0.5057562084111449,
+          "expected_points": 0.5230095872975623,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8852,6 +8852,14 @@
   ],
   "league_teams": [
     {
+      "name": "If anyone can refute it—don't show me",
+      "projected": 5.293300117694916,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "Old but hoping for stratospheric improvement",
       "projected": 5.293130999767289,
       "actual": 2.0,
@@ -8876,8 +8884,8 @@
       "eligible": false
     },
     {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 4.810562642127293,
+      "name": "50 Ways to Fork Your Lover",
+      "projected": 4.705868937629308,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8885,15 +8893,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.713826816445051,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "50 Ways to Fork Your Lover",
-      "projected": 4.705868937629308,
+      "projected": 4.696573437558634,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9004,11 +9004,11 @@
       "eligible": false
     },
     {
-      "name": "Svidler? I hardly know her",
-      "projected": 4.226310899812383,
-      "actual": 1.0,
+      "name": "The Woodpushers",
+      "projected": 4.216377466425325,
+      "actual": 2.0,
       "paired": 8,
-      "left": 6,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9124,11 +9124,11 @@
       "eligible": false
     },
     {
-      "name": "The Woodpushers",
-      "projected": 3.773689100187618,
+      "name": "Svidler? I hardly know her",
+      "projected": 3.783622533574675,
       "actual": 1.0,
       "paired": 8,
-      "left": 6,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9236,24 +9236,16 @@
       "eligible": false
     },
     {
+      "name": "Silk Road Sacrifices",
+      "projected": 3.303426562441366,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "Don't give a check your ascii can't cache",
       "projected": 3.2941310623706923,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Silk Road Sacrifices",
-      "projected": 3.2861731835549484,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Blunders Without Borders",
-      "projected": 3.1894373578727073,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9278,6 +9270,14 @@
     {
       "name": "Mating for Godot",
       "projected": 2.706869000232711,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Blunders Without Borders",
+      "projected": 2.7066998823050836,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
