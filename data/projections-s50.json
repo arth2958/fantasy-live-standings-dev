@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 0,
-  "updated_at": "2026-10-08T04:51:23.821978Z",
+  "updated_at": "2026-10-08T05:02:56.647719Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8965,7 +8965,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 4.280415007178736,
+      "projected": 4.280415007178737,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "Leningrad School of Blunders",
-      "projected": 4.068172484439359,
+      "projected": 4.06817248443936,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.9318275155606397,
+      "projected": 3.93182751556064,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 3.7195849928212636,
+      "projected": 3.719584992821263,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
