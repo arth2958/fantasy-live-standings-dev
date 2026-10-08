@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 3,
-  "updated_at": "2026-10-08T15:24:41.428100Z",
+  "updated_at": "2026-10-08T15:53:19.921246Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.658418268537766,
+      "projected": 4.6584182685377655,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 4.644701043114952,
+      "projected": 4.644701043114951,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 4.3443678018181275,
+      "projected": 4.344367801818128,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -8965,7 +8965,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.226461683313615,
+      "projected": 4.226461683313614,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 4.179363680113199,
+      "projected": 4.179363680113198,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "50-50 my next move is a blunder",
-      "projected": 3.9461040144568953,
+      "projected": 3.946104014456895,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.8979436843360125,
+      "projected": 3.897943684336013,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9149,7 +9149,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.820636319886801,
+      "projected": 3.820636319886802,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.773538316686385,
+      "projected": 3.773538316686386,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "Riding with the King",
-      "projected": 3.6556321981818725,
+      "projected": 3.6556321981818716,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.58305021753052,
+      "projected": 3.5830502175305203,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 3.21694144716015,
+      "projected": 3.216941447160149,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
