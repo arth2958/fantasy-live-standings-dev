@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 1,
-  "updated_at": "2026-10-08T00:31:52.481857Z",
+  "updated_at": "2026-10-08T00:58:24.279100Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.658418268537766,
+      "projected": 4.6584182685377655,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 4.20205219779777,
+      "projected": 4.202052197797771,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "50-50 my next move is a blunder",
-      "projected": 3.9619255928116432,
+      "projected": 3.961925592811643,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.9223721559287696,
+      "projected": 3.92237215592877,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9149,7 +9149,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 3.7979478022022297,
+      "projected": 3.797947802202229,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.7735383166863845,
+      "projected": 3.773538316686386,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.7004805158714897,
+      "projected": 3.7004805158714893,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.58305021753052,
+      "projected": 3.5830502175305203,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 3.355298956885049,
+      "projected": 3.3552989568850484,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.3126779914812197,
+      "projected": 3.312677991481219,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
