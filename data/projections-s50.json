@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-09T17:02:37.768479Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-09T17:21:12.567335Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1642,7 +1642,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2111,
+          "rating": 2109,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -2923,7 +2923,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1691,
+          "rating": 1679,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3356,140 +3356,6 @@
       "projected_rank": 25
     },
     {
-      "owner": "Bxvrc2lh",
-      "name": "AngrySwedes",
-      "actual_points": 11.0,
-      "actual_round": 2.0,
-      "projected_points": 12.545202709427118,
-      "projected_round": 3.545202709427118,
-      "left": 3,
-      "in_progress": 1,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "chatakkuma",
-          "status": "pending",
-          "rating": 2260,
-          "decided_without_play": false,
-          "expected_points": 0.3882294992189357,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:betolini:chatakkuma",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Feet_Barbie",
-          "status": "won",
-          "rating": 2140,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/PWgKpcNF",
-          "game_link_kind": "recent",
-          "round_game": "3:bufferunderrun:feet_barbie",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "Warvold",
-          "status": "pending",
-          "rating": 2045,
-          "decided_without_play": false,
-          "expected_points": 0.5728722513945044,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:plaisirs_ephemeres:warvold",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "ecoarrivazumashoomzo",
-          "status": "lost",
-          "rating": 1908,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/UQA8ZwLJ",
-          "game_link_kind": "recent",
-          "round_game": "3:ecoarrivazumashoomzo:lorb",
-          "season_points": 1.0,
-          "season_games": 3
-        },
-        {
-          "handle": "glbert",
-          "status": "won",
-          "rating": 1853,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/QI0swgmu",
-          "game_link_kind": "recent",
-          "round_game": "3:glbert:jeb_al_gloke",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "kyriakos1301",
-          "status": "pending",
-          "rating": 1836,
-          "decided_without_play": false,
-          "expected_points": 0.584100958813678,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/yM3VjhFO",
-          "game_link_kind": "live",
-          "round_game": "3:jbyrd11:kyriakos1301",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "jd0972",
-          "status": "lost",
-          "rating": 1638,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/Rf5gOW7z",
-          "game_link_kind": "recent",
-          "round_game": "3:fireball100:jd0972",
-          "season_points": 1.0,
-          "season_games": 3
-        },
-        {
-          "handle": "f1re_bunny",
-          "status": "lost",
-          "rating": 1495,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/Orc7yhZk",
-          "game_link_kind": "recent",
-          "round_game": "3:f1re_bunny:mtsundance",
-          "season_points": 0.0,
-          "season_games": 3
-        }
-      ],
-      "projected_rank": 26
-    },
-    {
       "owner": "berndwind",
       "name": "Sweet perfection",
       "actual_points": 10.5,
@@ -3621,7 +3487,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 27
+      "projected_rank": 26
     },
     {
       "owner": "cinemashow",
@@ -3755,7 +3621,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 28
+      "projected_rank": 27
     },
     {
       "owner": "Tactix47",
@@ -3889,7 +3755,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 29
+      "projected_rank": 28
     },
     {
       "owner": "alp_arslan92",
@@ -4021,6 +3887,140 @@
           "round_game": "3:mongreltiger:tomb85",
           "season_points": 1.0,
           "season_games": 2
+        }
+      ],
+      "projected_rank": 29
+    },
+    {
+      "owner": "Bxvrc2lh",
+      "name": "AngrySwedes",
+      "actual_points": 11.0,
+      "actual_round": 2.0,
+      "projected_points": 11.961101750613441,
+      "projected_round": 2.96110175061344,
+      "left": 2,
+      "in_progress": 0,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "chatakkuma",
+          "status": "pending",
+          "rating": 2260,
+          "decided_without_play": false,
+          "expected_points": 0.3882294992189357,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:betolini:chatakkuma",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Feet_Barbie",
+          "status": "won",
+          "rating": 2140,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/PWgKpcNF",
+          "game_link_kind": "recent",
+          "round_game": "3:bufferunderrun:feet_barbie",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Warvold",
+          "status": "pending",
+          "rating": 2045,
+          "decided_without_play": false,
+          "expected_points": 0.5728722513945044,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:plaisirs_ephemeres:warvold",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "ecoarrivazumashoomzo",
+          "status": "lost",
+          "rating": 1908,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/UQA8ZwLJ",
+          "game_link_kind": "recent",
+          "round_game": "3:ecoarrivazumashoomzo:lorb",
+          "season_points": 1.0,
+          "season_games": 3
+        },
+        {
+          "handle": "glbert",
+          "status": "won",
+          "rating": 1853,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/QI0swgmu",
+          "game_link_kind": "recent",
+          "round_game": "3:glbert:jeb_al_gloke",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "kyriakos1301",
+          "status": "lost",
+          "rating": 1819,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/yM3VjhFO",
+          "game_link_kind": "recent",
+          "round_game": "3:jbyrd11:kyriakos1301",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "jd0972",
+          "status": "lost",
+          "rating": 1638,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/Rf5gOW7z",
+          "game_link_kind": "recent",
+          "round_game": "3:fireball100:jd0972",
+          "season_points": 1.0,
+          "season_games": 3
+        },
+        {
+          "handle": "f1re_bunny",
+          "status": "lost",
+          "rating": 1495,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/Orc7yhZk",
+          "game_link_kind": "recent",
+          "round_game": "3:f1re_bunny:mtsundance",
+          "season_points": 0.0,
+          "season_games": 3
         }
       ],
       "projected_rank": 30
@@ -5126,7 +5126,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2111,
+          "rating": 2109,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -5528,7 +5528,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2111,
+          "rating": 2109,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8868,6 +8868,14 @@
       "eligible": false
     },
     {
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 4.908629190534385,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "Pawn with the Sickness",
       "projected": 4.825103715657443,
       "actual": 3.0,
@@ -8937,14 +8945,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 4.324528231720707,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 5,
       "eligible": false
     },
     {
@@ -9188,14 +9188,6 @@
       "eligible": false
     },
     {
-      "name": "Riding with the King",
-      "projected": 3.6754717682792926,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 5,
-      "eligible": false
-    },
-    {
       "name": "Season 50 midlife crisis",
       "projected": 3.658090277689934,
       "actual": 0.5,
@@ -9262,6 +9254,14 @@
     {
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 3.174896284342557,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
+      "name": "Riding with the King",
+      "projected": 3.091370809465615,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
