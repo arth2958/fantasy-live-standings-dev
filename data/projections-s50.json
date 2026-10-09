@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 2,
-  "updated_at": "2026-10-09T10:25:13.307137Z",
+  "updated_at": "2026-10-09T10:51:42.875462Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 5.26303131506476,
+      "projected": 5.263031315064761,
       "actual": 2.0,
       "paired": 8,
       "left": 6,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.665292778767288,
+      "projected": 4.665292778767289,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Pawn with the Sickness",
-      "projected": 4.658964291074321,
+      "projected": 4.65896429107432,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.458649093176222,
+      "projected": 4.458649093176221,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "50-50 my next move is a blunder",
-      "projected": 4.447543126166048,
+      "projected": 4.447543126166049,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "50 first mates",
-      "projected": 4.08186182971638,
+      "projected": 4.081861829716379,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 3.989671939371092,
+      "projected": 3.9896719393710915,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9567210646058655,
+      "projected": 3.956721064605865,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9117,7 +9117,7 @@
     },
     {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 3.8564419666395873,
+      "projected": 3.8564419666395864,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.810661518948133,
+      "projected": 3.810661518948134,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 3.634480181719316,
+      "projected": 3.6344801817193164,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.5830502175305203,
+      "projected": 3.58305021753052,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 3.552456873833952,
+      "projected": 3.5524568738339517,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 3.5413509068237783,
+      "projected": 3.541350906823779,
       "actual": 0.5,
       "paired": 8,
       "left": 6,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 3.3410357089256797,
+      "projected": 3.341035708925679,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
@@ -9237,7 +9237,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.3272130965956928,
+      "projected": 3.327213096595693,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 2.9078765736840095,
+      "projected": 2.907876573684009,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 2.7369686849352397,
+      "projected": 2.7369686849352393,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
