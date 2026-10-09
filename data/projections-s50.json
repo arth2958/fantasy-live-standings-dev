@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-09T15:41:02.210799Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-09T16:03:21.240908Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3363,7 +3363,7 @@
       "projected_points": 12.545202709427118,
       "projected_round": 3.545202709427118,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3450,8 +3450,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/yM3VjhFO",
+          "game_link_kind": "live",
           "round_game": "3:jbyrd11:kyriakos1301",
           "season_points": 2.0,
           "season_games": 2
@@ -3765,7 +3765,7 @@
       "projected_points": 12.174872741618998,
       "projected_round": 3.174872741618999,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -3807,8 +3807,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/qlfNSezP",
+          "game_link_kind": "live",
           "round_game": "3:lc69:sideshow_bob",
           "season_points": 1.0,
           "season_games": 2
@@ -4301,7 +4301,7 @@
       "projected_points": 11.870639072457212,
       "projected_round": 4.870639072457213,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4343,8 +4343,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/qlfNSezP",
+          "game_link_kind": "live",
           "round_game": "3:lc69:sideshow_bob",
           "season_points": 1.0,
           "season_games": 2
@@ -6847,7 +6847,7 @@
       "projected_points": 9.953140892370298,
       "projected_round": 3.9531408923702975,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6889,8 +6889,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/qlfNSezP",
+          "game_link_kind": "live",
           "round_game": "3:lc69:sideshow_bob",
           "season_points": 1.0,
           "season_games": 2
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.657938629385224,
+      "projected": 4.6579386293852245,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.458649093176222,
+      "projected": 4.458649093176221,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9205,7 +9205,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.462979542583043,
+      "projected": 3.4629795425830436,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
