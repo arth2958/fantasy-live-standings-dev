@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-09T07:52:10.866771Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-09T08:04:13.883437Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1755,7 +1755,7 @@
       "projected_points": 13.520420120437329,
       "projected_round": 3.52042012043733,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1797,8 +1797,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -1889,7 +1889,7 @@
       "projected_points": 13.380020187191851,
       "projected_round": 3.880020187191852,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1931,8 +1931,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -2291,7 +2291,7 @@
       "projected_points": 13.152690037356699,
       "projected_round": 3.6526900373566993,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2333,8 +2333,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -3631,7 +3631,7 @@
       "projected_points": 12.048542662863277,
       "projected_round": 3.0485426628632766,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3673,8 +3673,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -4971,7 +4971,7 @@
       "projected_points": 11.184285956667916,
       "projected_round": 3.684285956667915,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5013,8 +5013,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -5909,7 +5909,7 @@
       "projected_points": 10.445210173388073,
       "projected_round": 2.4452101733880736,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5951,8 +5951,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -6713,7 +6713,7 @@
       "projected_points": 9.988488469357328,
       "projected_round": 3.488488469357329,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6755,8 +6755,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -6981,7 +6981,7 @@
       "projected_points": 9.921786506272374,
       "projected_round": 2.9217865062723747,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -7023,8 +7023,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/B324K0qk",
+          "game_link_kind": "live",
           "round_game": "3:jg777:mastersrv",
           "season_points": 1.0,
           "season_games": 2
@@ -8925,7 +8925,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.554789826611927,
+      "projected": 4.554789826611926,
       "actual": 2.5,
       "paired": 8,
       "left": 4,
@@ -9205,7 +9205,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.445210173388073,
+      "projected": 3.445210173388074,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
