@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-09T12:29:15.511380Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-09T12:56:38.532991Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -415,7 +415,7 @@
       "projected_points": 14.365337879259418,
       "projected_round": 4.865337879259417,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -427,8 +427,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -549,7 +549,7 @@
       "projected_points": 14.210443603743283,
       "projected_round": 4.2104436037432835,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -561,8 +561,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -817,7 +817,7 @@
       "projected_points": 14.124504331048554,
       "projected_round": 4.624504331048554,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -829,8 +829,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -1085,7 +1085,7 @@
       "projected_points": 14.031931011655121,
       "projected_round": 4.0319310116551215,
       "left": 4,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -1097,8 +1097,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -1219,7 +1219,7 @@
       "projected_points": 13.891531078409644,
       "projected_round": 4.391531078409644,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1231,8 +1231,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -2425,7 +2425,7 @@
       "projected_points": 13.034792602216488,
       "projected_round": 3.534792602216488,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2437,8 +2437,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -3631,7 +3631,7 @@
       "projected_points": 12.072216389052628,
       "projected_round": 3.0722163890526275,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -3643,8 +3643,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -3765,7 +3765,7 @@
       "projected_points": 12.033370123364275,
       "projected_round": 2.033370123364275,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -3777,8 +3777,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -4569,7 +4569,7 @@
       "projected_points": 11.529935651355325,
       "projected_round": 3.029935651355325,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -4581,8 +4581,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -4837,7 +4837,7 @@
       "projected_points": 11.242336278887205,
       "projected_round": 3.7423362788872057,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4849,8 +4849,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.0,
           "season_games": 2
@@ -6043,7 +6043,7 @@
       "projected_points": 10.438968345849666,
       "projected_round": 2.9389683458496667,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -6055,8 +6055,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -6177,7 +6177,7 @@
       "projected_points": 10.433297397490167,
       "projected_round": 3.433297397490166,
       "left": 5,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -6189,8 +6189,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zjv733tG",
+          "game_link_kind": "live",
           "round_game": "3:itsasecret2000:rio2018",
           "season_points": 1.5,
           "season_games": 2
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.249531360596257,
+      "projected": 4.249531360596256,
       "actual": 2.5,
       "paired": 8,
       "left": 4,
