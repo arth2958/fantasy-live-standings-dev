@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-09T17:21:12.567335Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-09T17:36:59.248608Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -549,7 +549,7 @@
       "projected_points": 14.57170585463156,
       "projected_round": 4.571705854631559,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -606,8 +606,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/afAeaXs5",
+          "game_link_kind": "live",
           "round_game": "3:jarolos:lou-e",
           "season_points": 2.0,
           "season_games": 2
@@ -1642,7 +1642,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2104,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -3990,7 +3990,7 @@
           "game_link_kind": "recent",
           "round_game": "3:jbyrd11:kyriakos1301",
           "season_points": 2.0,
-          "season_games": 2
+          "season_games": 3
         },
         {
           "handle": "jd0972",
@@ -5126,7 +5126,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2104,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -5528,7 +5528,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2104,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.665292778767288,
+      "projected": 4.665292778767289,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.611307523223441,
+      "projected": 4.61130752322344,
       "actual": 3.5,
       "paired": 8,
       "left": 2,
@@ -8957,7 +8957,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 4.189338481051866,
+      "projected": 4.189338481051867,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 4.051490180281852,
+      "projected": 4.051490180281853,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9053,7 +9053,7 @@
     },
     {
       "name": "50-50 my next move is a blunder",
-      "projected": 4.014771970509,
+      "projected": 4.014771970509001,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 3.985228029491,
+      "projected": 3.9852280294909996,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9567210646058655,
+      "projected": 3.956721064605865,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.948509819718148,
+      "projected": 3.9485098197181476,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.810661518948134,
+      "projected": 3.810661518948133,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
