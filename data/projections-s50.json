@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 3,
-  "updated_at": "2026-10-09T11:37:08.117281Z",
+  "updated_at": "2026-10-09T11:53:13.911310Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.665292778767289,
+      "projected": 4.665292778767288,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 4.593823355561284,
+      "projected": 4.593823355561285,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.416949782469479,
+      "projected": 4.41694978246948,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 4.189338481051867,
+      "projected": 4.189338481051866,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.956721064605865,
+      "projected": 3.9567210646058655,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.810661518948133,
+      "projected": 3.810661518948134,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Riding with the King",
-      "projected": 3.675471768279293,
+      "projected": 3.6754717682792926,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 3.4061766444387156,
+      "projected": 3.406176644438715,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.327213096595693,
+      "projected": 3.3272130965956928,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 2.938851219316042,
+      "projected": 2.9388512193160423,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 2.7369686849352393,
+      "projected": 2.73696868493524,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
