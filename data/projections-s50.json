@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-09T09:51:57.737455Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-10-09T10:04:13.289223Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2023,7 +2023,7 @@
       "projected_points": 13.318549030438216,
       "projected_round": 3.3185490304382155,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2095,8 +2095,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VxUSZLRT",
+          "game_link_kind": "live",
           "round_game": "3:classicalprac:gary0892",
           "season_points": 0.5,
           "season_games": 2
@@ -4569,7 +4569,7 @@
       "projected_points": 11.409754700760429,
       "projected_round": 3.9097547007604283,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4641,8 +4641,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VxUSZLRT",
+          "game_link_kind": "live",
           "round_game": "3:classicalprac:gary0892",
           "season_points": 0.5,
           "season_games": 2
@@ -4837,7 +4837,7 @@
       "projected_points": 11.249799855717791,
       "projected_round": 2.7497998557177907,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -4909,8 +4909,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VxUSZLRT",
+          "game_link_kind": "live",
           "round_game": "3:classicalprac:gary0892",
           "season_points": 0.5,
           "season_games": 2
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 4.010328060628908,
+      "projected": 4.0103280606289085,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
