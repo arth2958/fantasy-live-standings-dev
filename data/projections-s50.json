@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-09T13:25:50.218361Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-09T13:53:05.210202Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 5.061148780683959,
+      "projected": 5.072645096911756,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Pawn with the Sickness",
-      "projected": 4.65896429107432,
+      "projected": 4.658964291074321,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.657938629385224,
+      "projected": 4.6579386293852245,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.458649093176222,
+      "projected": 4.458649093176221,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.462979542583043,
+      "projected": 3.4629795425830436,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 3.341035708925679,
+      "projected": 3.3410357089256792,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 2.9388512193160423,
+      "projected": 2.9273549030882444,
       "actual": 1.0,
       "paired": 8,
       "left": 4,
