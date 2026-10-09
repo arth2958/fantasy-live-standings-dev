@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-09T06:01:55.174629Z",
+  "round_in_progress": 0,
+  "updated_at": "2026-10-09T06:29:15.309615Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -408,6 +408,140 @@
       "projected_rank": 3
     },
     {
+      "owner": "Okady",
+      "name": "Okady s minions",
+      "actual_points": 12.5,
+      "actual_round": 3.0,
+      "projected_points": 14.365337879259418,
+      "projected_round": 4.865337879259417,
+      "left": 4,
+      "in_progress": 0,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "rio2018",
+          "status": "pending",
+          "rating": 2361,
+          "decided_without_play": false,
+          "expected_points": 0.6387377491117248,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:itsasecret2000:rio2018",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "irongalaxy",
+          "status": "draw",
+          "rating": 2100,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
+          "game_url": "https://lichess.org/kbONRrr9",
+          "game_link_kind": "recent",
+          "round_game": "3:irongalaxy:likespace_bot",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "scarff",
+          "status": "pending",
+          "rating": 2043,
+          "decided_without_play": false,
+          "expected_points": 0.3950870979920431,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:conan_9:scarff",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "mynameismund",
+          "status": "pending",
+          "rating": 1900,
+          "decided_without_play": false,
+          "expected_points": 0.48992755307256153,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:finerik:mynameismund",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "glbert",
+          "status": "won",
+          "rating": 1853,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/QI0swgmu",
+          "game_link_kind": "recent",
+          "round_game": "3:glbert:jeb_al_gloke",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "KamagayaJiji",
+          "status": "won",
+          "rating": 1787,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/3QUfO1Bz",
+          "game_link_kind": "recent",
+          "round_game": "3:kamagayajiji:wordrearrangment",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "cham",
+          "status": "pending",
+          "rating": 1604,
+          "decided_without_play": false,
+          "expected_points": 0.34158547908308745,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:cham:therealdivider",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "electricfalcon",
+          "status": "draw",
+          "rating": 1534,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
+          "game_url": "https://lichess.org/o3V1tfb9",
+          "game_link_kind": "recent",
+          "round_game": "3:dragon19410:electricfalcon",
+          "season_points": 2.5,
+          "season_games": 3
+        }
+      ],
+      "projected_rank": 4
+    },
+    {
       "owner": "guitarspider",
       "name": "and all I got was this lousy team name",
       "actual_points": 12.0,
@@ -539,7 +673,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 4
+      "projected_rank": 5
     },
     {
       "owner": "pawneater2020",
@@ -673,7 +807,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 5
+      "projected_rank": 6
     },
     {
       "owner": "Lordziax",
@@ -807,7 +941,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 6
+      "projected_rank": 7
     },
     {
       "owner": "Pineapplechiffoncake",
@@ -939,140 +1073,6 @@
           "round_game": "3:blueside617:franconianchess",
           "season_points": 0.5,
           "season_games": 2
-        }
-      ],
-      "projected_rank": 7
-    },
-    {
-      "owner": "Okady",
-      "name": "Okady s minions",
-      "actual_points": 11.5,
-      "actual_round": 2.0,
-      "projected_points": 13.876848770477208,
-      "projected_round": 4.376848770477208,
-      "left": 5,
-      "in_progress": 1,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "rio2018",
-          "status": "pending",
-          "rating": 2361,
-          "decided_without_play": false,
-          "expected_points": 0.6387377491117248,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:itsasecret2000:rio2018",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "irongalaxy",
-          "status": "draw",
-          "rating": 2100,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": 0.5,
-          "round_points": 0.5,
-          "round_games": 1,
-          "game_url": "https://lichess.org/kbONRrr9",
-          "game_link_kind": "recent",
-          "round_game": "3:irongalaxy:likespace_bot",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "scarff",
-          "status": "pending",
-          "rating": 2043,
-          "decided_without_play": false,
-          "expected_points": 0.3950870979920431,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:conan_9:scarff",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "mynameismund",
-          "status": "pending",
-          "rating": 1900,
-          "decided_without_play": false,
-          "expected_points": 0.48992755307256153,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:finerik:mynameismund",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "glbert",
-          "status": "won",
-          "rating": 1853,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/QI0swgmu",
-          "game_link_kind": "recent",
-          "round_game": "3:glbert:jeb_al_gloke",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "KamagayaJiji",
-          "status": "pending",
-          "rating": 1768,
-          "decided_without_play": false,
-          "expected_points": 0.5115108912177917,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/3QUfO1Bz",
-          "game_link_kind": "live",
-          "round_game": "3:kamagayajiji:wordrearrangment",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "cham",
-          "status": "pending",
-          "rating": 1604,
-          "decided_without_play": false,
-          "expected_points": 0.34158547908308745,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:cham:therealdivider",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "electricfalcon",
-          "status": "draw",
-          "rating": 1534,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": 0.5,
-          "round_points": 0.5,
-          "round_games": 1,
-          "game_url": "https://lichess.org/o3V1tfb9",
-          "game_link_kind": "recent",
-          "round_game": "3:dragon19410:electricfalcon",
-          "season_points": 2.5,
-          "season_games": 3
         }
       ],
       "projected_rank": 8
@@ -2284,6 +2284,140 @@
       "projected_rank": 17
     },
     {
+      "owner": "GoldenRetrieverChess",
+      "name": "Frank & George’s S50 Celebration Squad",
+      "actual_points": 11.0,
+      "actual_round": 1.5,
+      "projected_points": 13.152690037356699,
+      "projected_round": 3.6526900373566993,
+      "left": 4,
+      "in_progress": 0,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "alp_arslan92",
+          "status": "pending",
+          "rating": 2313,
+          "decided_without_play": false,
+          "expected_points": 0.6712405808158317,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:alp_arslan92:guitarspider",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "yellorambo",
+          "status": "draw",
+          "rating": 2116,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
+          "game_url": "https://lichess.org/8pSSiTwQ",
+          "game_link_kind": "recent",
+          "round_game": "3:gonenowhere:yellorambo",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Jg777",
+          "status": "pending",
+          "rating": 2035,
+          "decided_without_play": false,
+          "expected_points": 0.4884891087822083,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:jg777:mastersrv",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "simonWasHere",
+          "status": "pending",
+          "rating": 1986,
+          "decided_without_play": false,
+          "expected_points": 0.5700528235839882,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:pawnpushingpleb:simonwashere",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "fork2020",
+          "status": "lost",
+          "rating": 1861,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/hsOrvaT8",
+          "game_link_kind": "recent",
+          "round_game": "3:fork2020:nirakuhakamura",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "KamagayaJiji",
+          "status": "won",
+          "rating": 1787,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/3QUfO1Bz",
+          "game_link_kind": "recent",
+          "round_game": "3:kamagayajiji:wordrearrangment",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "jdw10",
+          "status": "pending",
+          "rating": 1639,
+          "decided_without_play": false,
+          "expected_points": 0.42290752417467103,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:jdw10:phib",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "macha1313",
+          "status": "lost",
+          "rating": 1320,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/4vILdQBA",
+          "game_link_kind": "recent",
+          "round_game": "3:macha1313:time_lord19",
+          "season_points": 1.0,
+          "season_games": 3
+        }
+      ],
+      "projected_rank": 18
+    },
+    {
       "owner": "Bennol",
       "name": "Candidudes",
       "actual_points": 11.5,
@@ -2415,7 +2549,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 18
+      "projected_rank": 19
     },
     {
       "owner": "Tranzoo",
@@ -2549,7 +2683,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 19
+      "projected_rank": 20
     },
     {
       "owner": "Bxvrc2lh",
@@ -2683,7 +2817,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 20
+      "projected_rank": 21
     },
     {
       "owner": "Silkthewanderer",
@@ -2817,7 +2951,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 21
+      "projected_rank": 22
     },
     {
       "owner": "pykkis",
@@ -2951,7 +3085,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 22
+      "projected_rank": 23
     },
     {
       "owner": "tomb85",
@@ -3083,140 +3217,6 @@
           "round_game": "3:dama_x_rey:jcarmody",
           "season_points": 2.0,
           "season_games": 2
-        }
-      ],
-      "projected_rank": 23
-    },
-    {
-      "owner": "GoldenRetrieverChess",
-      "name": "Frank & George’s S50 Celebration Squad",
-      "actual_points": 10.0,
-      "actual_round": 0.5,
-      "projected_points": 12.664200928574491,
-      "projected_round": 3.164200928574491,
-      "left": 5,
-      "in_progress": 1,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "alp_arslan92",
-          "status": "pending",
-          "rating": 2313,
-          "decided_without_play": false,
-          "expected_points": 0.6712405808158317,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:alp_arslan92:guitarspider",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "yellorambo",
-          "status": "draw",
-          "rating": 2116,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": 0.5,
-          "round_points": 0.5,
-          "round_games": 1,
-          "game_url": "https://lichess.org/8pSSiTwQ",
-          "game_link_kind": "recent",
-          "round_game": "3:gonenowhere:yellorambo",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "Jg777",
-          "status": "pending",
-          "rating": 2035,
-          "decided_without_play": false,
-          "expected_points": 0.4884891087822083,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:jg777:mastersrv",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "simonWasHere",
-          "status": "pending",
-          "rating": 1986,
-          "decided_without_play": false,
-          "expected_points": 0.5700528235839882,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:pawnpushingpleb:simonwashere",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "fork2020",
-          "status": "lost",
-          "rating": 1861,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/hsOrvaT8",
-          "game_link_kind": "recent",
-          "round_game": "3:fork2020:nirakuhakamura",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "KamagayaJiji",
-          "status": "pending",
-          "rating": 1768,
-          "decided_without_play": false,
-          "expected_points": 0.5115108912177917,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/3QUfO1Bz",
-          "game_link_kind": "live",
-          "round_game": "3:kamagayajiji:wordrearrangment",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "jdw10",
-          "status": "pending",
-          "rating": 1639,
-          "decided_without_play": false,
-          "expected_points": 0.42290752417467103,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:jdw10:phib",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "macha1313",
-          "status": "lost",
-          "rating": 1320,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/4vILdQBA",
-          "game_link_kind": "recent",
-          "round_game": "3:macha1313:time_lord19",
-          "season_points": 1.0,
-          "season_games": 3
         }
       ],
       "projected_rank": 24
@@ -6438,6 +6438,140 @@
       "projected_rank": 48
     },
     {
+      "owner": "semlegesnev",
+      "name": "Call it nationalism",
+      "actual_points": 7.5,
+      "actual_round": 1.5,
+      "projected_points": 10.08186182971638,
+      "projected_round": 4.081861829716379,
+      "left": 5,
+      "in_progress": 0,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "Petro2",
+          "status": "pending",
+          "rating": 2192,
+          "decided_without_play": false,
+          "expected_points": 0.472684026993507,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:jeeprep2374:petro2",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "semlegesnev",
+          "status": "pending",
+          "rating": 2079,
+          "decided_without_play": false,
+          "expected_points": 0.5071950817090514,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:aactrl:semlegesnev",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "mixxanber",
+          "status": "draw",
+          "rating": 2003,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
+          "game_url": "https://lichess.org/OgbrUfgC",
+          "game_link_kind": "recent",
+          "round_game": "3:cowtone:mixxanber",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Paulze2000",
+          "status": "pending",
+          "rating": 1907,
+          "decided_without_play": false,
+          "expected_points": 0.5244454611206615,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:hesperian:paulze2000",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "zal667",
+          "status": "lost",
+          "rating": 1804,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/1egDjkDJ",
+          "game_link_kind": "recent",
+          "round_game": "3:gmat20020:zal667",
+          "season_points": 0.0,
+          "season_games": 3
+        },
+        {
+          "handle": "KamagayaJiji",
+          "status": "won",
+          "rating": 1787,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/3QUfO1Bz",
+          "game_link_kind": "recent",
+          "round_game": "3:kamagayajiji:wordrearrangment",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Hylpen",
+          "status": "pending",
+          "rating": 1656,
+          "decided_without_play": false,
+          "expected_points": 0.4712494361077314,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:hylpen:tastypotatohead",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "BLuesiDE617",
+          "status": "pending",
+          "rating": 1586,
+          "decided_without_play": false,
+          "expected_points": 0.6062878237854281,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:blueside617:franconianchess",
+          "season_points": 0.5,
+          "season_games": 2
+        }
+      ],
+      "projected_rank": 49
+    },
+    {
       "owner": "EnPriseWithEase",
       "name": "Oh, such are the highs and lows of chess!",
       "actual_points": 7.0,
@@ -6569,7 +6703,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 49
+      "projected_rank": 50
     },
     {
       "owner": "time_lord19",
@@ -6703,7 +6837,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 50
+      "projected_rank": 51
     },
     {
       "owner": "voylento",
@@ -6837,7 +6971,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 51
+      "projected_rank": 52
     },
     {
       "owner": "MatthewKCanada",
@@ -6971,7 +7105,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 52
+      "projected_rank": 53
     },
     {
       "owner": "AACtrl",
@@ -7102,140 +7236,6 @@
           "game_link_kind": null,
           "round_game": "3:acerb95:metalpawn",
           "season_points": 2.0,
-          "season_games": 2
-        }
-      ],
-      "projected_rank": 53
-    },
-    {
-      "owner": "semlegesnev",
-      "name": "Call it nationalism",
-      "actual_points": 6.5,
-      "actual_round": 0.5,
-      "projected_points": 9.593372720934171,
-      "projected_round": 3.593372720934171,
-      "left": 6,
-      "in_progress": 1,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "Petro2",
-          "status": "pending",
-          "rating": 2192,
-          "decided_without_play": false,
-          "expected_points": 0.472684026993507,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:jeeprep2374:petro2",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "semlegesnev",
-          "status": "pending",
-          "rating": 2079,
-          "decided_without_play": false,
-          "expected_points": 0.5071950817090514,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:aactrl:semlegesnev",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "mixxanber",
-          "status": "draw",
-          "rating": 2003,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": 0.5,
-          "round_points": 0.5,
-          "round_games": 1,
-          "game_url": "https://lichess.org/OgbrUfgC",
-          "game_link_kind": "recent",
-          "round_game": "3:cowtone:mixxanber",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "Paulze2000",
-          "status": "pending",
-          "rating": 1907,
-          "decided_without_play": false,
-          "expected_points": 0.5244454611206615,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:hesperian:paulze2000",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "zal667",
-          "status": "lost",
-          "rating": 1804,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/1egDjkDJ",
-          "game_link_kind": "recent",
-          "round_game": "3:gmat20020:zal667",
-          "season_points": 0.0,
-          "season_games": 3
-        },
-        {
-          "handle": "KamagayaJiji",
-          "status": "pending",
-          "rating": 1768,
-          "decided_without_play": false,
-          "expected_points": 0.5115108912177917,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/3QUfO1Bz",
-          "game_link_kind": "live",
-          "round_game": "3:kamagayajiji:wordrearrangment",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Hylpen",
-          "status": "pending",
-          "rating": 1656,
-          "decided_without_play": false,
-          "expected_points": 0.4712494361077314,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:hylpen:tastypotatohead",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "BLuesiDE617",
-          "status": "pending",
-          "rating": 1586,
-          "decided_without_play": false,
-          "expected_points": 0.6062878237854281,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:blueside617:franconianchess",
-          "season_points": 0.5,
           "season_games": 2
         }
       ],
@@ -7376,6 +7376,140 @@
       "projected_rank": 55
     },
     {
+      "owner": "Bpack",
+      "name": "int-T-ana Jones and the Tomple of Doom",
+      "actual_points": 7.0,
+      "actual_round": 2.0,
+      "projected_points": 9.324693922254031,
+      "projected_round": 4.324693922254031,
+      "left": 5,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "bXVrc2lh",
+          "status": "pending",
+          "rating": 2345,
+          "decided_without_play": false,
+          "expected_points": 0.5057562084111449,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:bxvrc2lh:drgarras",
+          "season_points": 0.5,
+          "season_games": 1
+        },
+        {
+          "handle": "semlegesnev",
+          "status": "pending",
+          "rating": 2079,
+          "decided_without_play": false,
+          "expected_points": 0.5071950817090514,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:aactrl:semlegesnev",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "Fischer_and_Chips88",
+          "status": "pending",
+          "rating": 2014,
+          "decided_without_play": false,
+          "expected_points": 0.5028781995748108,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:fischer_and_chips88:mgold",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "TheDifferenceOfTier5",
+          "status": "no_longer_rostered",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 0.0,
+          "season_games": 0
+        },
+        {
+          "handle": "glbert",
+          "status": "won",
+          "rating": 1853,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/QI0swgmu",
+          "game_link_kind": "recent",
+          "round_game": "3:glbert:jeb_al_gloke",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "KamagayaJiji",
+          "status": "won",
+          "rating": 1787,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/3QUfO1Bz",
+          "game_link_kind": "recent",
+          "round_game": "3:kamagayajiji:wordrearrangment",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Pineapplechiffoncake",
+          "status": "pending",
+          "rating": 1655,
+          "decided_without_play": false,
+          "expected_points": 0.5086338358210827,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:cosmoaps:pineapplechiffoncake",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "mongreltiger",
+          "status": "pending",
+          "rating": 1463,
+          "decided_without_play": false,
+          "expected_points": 0.3002305967379419,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:mongreltiger:tomb85",
+          "season_points": 1.0,
+          "season_games": 2
+        }
+      ],
+      "projected_rank": 56
+    },
+    {
       "owner": "LosingIsTheBest",
       "name": "Gods Of Survivors",
       "actual_points": 6.0,
@@ -7507,7 +7641,7 @@
           "season_games": 1
         }
       ],
-      "projected_rank": 56
+      "projected_rank": 57
     },
     {
       "owner": "Sussasun",
@@ -7641,7 +7775,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 57
+      "projected_rank": 58
     },
     {
       "owner": "FinErik",
@@ -7773,140 +7907,6 @@
           "round_game": "3:apidae:nightsub",
           "season_points": 2.5,
           "season_games": 3
-        }
-      ],
-      "projected_rank": 58
-    },
-    {
-      "owner": "Bpack",
-      "name": "int-T-ana Jones and the Tomple of Doom",
-      "actual_points": 6.0,
-      "actual_round": 1.0,
-      "projected_points": 8.836204813471824,
-      "projected_round": 3.836204813471823,
-      "left": 6,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "bXVrc2lh",
-          "status": "pending",
-          "rating": 2345,
-          "decided_without_play": false,
-          "expected_points": 0.5057562084111449,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:bxvrc2lh:drgarras",
-          "season_points": 0.5,
-          "season_games": 1
-        },
-        {
-          "handle": "semlegesnev",
-          "status": "pending",
-          "rating": 2079,
-          "decided_without_play": false,
-          "expected_points": 0.5071950817090514,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:aactrl:semlegesnev",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "Fischer_and_Chips88",
-          "status": "pending",
-          "rating": 2014,
-          "decided_without_play": false,
-          "expected_points": 0.5028781995748108,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:fischer_and_chips88:mgold",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "TheDifferenceOfTier5",
-          "status": "no_longer_rostered",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 0.0,
-          "season_games": 0
-        },
-        {
-          "handle": "glbert",
-          "status": "won",
-          "rating": 1853,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/QI0swgmu",
-          "game_link_kind": "recent",
-          "round_game": "3:glbert:jeb_al_gloke",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "KamagayaJiji",
-          "status": "pending",
-          "rating": 1768,
-          "decided_without_play": false,
-          "expected_points": 0.5115108912177917,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/3QUfO1Bz",
-          "game_link_kind": "live",
-          "round_game": "3:kamagayajiji:wordrearrangment",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Pineapplechiffoncake",
-          "status": "pending",
-          "rating": 1655,
-          "decided_without_play": false,
-          "expected_points": 0.5086338358210827,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:cosmoaps:pineapplechiffoncake",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "mongreltiger",
-          "status": "pending",
-          "rating": 1463,
-          "decided_without_play": false,
-          "expected_points": 0.3002305967379419,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:mongreltiger:tomb85",
-          "season_points": 1.0,
-          "season_games": 2
         }
       ],
       "projected_rank": 59
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 5.123027984497604,
+      "projected": 5.112959207644014,
       "actual": 3.5,
       "paired": 8,
       "left": 3,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.458649093176222,
+      "projected": 4.458649093176221,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -8961,14 +8961,6 @@
       "actual": 2.0,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.4066272790658285,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9044,6 +9036,14 @@
       "eligible": false
     },
     {
+      "name": "50 first mates",
+      "projected": 4.081861829716379,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "pspspspspsps",
       "projected": 4.027331897443345,
       "actual": 1.0,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 4.0103280606289085,
+      "projected": 4.010328060628908,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9089,6 +9089,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "The Greek Gifty Nifty Fifty",
+      "projected": 3.9181381702836204,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9161,14 +9169,6 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "50 first mates",
-      "projected": 3.5933727209341706,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "fifty shades of black and white",
-      "projected": 2.8769720155023957,
+      "projected": 2.887040792355986,
       "actual": 1.5,
       "paired": 8,
       "left": 3,
