@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-09T13:53:05.210202Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-09T14:06:43.792858Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -13,7 +13,7 @@
       "projected_points": 17.077200489125353,
       "projected_round": 4.577200489125354,
       "left": 8,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -85,8 +85,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zgCRBGHG",
+          "game_link_kind": "live",
           "round_game": "3:genturgidson:ztraynor",
           "season_points": 1.5,
           "season_games": 2
@@ -1621,7 +1621,7 @@
       "projected_points": 13.668256965839497,
       "projected_round": 4.168256965839498,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1708,8 +1708,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/zgCRBGHG",
+          "game_link_kind": "live",
           "round_game": "3:genturgidson:ztraynor",
           "season_points": 2.0,
           "season_games": 2
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 5.26303131506476,
+      "projected": 5.263031315064761,
       "actual": 2.0,
       "paired": 8,
       "left": 6,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 5.072645096911756,
+      "projected": 5.0726450969117565,
       "actual": 3.0,
       "paired": 8,
       "left": 4,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 4.672786903404306,
+      "projected": 4.672786903404307,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.665292778767288,
+      "projected": 4.665292778767289,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9567210646058655,
+      "projected": 3.956721064605865,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.3272130965956936,
+      "projected": 3.327213096595693,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 2.73696868493524,
+      "projected": 2.7369686849352393,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
