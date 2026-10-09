@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-09T11:53:13.911310Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-09T12:05:33.252706Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -951,7 +951,7 @@
       "projected_points": 14.106564060672472,
       "projected_round": 4.106564060672471,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -978,8 +978,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/GA1xc2db",
+          "game_link_kind": "live",
           "round_game": "3:astronominoff:buki9",
           "season_points": 0.0,
           "season_games": 1
@@ -8932,6 +8932,14 @@
       "eligible": false
     },
     {
+      "name": "There Will Be Blunders",
+      "projected": 4.537020457416957,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "The Tarrasch Talkers",
       "projected": 4.458649093176221,
       "actual": 1.5,
@@ -9060,22 +9068,6 @@
       "eligible": false
     },
     {
-      "name": "King's Landing",
-      "projected": 4.0103280606289085,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "There Will Be Blunders",
-      "projected": 3.9896719393710915,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "Inexplicable Fianchetto Agenda",
       "projected": 3.985491946370024,
       "actual": 1.0,
@@ -9173,7 +9165,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 3.6344801817193164,
+      "projected": 3.634480181719316,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9204,6 +9196,14 @@
       "eligible": false
     },
     {
+      "name": "King's Landing",
+      "projected": 3.4629795425830436,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "The kannjuring",
       "projected": 3.4608633769001056,
       "actual": 0.5,
@@ -9229,7 +9229,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
-      "projected": 3.341035708925679,
+      "projected": 3.3410357089256792,
       "actual": 0.5,
       "paired": 8,
       "left": 5,
