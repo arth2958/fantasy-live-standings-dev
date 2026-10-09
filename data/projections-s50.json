@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 5,
-  "updated_at": "2026-10-09T16:23:08.637125Z",
+  "updated_at": "2026-10-09T16:40:49.274698Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -630,7 +630,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1745,
+          "rating": 1741,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1642,7 +1642,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2111,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -2640,7 +2640,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1745,
+          "rating": 1741,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2923,7 +2923,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1683,
+          "rating": 1691,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5126,7 +5126,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2111,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -5528,7 +5528,7 @@
         {
           "handle": "yellorambo",
           "status": "draw",
-          "rating": 2109,
+          "rating": 2111,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.657938629385224,
+      "projected": 4.6579386293852245,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -8925,7 +8925,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 4.458649093176222,
+      "projected": 4.458649093176221,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
