@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-09T11:03:02.132638Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-10-09T11:22:21.165290Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8860,14 +8860,6 @@
       "eligible": false
     },
     {
-      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 5.0921234263159905,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "Operation Pawnstorm",
       "projected": 5.087146490193986,
       "actual": 3.5,
@@ -8913,6 +8905,14 @@
       "actual": 2.5,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "projected": 4.6579386293852245,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -9220,6 +9220,14 @@
       "eligible": false
     },
     {
+      "name": "Knights of the Round Tablebase",
+      "projected": 3.342061370614776,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 3.341035708925679,
       "actual": 0.5,
@@ -9265,14 +9273,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "Knights of the Round Tablebase",
-      "projected": 2.907876573684009,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
