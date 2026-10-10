@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 3,
-  "updated_at": "2026-10-10T00:01:19.385513Z",
+  "updated_at": "2026-10-10T00:33:15.150793Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1219,7 +1219,7 @@
       "projected_points": 14.27032535857515,
       "projected_round": 4.270325358575149,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1276,8 +1276,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/tZARSdMS",
+          "game_link_kind": "live",
           "round_game": "3:adande1:johansen231",
           "season_points": 1.0,
           "season_games": 2
@@ -5239,7 +5239,7 @@
       "projected_points": 10.893995615346554,
       "projected_round": 3.393995615346555,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -5296,8 +5296,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/tZARSdMS",
+          "game_link_kind": "live",
           "round_game": "3:adande1:johansen231",
           "season_points": 1.0,
           "season_games": 2
@@ -6847,7 +6847,7 @@
       "projected_points": 9.68357302200255,
       "projected_round": 3.6835730220025495,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6904,8 +6904,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/tZARSdMS",
+          "game_link_kind": "live",
           "round_game": "3:adande1:johansen231",
           "season_points": 1.0,
           "season_games": 2
@@ -7651,7 +7651,7 @@
       "projected_points": 8.929881270878811,
       "projected_round": 3.4298812708788105,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -7708,8 +7708,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/tZARSdMS",
+          "game_link_kind": "live",
           "round_game": "3:adande1:johansen231",
           "season_points": 1.0,
           "season_games": 2
@@ -8988,6 +8988,14 @@
       "eligible": false
     },
     {
+      "name": "Don't give a check your ascii can't cache",
+      "projected": 4.438437372790709,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
       "projected": 4.349203290205174,
       "actual": 1.0,
@@ -9012,16 +9020,16 @@
       "eligible": false
     },
     {
-      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.194021974187699,
+      "name": "Pirc and Roll",
+      "projected": 4.200850897874156,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
       "eligible": false
     },
     {
-      "name": "Pirc and Roll",
-      "projected": 4.189338481051866,
+      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
+      "projected": 4.194021974187699,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9060,22 +9068,6 @@
       "eligible": false
     },
     {
-      "name": "50 Ways to Fork Your Lover",
-      "projected": 4.051490180281853,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Don't give a check your ascii can't cache",
-      "projected": 3.948509819718147,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "Svidl, Svidler, Svidlest",
       "projected": 3.9457560221234855,
       "actual": 2.5,
@@ -9108,16 +9100,16 @@
       "eligible": false
     },
     {
-      "name": "50th Parallel Pawns",
-      "projected": 3.810661518948133,
+      "name": "Silk Road Sacrifices",
+      "projected": 3.8059780258123017,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
       "eligible": false
     },
     {
-      "name": "Silk Road Sacrifices",
-      "projected": 3.8059780258123017,
+      "name": "50th Parallel Pawns",
+      "projected": 3.7991491021258437,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9145,6 +9137,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "50 Ways to Fork Your Lover",
+      "projected": 3.561562627209291,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
