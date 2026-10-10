@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 7,
-  "updated_at": "2026-10-10T17:34:04.321632Z",
+  "updated_at": "2026-10-10T17:48:00.170276Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3325,7 +3325,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1743,
+          "rating": 1754,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6005,7 +6005,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1743,
+          "rating": 1754,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6139,7 +6139,7 @@
         {
           "handle": "baberle",
           "status": "lost",
-          "rating": 1743,
+          "rating": 1754,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
