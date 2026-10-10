@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-10T08:52:40.804529Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-10T09:02:19.707370Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 5.147468248543364,
+      "projected": 5.1474682485433645,
       "actual": 2.5,
       "paired": 8,
       "left": 5,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.293765247485363,
+      "projected": 4.293765247485364,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9013,7 +9013,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.194021974187699,
+      "projected": 4.194021974187698,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.0528794370211,
+      "projected": 4.052879437021099,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9471205629789,
+      "projected": 3.9471205629789003,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9117,7 +9117,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.8059780258123017,
+      "projected": 3.805978025812302,
       "actual": 1.5,
       "paired": 8,
       "left": 5,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.706234752514636,
+      "projected": 3.7062347525146357,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 3.561562627209291,
+      "projected": 3.5615626272092906,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 1.9079979899440012,
+      "projected": 1.9079979899440014,
       "actual": 0.5,
       "paired": 8,
       "left": 3,
