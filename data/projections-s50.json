@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-10T20:36:51.041898Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-10T20:50:47.866562Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -274,6 +274,140 @@
       "projected_rank": 2
     },
     {
+      "owner": "bncl",
+      "name": "This is a really nice looking website, I like this",
+      "actual_points": 14.0,
+      "actual_round": 4.0,
+      "projected_points": 14.96802931916986,
+      "projected_round": 4.96802931916986,
+      "left": 2,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "jdannan",
+          "status": "pending",
+          "rating": 2128,
+          "decided_without_play": false,
+          "expected_points": 0.34808796012533627,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:diegoalatriste:jdannan",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "timothyha",
+          "status": "won",
+          "rating": 2104,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/jHd8tDRa",
+          "game_link_kind": "recent",
+          "round_game": "3:atrueravenclaw:timothyha",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "jwwells42",
+          "status": "pending",
+          "rating": 2043,
+          "decided_without_play": false,
+          "expected_points": 0.6199413590445233,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:aguayo:jwwells42",
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "lorb",
+          "status": "won",
+          "rating": 2025,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/UQA8ZwLJ",
+          "game_link_kind": "recent",
+          "round_game": "3:ecoarrivazumashoomzo:lorb",
+          "season_points": 3.0,
+          "season_games": 3
+        },
+        {
+          "handle": "TristanBrown17",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 2.0,
+          "season_games": 2
+        },
+        {
+          "handle": "kostasvl",
+          "status": "lost",
+          "rating": 1758,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/SdOgzXjj",
+          "game_link_kind": "recent",
+          "round_game": "3:kostasvl:kygreek",
+          "season_points": 0.0,
+          "season_games": 2
+        },
+        {
+          "handle": "pawneater2020",
+          "status": "won",
+          "rating": 1723,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/Wf8ByPGU",
+          "game_link_kind": "recent",
+          "round_game": "3:pawneater2020:professormethane",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Computability",
+          "status": "won",
+          "rating": 1587,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/p6Yiwslw",
+          "game_link_kind": "recent",
+          "round_game": "3:computability:drrickinct",
+          "season_points": 2.0,
+          "season_games": 3
+        }
+      ],
+      "projected_rank": 3
+    },
+    {
       "owner": "jwwells42",
       "name": "Subscribe to PowerPlayChess",
       "actual_points": 13.5,
@@ -405,7 +539,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 3
+      "projected_rank": 4
     },
     {
       "owner": "pawneater2020",
@@ -539,7 +673,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 4
+      "projected_rank": 5
     },
     {
       "owner": "guitarspider",
@@ -673,7 +807,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 5
+      "projected_rank": 6
     },
     {
       "owner": "bufferunderrun",
@@ -804,140 +938,6 @@
           "game_link_kind": "recent",
           "round_game": "3:macha1313:time_lord19",
           "season_points": 1.0,
-          "season_games": 3
-        }
-      ],
-      "projected_rank": 6
-    },
-    {
-      "owner": "bncl",
-      "name": "This is a really nice looking website, I like this",
-      "actual_points": 13.0,
-      "actual_round": 3.0,
-      "projected_points": 14.473785527581004,
-      "projected_round": 4.473785527581004,
-      "left": 3,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "jdannan",
-          "status": "pending",
-          "rating": 2128,
-          "decided_without_play": false,
-          "expected_points": 0.34808796012533627,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:diegoalatriste:jdannan",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "timothyha",
-          "status": "pending",
-          "rating": 2088,
-          "decided_without_play": false,
-          "expected_points": 0.5057562084111449,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/jHd8tDRa",
-          "game_link_kind": "live",
-          "round_game": "3:atrueravenclaw:timothyha",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "jwwells42",
-          "status": "pending",
-          "rating": 2043,
-          "decided_without_play": false,
-          "expected_points": 0.6199413590445233,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:aguayo:jwwells42",
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "lorb",
-          "status": "won",
-          "rating": 2025,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/UQA8ZwLJ",
-          "game_link_kind": "recent",
-          "round_game": "3:ecoarrivazumashoomzo:lorb",
-          "season_points": 3.0,
-          "season_games": 3
-        },
-        {
-          "handle": "TristanBrown17",
-          "status": "unpaired",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 2.0,
-          "season_games": 2
-        },
-        {
-          "handle": "kostasvl",
-          "status": "lost",
-          "rating": 1758,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/SdOgzXjj",
-          "game_link_kind": "recent",
-          "round_game": "3:kostasvl:kygreek",
-          "season_points": 0.0,
-          "season_games": 2
-        },
-        {
-          "handle": "pawneater2020",
-          "status": "won",
-          "rating": 1723,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/Wf8ByPGU",
-          "game_link_kind": "recent",
-          "round_game": "3:pawneater2020:professormethane",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "Computability",
-          "status": "won",
-          "rating": 1587,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/p6Yiwslw",
-          "game_link_kind": "recent",
-          "round_game": "3:computability:drrickinct",
-          "season_points": 2.0,
           "season_games": 3
         }
       ],
@@ -8860,6 +8860,14 @@
       "eligible": false
     },
     {
+      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
+      "projected": 5.907533769415668,
+      "actual": 5.5,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "King's Landing",
       "projected": 5.640064999802885,
       "actual": 5.0,
@@ -8893,18 +8901,10 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 5.488570697247552,
+      "projected": 5.488570697247551,
       "actual": 4.0,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 5.413289977826813,
-      "actual": 4.5,
-      "paired": 8,
-      "left": 2,
       "eligible": false
     },
     {
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "pspspspspsps",
-      "projected": 4.147031614122589,
+      "projected": 4.1470316141225885,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9053,7 +9053,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.0370678117215215,
+      "projected": 4.037067811721521,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9629321882784785,
+      "projected": 3.962932188278479,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 3.3956792167126393,
+      "projected": 3.3956792167126384,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
@@ -9228,14 +9228,6 @@
       "eligible": false
     },
     {
-      "name": "Silk Road Sacrifices",
-      "projected": 2.586710022173187,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 2,
-      "eligible": false
-    },
-    {
       "name": "Riding with the King",
       "projected": 2.5114293027524477,
       "actual": 1.0,
@@ -9271,6 +9263,14 @@
       "name": "There Will Be Blunders",
       "projected": 2.359935000197115,
       "actual": 2.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
+      "name": "Silk Road Sacrifices",
+      "projected": 2.092466230584332,
+      "actual": 1.5,
       "paired": 8,
       "left": 1,
       "eligible": false
