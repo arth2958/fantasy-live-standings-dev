@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-10T04:00:51.291868Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-10T04:21:45.631688Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6713,7 +6713,7 @@
       "projected_points": 10.080336865037292,
       "projected_round": 4.0803368650372915,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6740,8 +6740,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/4uLC8AI0",
+          "game_link_kind": "live",
           "round_game": "3:fierolocchio:ohdearpleaseno",
           "season_points": 0.0,
           "season_games": 1
@@ -7651,7 +7651,7 @@
       "projected_points": 8.737252710536442,
       "projected_round": 3.737252710536442,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7678,8 +7678,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/4uLC8AI0",
+          "game_link_kind": "live",
           "round_game": "3:fierolocchio:ohdearpleaseno",
           "season_points": 0.0,
           "season_games": 1
@@ -8965,7 +8965,7 @@
     },
     {
       "name": "pspspspspsps",
-      "projected": 4.4610418070630775,
+      "projected": 4.461041807063078,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9005,7 +9005,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.293765247485363,
+      "projected": 4.293765247485364,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.706234752514636,
+      "projected": 3.7062347525146357,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 3.5389581929369225,
+      "projected": 3.538958192936922,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
