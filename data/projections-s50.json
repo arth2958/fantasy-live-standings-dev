@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 6,
-  "updated_at": "2026-10-10T15:50:47.288335Z",
+  "updated_at": "2026-10-10T16:00:22.155196Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3459,7 +3459,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1698,
+          "rating": 1704,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
