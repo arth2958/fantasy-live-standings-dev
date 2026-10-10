@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-10T11:50:31.719984Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-10T12:00:36.214286Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2023,7 +2023,7 @@
       "projected_points": 13.49296034775866,
       "projected_round": 3.9929603477586593,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2125,8 +2125,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/y7uJfTm9",
+          "game_link_kind": "live",
           "round_game": "3:jdw10:phib",
           "season_points": 1.0,
           "season_games": 2
@@ -3628,8 +3628,8 @@
       "name": "AngrySwedes",
       "actual_points": 11.0,
       "actual_round": 2.0,
-      "projected_points": 11.961101750613441,
-      "projected_round": 2.96110175061344,
+      "projected_points": 11.966584427609076,
+      "projected_round": 2.9665844276090763,
       "left": 2,
       "in_progress": 0,
       "paired": 8,
@@ -3637,9 +3637,9 @@
         {
           "handle": "chatakkuma",
           "status": "pending",
-          "rating": 2260,
+          "rating": 2264,
           "decided_without_play": false,
-          "expected_points": 0.3882294992189357,
+          "expected_points": 0.3937121762145719,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4435,7 +4435,7 @@
       "projected_points": 11.301071209620101,
       "projected_round": 5.801071209620102,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4552,8 +4552,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/FflDjRxf",
+          "game_link_kind": "live",
           "round_game": "3:martindanielsson:welshkebab",
           "season_points": 0.0,
           "season_games": 2
@@ -6579,7 +6579,7 @@
       "projected_points": 10.091841561257798,
       "projected_round": 4.091841561257799,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6696,8 +6696,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/FflDjRxf",
+          "game_link_kind": "live",
           "round_game": "3:martindanielsson:welshkebab",
           "season_points": 0.0,
           "season_games": 2
@@ -6978,8 +6978,8 @@
       "name": "Fantasy8",
       "actual_points": 8.0,
       "actual_round": 2.0,
-      "projected_points": 9.57660830809484,
-      "projected_round": 3.5766083080948414,
+      "projected_points": 9.582090985090478,
+      "projected_round": 3.5820909850904776,
       "left": 4,
       "in_progress": 0,
       "paired": 8,
@@ -6987,9 +6987,9 @@
         {
           "handle": "chatakkuma",
           "status": "pending",
-          "rating": 2260,
+          "rating": 2264,
           "decided_without_play": false,
-          "expected_points": 0.3882294992189357,
+          "expected_points": 0.3937121762145719,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7380,8 +7380,8 @@
       "name": "The chonkers",
       "actual_points": 6.5,
       "actual_round": 0.0,
-      "projected_points": 9.167701693901792,
-      "projected_round": 2.6677016939017917,
+      "projected_points": 9.162219016906155,
+      "projected_round": 2.6622190169061555,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -7391,7 +7391,7 @@
           "status": "pending",
           "rating": 2314,
           "decided_without_play": false,
-          "expected_points": 0.6117705007810643,
+          "expected_points": 0.6062878237854281,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8053,7 +8053,7 @@
       "projected_points": 8.192967760362405,
       "projected_round": 3.192967760362405,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8170,8 +8170,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/FflDjRxf",
+          "game_link_kind": "live",
           "round_game": "3:martindanielsson:welshkebab",
           "season_points": 2.0,
           "season_games": 2
@@ -8940,19 +8940,19 @@
       "eligible": false
     },
     {
-      "name": "Leningrad School of Blunders",
-      "projected": 4.54918458106798,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "50 first mates",
       "projected": 4.544478006160033,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "Leningrad School of Blunders",
+      "projected": 4.5437019040723445,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
@@ -9180,19 +9180,19 @@
       "eligible": false
     },
     {
+      "name": "The kannjuring",
+      "projected": 3.456298095927656,
+      "actual": 0.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "The Greek Gifty Nifty Fifty",
       "projected": 3.455521993839967,
       "actual": 2.0,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "The kannjuring",
-      "projected": 3.4508154189320197,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
