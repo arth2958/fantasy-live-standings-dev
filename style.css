@@ -19,9 +19,10 @@
    These rules cover standings, Most Popular Picks and projection rosters,
    including archived standings. Layout, scoring and link behavior do not change.
    Win = teal, draw = yellow, loss = rose. Words remain visible so a result
-   never depends on recognizing a color. Pending/playing keeps its existing look. */
+   never depends on recognizing a color. Pending/playing = sky blue, separate from teal wins. */
 :root {
   --result-win: 68 170 153;
+  --result-pending: 86 180 233;
   --result-draw: 221 204 119;
   --result-loss: 204 102 119;
   --result-off-roster: 149 147 147;
@@ -57,3 +58,15 @@
 .player.lost::before, .popcell.lost .status-dot, .projection-roster .lost b::before, :is(.status-key, .roster-legend) .lost i { background: rgb(var(--result-loss)) !important; }
 .player.unpaired::before, .popcell.unpaired .status-dot, .projection-roster .unpaired b::before, :is(.status-key, .roster-legend) .unpaired i { background: #fff !important; outline: 1px solid #888; }
 .player.no-longer-rostered::before, .popcell.no-longer-rostered .status-dot, .projection-roster .no-longer-rostered b::before, :is(.status-key, .roster-legend) .no-longer-rostered i { background: rgb(var(--result-off-roster)) !important; }
+
+/* Pending and Playing share the pending class: blue means the result is not final. */
+:is(.player, .popcell, .projection-roster > span).pending {
+  background: rgb(var(--result-pending) / 45%) !important;
+  border-color: rgb(var(--result-pending)) !important;
+  color: #222 !important;
+}
+:is(.player, .popcell, .projection-roster > span).pending b,
+:is(.status-key, .roster-legend) .pending { color: #222 !important; }
+.player.pending::before, .popcell.pending .status-dot,
+.projection-roster .pending b::before,
+:is(.status-key, .roster-legend) .pending i { background: rgb(var(--result-pending)) !important; }
