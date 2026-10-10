@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 7,
-  "updated_at": "2026-10-10T13:21:16.213340Z",
+  "updated_at": "2026-10-10T13:36:39.608412Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 4.732966927215173,
+      "projected": 4.732966927215174,
       "actual": 2.5,
       "paired": 8,
       "left": 4,
@@ -8921,6 +8921,14 @@
       "actual": 2.5,
       "paired": 8,
       "left": 4,
+      "eligible": false
+    },
+    {
+      "name": "Svidler? I hardly know her",
+      "projected": 4.673343438976245,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -8997,15 +9005,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 4.293765247485363,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Svidler? I hardly know her",
-      "projected": 4.241984830859912,
+      "projected": 4.293765247485364,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9053,7 +9053,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.0528794370211,
+      "projected": 4.052879437021099,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9471205629789,
+      "projected": 3.9471205629789003,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9124,16 +9124,8 @@
       "eligible": false
     },
     {
-      "name": "The Woodpushers",
-      "projected": 3.7580151691400885,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "my english needs work",
-      "projected": 3.706234752514636,
+      "projected": 3.7062347525146357,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9212,8 +9204,16 @@
       "eligible": false
     },
     {
+      "name": "The Woodpushers",
+      "projected": 3.326656561023756,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "Silk Road Sacrifices",
-      "projected": 3.3059780258123017,
+      "projected": 3.305978025812302,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 1.9079979899440012,
+      "projected": 1.9079979899440014,
       "actual": 0.5,
       "paired": 8,
       "left": 3,
