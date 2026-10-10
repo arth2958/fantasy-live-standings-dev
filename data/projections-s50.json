@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-10T00:33:15.150793Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-10T00:58:21.541345Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -630,7 +630,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1748,
+          "rating": 1755,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -948,8 +948,8 @@
       "name": "Freed From The Sire",
       "actual_points": 12.0,
       "actual_round": 2.5,
-      "projected_points": 14.302460841367177,
-      "projected_round": 4.802460841367177,
+      "projected_points": 14.303825382222591,
+      "projected_round": 4.803825382222591,
       "left": 4,
       "in_progress": 0,
       "paired": 8,
@@ -957,9 +957,9 @@
         {
           "handle": "Mennonite",
           "status": "pending",
-          "rating": 2135,
+          "rating": 2136,
           "decided_without_play": false,
-          "expected_points": 0.3854986389914422,
+          "expected_points": 0.3868631798468569,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -1618,8 +1618,8 @@
       "name": "Players who will play all 8 games.",
       "actual_points": 11.5,
       "actual_round": 2.0,
-      "projected_points": 13.720688096757549,
-      "projected_round": 4.2206880967575495,
+      "projected_points": 13.722052637612965,
+      "projected_round": 4.222052637612965,
       "left": 4,
       "in_progress": 0,
       "paired": 7,
@@ -1627,9 +1627,9 @@
         {
           "handle": "Mennonite",
           "status": "pending",
-          "rating": 2135,
+          "rating": 2136,
           "decided_without_play": false,
-          "expected_points": 0.3854986389914422,
+          "expected_points": 0.3868631798468569,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -2640,7 +2640,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1748,
+          "rating": 1755,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4562,140 +4562,6 @@
       "projected_rank": 34
     },
     {
-      "owner": "Monocarp",
-      "name": "Monocarp’s team",
-      "actual_points": 9.0,
-      "actual_round": 1.5,
-      "projected_points": 11.209052924885912,
-      "projected_round": 3.709052924885911,
-      "left": 4,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "pavonine",
-          "status": "pending",
-          "rating": 2191,
-          "decided_without_play": false,
-          "expected_points": 0.6145013610085578,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:mennonite:pavonine",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Lordziax",
-          "status": "draw",
-          "rating": 2070,
-          "decided_without_play": false,
-          "expected_points": 0.5,
-          "actual_result": 0.5,
-          "round_points": 0.5,
-          "round_games": 1,
-          "game_url": "https://lichess.org/mPpemxWD",
-          "game_link_kind": "recent",
-          "round_game": "3:aldric123:lordziax",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "Bennol",
-          "status": "pending",
-          "rating": 1973,
-          "decided_without_play": false,
-          "expected_points": 0.554469374021676,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:bennol:merricks",
-          "season_points": 0.5,
-          "season_games": 2
-        },
-        {
-          "handle": "gidged",
-          "status": "pending",
-          "rating": 1940,
-          "decided_without_play": false,
-          "expected_points": 0.48561281583400134,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "3:gidged:waterlorda7890",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "Monocarp",
-          "status": "pending",
-          "rating": 1843,
-          "decided_without_play": false,
-          "expected_points": 0.554469374021676,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/l95Pk752",
-          "game_link_kind": "live",
-          "round_game": "3:monocarp:staincastle",
-          "season_points": 1.0,
-          "season_games": 2
-        },
-        {
-          "handle": "UpGoerFive",
-          "status": "lost",
-          "rating": 1814,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/DFoMgwM9",
-          "game_link_kind": "recent",
-          "round_game": "3:parziwal08:upgoerfive",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "capturingbravo",
-          "status": "unpaired",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 1.0,
-          "season_games": 1
-        },
-        {
-          "handle": "BLuesiDE617",
-          "status": "won",
-          "rating": 1598,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/JLMRyukr",
-          "game_link_kind": "recent",
-          "round_game": "3:blueside617:franconianchess",
-          "season_points": 1.5,
-          "season_games": 3
-        }
-      ],
-      "projected_rank": 35
-    },
-    {
       "owner": "DavidSifre",
       "name": "Do not disappoint me",
       "actual_points": 8.5,
@@ -4827,7 +4693,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 36
+      "projected_rank": 35
     },
     {
       "owner": "Tactix47",
@@ -4961,7 +4827,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 37
+      "projected_rank": 36
     },
     {
       "owner": "Inter-temporal",
@@ -5095,15 +4961,15 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 38
+      "projected_rank": 37
     },
     {
       "owner": "jg777",
       "name": "Svidl, Svidler, Svidlest-Fantasy version",
       "actual_points": 9.5,
       "actual_round": 1.5,
-      "projected_points": 10.945756022123486,
-      "projected_round": 2.9457560221234855,
+      "projected_points": 10.947120562978899,
+      "projected_round": 2.9471205629789,
       "left": 3,
       "in_progress": 0,
       "paired": 7,
@@ -5111,9 +4977,9 @@
         {
           "handle": "Mennonite",
           "status": "pending",
-          "rating": 2135,
+          "rating": 2136,
           "decided_without_play": false,
-          "expected_points": 0.3854986389914422,
+          "expected_points": 0.3868631798468569,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5229,7 +5095,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 39
+      "projected_rank": 38
     },
     {
       "owner": "adande1",
@@ -5363,7 +5229,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 40
+      "projected_rank": 39
     },
     {
       "owner": "kayrosas",
@@ -5497,7 +5363,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 41
+      "projected_rank": 40
     },
     {
       "owner": "baberle",
@@ -5631,7 +5497,7 @@
           "season_games": 2
         }
       ],
-      "projected_rank": 42
+      "projected_rank": 41
     },
     {
       "owner": "shurbz",
@@ -5763,6 +5629,140 @@
           "round_game": "3:martindanielsson:welshkebab",
           "season_points": 0.0,
           "season_games": 2
+        }
+      ],
+      "projected_rank": 42
+    },
+    {
+      "owner": "Monocarp",
+      "name": "Monocarp’s team",
+      "actual_points": 9.0,
+      "actual_round": 1.5,
+      "projected_points": 10.65321901000882,
+      "projected_round": 3.1532190100088204,
+      "left": 3,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "pavonine",
+          "status": "pending",
+          "rating": 2191,
+          "decided_without_play": false,
+          "expected_points": 0.6131368201531431,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:mennonite:pavonine",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Lordziax",
+          "status": "draw",
+          "rating": 2070,
+          "decided_without_play": false,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
+          "game_url": "https://lichess.org/mPpemxWD",
+          "game_link_kind": "recent",
+          "round_game": "3:aldric123:lordziax",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Bennol",
+          "status": "pending",
+          "rating": 1973,
+          "decided_without_play": false,
+          "expected_points": 0.554469374021676,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:bennol:merricks",
+          "season_points": 0.5,
+          "season_games": 2
+        },
+        {
+          "handle": "gidged",
+          "status": "pending",
+          "rating": 1940,
+          "decided_without_play": false,
+          "expected_points": 0.48561281583400134,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "3:gidged:waterlorda7890",
+          "season_points": 1.0,
+          "season_games": 2
+        },
+        {
+          "handle": "Monocarp",
+          "status": "lost",
+          "rating": 1823,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/l95Pk752",
+          "game_link_kind": "recent",
+          "round_game": "3:monocarp:staincastle",
+          "season_points": 1.0,
+          "season_games": 3
+        },
+        {
+          "handle": "UpGoerFive",
+          "status": "lost",
+          "rating": 1814,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/DFoMgwM9",
+          "game_link_kind": "recent",
+          "round_game": "3:parziwal08:upgoerfive",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "capturingbravo",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 1.0,
+          "season_games": 1
+        },
+        {
+          "handle": "BLuesiDE617",
+          "status": "won",
+          "rating": 1598,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/JLMRyukr",
+          "game_link_kind": "recent",
+          "round_game": "3:blueside617:franconianchess",
+          "season_points": 1.5,
+          "season_games": 3
         }
       ],
       "projected_rank": 43
@@ -6442,8 +6442,8 @@
       "name": "Something magnificant",
       "actual_points": 7.5,
       "actual_round": 2.0,
-      "projected_points": 10.175105557715009,
-      "projected_round": 4.675105557715009,
+      "projected_points": 10.176470098570423,
+      "projected_round": 4.676470098570423,
       "left": 5,
       "in_progress": 0,
       "paired": 8,
@@ -6451,9 +6451,9 @@
         {
           "handle": "Mennonite",
           "status": "pending",
-          "rating": 2135,
+          "rating": 2136,
           "decided_without_play": false,
-          "expected_points": 0.3854986389914422,
+          "expected_points": 0.3868631798468569,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8996,6 +8996,14 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 4.35361847614752,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
       "projected": 4.349203290205174,
       "actual": 1.0,
@@ -9015,14 +9023,6 @@
       "name": "The Woodpushers",
       "projected": 4.216377466425325,
       "actual": 2.0,
-      "paired": 8,
-      "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "Pirc and Roll",
-      "projected": 4.200850897874156,
-      "actual": 1.5,
       "paired": 8,
       "left": 5,
       "eligible": false
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.0542439778765145,
+      "projected": 4.0528794370211,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.9457560221234855,
+      "projected": 3.9471205629789,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9108,14 +9108,6 @@
       "eligible": false
     },
     {
-      "name": "50th Parallel Pawns",
-      "projected": 3.7991491021258437,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 5,
-      "eligible": false
-    },
-    {
       "name": "Svidler? I hardly know her",
       "projected": 3.783622533574675,
       "actual": 1.0,
@@ -9137,6 +9129,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Pirc and Roll",
+      "projected": 3.6463815238524804,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
