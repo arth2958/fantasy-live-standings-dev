@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-10T18:51:52.154346Z",
+  "round_in_progress": 10,
+  "updated_at": "2026-10-10T19:03:52.535053Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -549,7 +549,7 @@
       "projected_points": 14.821000308205747,
       "projected_round": 4.821000308205747,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -651,8 +651,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -817,7 +817,7 @@
       "projected_points": 14.473785527581004,
       "projected_round": 4.473785527581004,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -844,8 +844,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/jHd8tDRa",
+          "game_link_kind": "live",
           "round_game": "3:atrueravenclaw:timothyha",
           "season_points": 1.0,
           "season_games": 2
@@ -1085,7 +1085,7 @@
       "projected_points": 14.259827775598945,
       "projected_round": 4.259827775598945,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -1097,8 +1097,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -1219,7 +1219,7 @@
       "projected_points": 14.229973189330568,
       "projected_round": 4.729973189330567,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1321,8 +1321,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -1755,7 +1755,7 @@
       "projected_points": 13.8224394199149,
       "projected_round": 4.322439419914899,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1857,8 +1857,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -2023,7 +2023,7 @@
       "projected_points": 13.781395013301301,
       "projected_round": 3.281395013301301,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2035,8 +2035,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -2291,7 +2291,7 @@
       "projected_points": 13.469696751965916,
       "projected_round": 3.4696967519659156,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2393,8 +2393,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -2693,7 +2693,7 @@
       "projected_points": 12.8224394199149,
       "projected_round": 2.8224394199148994,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2795,8 +2795,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -2827,7 +2827,7 @@
       "projected_points": 12.685516412495287,
       "projected_round": 3.685516412495288,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2839,8 +2839,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -2961,7 +2961,7 @@
       "projected_points": 12.45783760216434,
       "projected_round": 3.4578376021643384,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2973,8 +2973,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -3631,7 +3631,7 @@
       "projected_points": 12.007955832410186,
       "projected_round": 4.507955832410187,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -3643,8 +3643,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -3733,8 +3733,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -4837,7 +4837,7 @@
       "projected_points": 11.16681663456573,
       "projected_round": 4.16681663456573,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4849,8 +4849,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -6579,7 +6579,7 @@
       "projected_points": 10.120256817824378,
       "projected_round": 3.120256817824379,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6681,8 +6681,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 0.0,
           "season_games": 2
@@ -7115,7 +7115,7 @@
       "projected_points": 9.851541168835126,
       "projected_round": 3.851541168835126,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7217,8 +7217,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/53SUlInL",
+          "game_link_kind": "live",
           "round_game": "3:cham:therealdivider",
           "season_points": 2.0,
           "season_games": 2
@@ -8053,7 +8053,7 @@
       "projected_points": 8.20996187361595,
       "projected_round": 2.709961873615949,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -8065,8 +8065,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vqpnpkq",
+          "game_link_kind": "live",
           "round_game": "3:mieskepillae:silkthewanderer",
           "season_points": 0.0,
           "season_games": 2
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.657938629385224,
+      "projected": 4.6579386293852245,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.037067811721521,
+      "projected": 4.0370678117215215,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.962932188278479,
+      "projected": 3.9629321882784785,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.8209003526126115,
+      "projected": 3.820900352612611,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 3.3956792167126384,
+      "projected": 3.395679216712639,
       "actual": 1.5,
       "paired": 8,
       "left": 4,
