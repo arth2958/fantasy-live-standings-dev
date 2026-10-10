@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-10T16:20:49.401291Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-10T16:37:24.184864Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -13,7 +13,7 @@
       "projected_points": 17.03017509993835,
       "projected_round": 4.530175099938352,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -115,8 +115,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/erwwCI5q",
+          "game_link_kind": "live",
           "round_game": "3:avemanyeg:gingersquirrelnuts",
           "season_points": 0.0,
           "season_games": 2
@@ -1082,8 +1082,8 @@
       "name": "Okady s minions",
       "actual_points": 13.5,
       "actual_round": 4.0,
-      "projected_points": 14.217526517906943,
-      "projected_round": 4.7175265179069426,
+      "projected_points": 14.229973189330568,
+      "projected_round": 4.729973189330567,
       "left": 2,
       "in_progress": 0,
       "paired": 8,
@@ -1123,7 +1123,7 @@
           "status": "pending",
           "rating": 2043,
           "decided_without_play": false,
-          "expected_points": 0.3950870979920431,
+          "expected_points": 0.4075337694156682,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3494,8 +3494,8 @@
       "name": "Can they do it on a cold wet windy night in Stoke?",
       "actual_points": 10.5,
       "actual_round": 1.0,
-      "projected_points": 12.014775598764277,
-      "projected_round": 2.5147755987642766,
+      "projected_points": 12.027222270187902,
+      "projected_round": 2.5272222701879015,
       "left": 3,
       "in_progress": 0,
       "paired": 7,
@@ -3535,7 +3535,7 @@
           "status": "pending",
           "rating": 2043,
           "decided_without_play": false,
-          "expected_points": 0.3950870979920431,
+          "expected_points": 0.4075337694156682,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6177,7 +6177,7 @@
       "projected_points": 10.176470098570423,
       "projected_round": 4.676470098570423,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6279,8 +6279,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/erwwCI5q",
+          "game_link_kind": "live",
           "round_game": "3:avemanyeg:gingersquirrelnuts",
           "season_points": 0.0,
           "season_games": 2
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 5.400843306403188,
+      "projected": 5.413289977826813,
       "actual": 4.5,
       "paired": 8,
       "left": 2,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 2.599156693596812,
+      "projected": 2.586710022173187,
       "actual": 1.5,
       "paired": 8,
       "left": 2,
