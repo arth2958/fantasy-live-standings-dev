@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-10T16:52:19.083512Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-10T17:01:49.256585Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -764,7 +764,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1755,
+          "rating": 1752,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1568,7 +1568,7 @@
         {
           "handle": "pykkis",
           "status": "won",
-          "rating": 1755,
+          "rating": 1752,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2023,7 +2023,7 @@
       "projected_points": 13.777090300031322,
       "projected_round": 3.7770903000313214,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2065,8 +2065,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/gR35miGb",
+          "game_link_kind": "live",
           "round_game": "3:plaisirs_ephemeres:warvold",
           "season_points": 2.0,
           "season_games": 2
@@ -3765,7 +3765,7 @@
       "projected_points": 11.966584427609076,
       "projected_round": 2.9665844276090763,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3807,8 +3807,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/gR35miGb",
+          "game_link_kind": "live",
           "round_game": "3:plaisirs_ephemeres:warvold",
           "season_points": 2.0,
           "season_games": 2
@@ -4033,7 +4033,7 @@
       "projected_points": 11.764290296851819,
       "projected_round": 3.264290296851819,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4075,8 +4075,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/gR35miGb",
+          "game_link_kind": "live",
           "round_game": "3:plaisirs_ephemeres:warvold",
           "season_points": 2.0,
           "season_games": 2
@@ -8187,7 +8187,7 @@
       "projected_points": 8.136325006674578,
       "projected_round": 3.6363250066745794,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8244,8 +8244,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/HuYU0e2Q",
+          "game_link_kind": "live",
           "round_game": "3:blang316:fexxox",
           "season_points": 0.0,
           "season_games": 2
@@ -8972,6 +8972,14 @@
       "eligible": false
     },
     {
+      "name": "Old but hoping for stratospheric improvement",
+      "projected": 4.5,
+      "actual": 4.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Wandering Knights",
       "projected": 4.476987555239702,
       "actual": 3.5,
@@ -9060,22 +9068,6 @@
       "eligible": false
     },
     {
-      "name": "Mating for Godot",
-      "projected": 4.008633835821083,
-      "actual": 3.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Old but hoping for stratospheric improvement",
-      "projected": 3.9913661641789173,
-      "actual": 3.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "Svidl, Svidler, Svidlest",
       "projected": 3.9629321882784785,
       "actual": 2.5,
@@ -9161,6 +9153,14 @@
       "actual": 2.5,
       "paired": 8,
       "left": 2,
+      "eligible": false
+    },
+    {
+      "name": "Mating for Godot",
+      "projected": 3.5,
+      "actual": 3.5,
+      "paired": 8,
+      "left": 0,
       "eligible": false
     },
     {
