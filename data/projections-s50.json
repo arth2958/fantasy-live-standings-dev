@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 8,
-  "updated_at": "2026-10-10T15:36:27.378500Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-10T15:50:47.288335Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3459,7 +3459,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1684,
+          "rating": 1698,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8860,9 +8860,9 @@
       "eligible": false
     },
     {
-      "name": "Operation Pawnstorm",
-      "projected": 5.528415120869225,
-      "actual": 4.5,
+      "name": "Pawn with the Sickness",
+      "projected": 5.733203076038013,
+      "actual": 5.0,
       "paired": 8,
       "left": 2,
       "eligible": false
@@ -8873,14 +8873,6 @@
       "actual": 4.5,
       "paired": 8,
       "left": 2,
-      "eligible": false
-    },
-    {
-      "name": "Pawn with the Sickness",
-      "projected": 5.339490899823442,
-      "actual": 4.0,
-      "paired": 8,
-      "left": 3,
       "eligible": false
     },
     {
@@ -8916,6 +8908,14 @@
       "eligible": false
     },
     {
+      "name": "Operation Pawnstorm",
+      "projected": 4.958362297285237,
+      "actual": 4.5,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "Fifty Shades of Time Trouble",
       "projected": 4.91710757983917,
       "actual": 3.0,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.657938629385224,
+      "projected": 4.6579386293852245,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 4.123935517516293,
+      "projected": 4.1211873553974305,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.8760644824837063,
+      "projected": 3.878812644602569,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.8209003526126115,
+      "projected": 3.820900352612611,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
@@ -9220,6 +9220,14 @@
       "eligible": false
     },
     {
+      "name": "fifty shades of black and white",
+      "projected": 3.0416377027147634,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "The kannjuring",
       "projected": 2.8694030725485558,
       "actual": 0.5,
@@ -9252,14 +9260,6 @@
       "eligible": false
     },
     {
-      "name": "Rooky Horror Pawn Show fan club",
-      "projected": 2.6605091001765584,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 3,
-      "eligible": false
-    },
-    {
       "name": "Silk Road Sacrifices",
       "projected": 2.599156693596812,
       "actual": 1.5,
@@ -9268,9 +9268,9 @@
       "eligible": false
     },
     {
-      "name": "fifty shades of black and white",
-      "projected": 2.4715848791307753,
-      "actual": 1.5,
+      "name": "Rooky Horror Pawn Show fan club",
+      "projected": 2.2667969239619867,
+      "actual": 1.0,
       "paired": 8,
       "left": 2,
       "eligible": false
