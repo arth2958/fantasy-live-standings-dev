@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-11T21:21:22.289048Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-11T21:37:41.948163Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5335,7 +5335,7 @@
         {
           "handle": "Bortvinik",
           "status": "lost",
-          "rating": 1679,
+          "rating": 1670,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8908,6 +8908,14 @@
       "eligible": false
     },
     {
+      "name": "Morphy's Mates",
+      "projected": 5.5,
+      "actual": 5.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Operation Pawnstorm",
       "projected": 5.5,
       "actual": 5.5,
@@ -8942,14 +8950,6 @@
     {
       "name": "pspspspspsps",
       "projected": 5.119941359044523,
-      "actual": 4.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Morphy's Mates",
-      "projected": 5.1172250309049465,
       "actual": 4.5,
       "paired": 8,
       "left": 1,
@@ -9180,14 +9180,6 @@
       "eligible": false
     },
     {
-      "name": "The Last Shall be the First",
-      "projected": 2.8827749690950535,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "50 pawns of Giri",
       "projected": 2.8800586409554767,
       "actual": 2.5,
@@ -9245,6 +9237,14 @@
     },
     {
       "name": "Rooky Horror Pawn Show fan club",
+      "projected": 2.5,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
+      "name": "The Last Shall be the First",
       "projected": 2.5,
       "actual": 2.5,
       "paired": 8,
