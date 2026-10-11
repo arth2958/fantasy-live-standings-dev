@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-11T06:55:39.377981Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-11T07:22:27.634245Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7112,8 +7112,8 @@
       "name": "Fantasy8",
       "actual_points": 9.0,
       "actual_round": 3.0,
-      "projected_points": 9.83498080688981,
-      "projected_round": 3.834980806889811,
+      "projected_points": 9.82648333187162,
+      "projected_round": 3.8264833318716196,
       "left": 2,
       "in_progress": 0,
       "paired": 8,
@@ -7226,9 +7226,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1431,
+          "rating": 1425,
           "decided_without_play": false,
-          "expected_points": 0.441268630675239,
+          "expected_points": 0.4327711556570478,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8720,8 +8720,8 @@
       "name": "Stinkfish 50",
       "actual_points": 5.0,
       "actual_round": 0.5,
-      "projected_points": 5.916018300492141,
-      "projected_round": 1.4160183004921407,
+      "projected_points": 5.924515775510332,
+      "projected_round": 1.424515775510332,
       "left": 2,
       "in_progress": 0,
       "paired": 6,
@@ -8836,7 +8836,7 @@
           "status": "pending",
           "rating": 1447,
           "decided_without_play": false,
-          "expected_points": 0.558731369324761,
+          "expected_points": 0.5672288443429522,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 6.513505257711255,
+      "projected": 6.513505257711256,
       "actual": 5.5,
       "paired": 8,
       "left": 2,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 5.492824056026387,
+      "projected": 5.484326581008196,
       "actual": 4.0,
       "paired": 8,
       "left": 3,
@@ -9053,7 +9053,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.037067811721521,
+      "projected": 4.0370678117215215,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.962932188278479,
+      "projected": 3.9629321882784785,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 3.8529683858774115,
+      "projected": 3.8529683858774106,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.7495404082952355,
+      "projected": 3.749540408295236,
       "actual": 2.5,
       "paired": 8,
       "left": 2,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Riding with the King",
-      "projected": 2.507175943973613,
+      "projected": 2.5156734189918044,
       "actual": 1.0,
       "paired": 8,
       "left": 3,
