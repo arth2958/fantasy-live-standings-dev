@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 24,
-  "updated_at": "2026-10-11T17:20:40.859368Z",
+  "round_in_progress": 22,
+  "updated_at": "2026-10-11T17:36:15.820101Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3459,7 +3459,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1707,
+          "rating": 1712,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6445,7 +6445,7 @@
       "projected_points": 10.238157890082064,
       "projected_round": 4.238157890082064,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6562,8 +6562,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/EhSM6NMy",
+          "game_link_kind": "live",
           "round_game": "3:athenianknight:scoobysnack19",
           "season_points": 0.0,
           "season_games": 2
@@ -8589,7 +8589,7 @@
       "projected_points": 6.140840177566898,
       "projected_round": 1.140840177566898,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 6,
       "roster": [
         {
@@ -8706,8 +8706,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/EhSM6NMy",
+          "game_link_kind": "live",
           "round_game": "3:athenianknight:scoobysnack19",
           "season_points": 0.0,
           "season_games": 2
@@ -8853,10 +8853,10 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 6.513505257711256,
-      "actual": 5.5,
+      "projected": 7.130730288616203,
+      "actual": 6.5,
       "paired": 8,
-      "left": 2,
+      "left": 1,
       "eligible": false
     },
     {
@@ -8900,6 +8900,14 @@
       "eligible": false
     },
     {
+      "name": "Don't give a check your ascii can't cache",
+      "projected": 5.5,
+      "actual": 5.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Operation Pawnstorm",
       "projected": 5.5,
       "actual": 5.5,
@@ -8929,14 +8937,6 @@
       "actual": 3.5,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "Don't give a check your ascii can't cache",
-      "projected": 5.070052823583988,
-      "actual": 4.5,
-      "paired": 8,
-      "left": 1,
       "eligible": false
     },
     {
@@ -9005,10 +9005,18 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 4.537590160780616,
+      "projected": 4.537590160780617,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "Knights of the Round Tablebase",
+      "projected": 4.5,
+      "actual": 4.5,
+      "paired": 8,
+      "left": 0,
       "eligible": false
     },
     {
@@ -9060,22 +9068,6 @@
       "eligible": false
     },
     {
-      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.192463392579517,
-      "actual": 3.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Knights of the Round Tablebase",
-      "projected": 3.807536607420482,
-      "actual": 3.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "Pirc and Roll",
       "projected": 3.7618421099179358,
       "actual": 3.0,
@@ -9085,7 +9077,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.749540408295236,
+      "projected": 3.7495404082952355,
       "actual": 2.5,
       "paired": 8,
       "left": 2,
@@ -9105,6 +9097,14 @@
       "actual": 2.5,
       "paired": 8,
       "left": 2,
+      "eligible": false
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "projected": 3.5,
+      "actual": 3.5,
+      "paired": 8,
+      "left": 0,
       "eligible": false
     },
     {
@@ -9196,16 +9196,8 @@
       "eligible": false
     },
     {
-      "name": "50 Ways to Fork Your Lover",
-      "projected": 2.929947176416012,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "The kannjuring",
-      "projected": 2.8593795242287126,
+      "projected": 2.859379524228712,
       "actual": 1.5,
       "paired": 8,
       "left": 3,
@@ -9217,6 +9209,14 @@
       "actual": 2.5,
       "paired": 8,
       "left": 1,
+      "eligible": false
+    },
+    {
+      "name": "50 Ways to Fork Your Lover",
+      "projected": 2.5,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 0,
       "eligible": false
     },
     {
@@ -9277,10 +9277,10 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 1.486494742288744,
+      "projected": 0.8692697113837977,
       "actual": 0.5,
       "paired": 8,
-      "left": 2,
+      "left": 1,
       "eligible": false
     }
   ],
