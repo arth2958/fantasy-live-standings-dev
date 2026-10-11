@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 1,
-  "updated_at": "2026-10-11T07:38:11.673803Z",
+  "updated_at": "2026-10-11T07:53:26.594095Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8868,14 +8868,6 @@
       "eligible": false
     },
     {
-      "name": "King's Landing",
-      "projected": 5.640064999802885,
-      "actual": 5.0,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "Total Tomination",
       "projected": 5.624001758617667,
       "actual": 5.0,
@@ -8889,6 +8881,14 @@
       "actual": 3.5,
       "paired": 8,
       "left": 4,
+      "eligible": false
+    },
+    {
+      "name": "King's Landing",
+      "projected": 5.5868950233791,
+      "actual": 5.0,
+      "paired": 8,
+      "left": 1,
       "eligible": false
     },
     {
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.820900352612611,
+      "projected": 3.8209003526126115,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
@@ -9244,6 +9244,14 @@
       "eligible": false
     },
     {
+      "name": "There Will Be Blunders",
+      "projected": 2.4131049766209,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "The kannjuring",
       "projected": 2.399587752552458,
       "actual": 0.5,
@@ -9254,14 +9262,6 @@
     {
       "name": "passed pawn patrol",
       "projected": 2.375998241382333,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "There Will Be Blunders",
-      "projected": 2.359935000197115,
       "actual": 2.0,
       "paired": 8,
       "left": 1,
