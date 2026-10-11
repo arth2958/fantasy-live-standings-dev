@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-11T08:50:08.731781Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-11T09:01:05.619912Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1085,7 +1085,7 @@
       "projected_points": 14.070052823583989,
       "projected_round": 4.570052823583988,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1142,8 +1142,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/E49XPkXv",
+          "game_link_kind": "live",
           "round_game": "3:pawnpushingpleb:simonwashere",
           "season_points": 1.5,
           "season_games": 2
@@ -1219,7 +1219,7 @@
       "projected_points": 13.928189453910498,
       "projected_round": 4.428189453910499,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1261,8 +1261,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/demWORh6",
+          "game_link_kind": "live",
           "round_game": "3:minot:nikker33",
           "season_points": 2.0,
           "season_games": 2
@@ -4167,7 +4167,7 @@
       "projected_points": 11.570052823583989,
       "projected_round": 3.070052823583988,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4224,8 +4224,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/E49XPkXv",
+          "game_link_kind": "live",
           "round_game": "3:pawnpushingpleb:simonwashere",
           "season_points": 1.5,
           "season_games": 2
