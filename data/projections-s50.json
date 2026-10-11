@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 5,
-  "updated_at": "2026-10-11T19:50:04.449596Z",
+  "updated_at": "2026-10-11T20:00:12.206584Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.164592441309904,
+      "projected": 3.1645924413099045,
       "actual": 2.0,
       "paired": 8,
       "left": 2,
