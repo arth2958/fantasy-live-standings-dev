@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 4,
-  "updated_at": "2026-10-11T13:22:13.234013Z",
+  "round_in_progress": 6,
+  "updated_at": "2026-10-11T13:37:34.825102Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7919,7 +7919,7 @@
       "projected_points": 9.091077989236265,
       "projected_round": 4.091077989236265,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7931,8 +7931,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/aCcgJsC0",
+          "game_link_kind": "live",
           "round_game": "3:fritsj:slowroast",
           "season_points": 0.5,
           "season_games": 2
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 6.513505257711255,
+      "projected": 6.513505257711256,
       "actual": 5.5,
       "paired": 8,
       "left": 2,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 3.8529683858774115,
+      "projected": 3.8529683858774106,
       "actual": 2.0,
       "paired": 8,
       "left": 4,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.7495404082952355,
+      "projected": 3.749540408295236,
       "actual": 2.5,
       "paired": 8,
       "left": 2,
