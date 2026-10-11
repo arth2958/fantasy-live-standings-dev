@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-11T10:21:41.050352Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-10-11T10:37:26.269538Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -683,7 +683,7 @@
       "projected_points": 14.553046895169462,
       "projected_round": 4.553046895169462,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -725,8 +725,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
@@ -951,7 +951,7 @@
       "projected_points": 14.318317234307404,
       "projected_round": 4.818317234307405,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -993,8 +993,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
@@ -3095,7 +3095,7 @@
       "projected_points": 12.384189361587087,
       "projected_round": 2.8841893615870866,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3137,8 +3137,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
@@ -5909,7 +5909,7 @@
       "projected_points": 10.547081551352921,
       "projected_round": 5.047081551352921,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -5951,8 +5951,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
@@ -7785,7 +7785,7 @@
       "projected_points": 9.139197996919075,
       "projected_round": 2.639197996919074,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -7827,8 +7827,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
@@ -8455,7 +8455,7 @@
       "projected_points": 7.6334468070997685,
       "projected_round": 3.1334468070997685,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8497,8 +8497,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OMl9pIsP",
+          "game_link_kind": "live",
           "round_game": "3:berndwind:nermin_dedovic",
           "season_points": 0.5,
           "season_games": 1
