@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 14,
-  "updated_at": "2026-10-11T15:37:08.945419Z",
+  "round_in_progress": 13,
+  "updated_at": "2026-10-11T15:51:53.633392Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8956,6 +8956,14 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 4.830624120666396,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 2,
+      "eligible": false
+    },
+    {
       "name": "pspspspspsps",
       "projected": 4.664294138554965,
       "actual": 3.0,
@@ -8981,7 +8989,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 4.537590160780617,
+      "projected": 4.537590160780616,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -9036,14 +9044,6 @@
       "eligible": false
     },
     {
-      "name": "50th Parallel Pawns",
-      "projected": 4.359374684558665,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 3,
-      "eligible": false
-    },
-    {
       "name": "my english needs work",
       "projected": 4.2504595917047645,
       "actual": 3.5,
@@ -9089,14 +9089,6 @@
       "actual": 2.5,
       "paired": 8,
       "left": 2,
-      "eligible": false
-    },
-    {
-      "name": "Pirc and Roll",
-      "projected": 3.6406253154413353,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 3,
       "eligible": false
     },
     {
@@ -9177,6 +9169,14 @@
       "actual": 2.0,
       "paired": 8,
       "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "Pirc and Roll",
+      "projected": 3.169375879333604,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 2,
       "eligible": false
     },
     {
