@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 19,
-  "updated_at": "2026-10-11T16:54:12.560709Z",
+  "round_in_progress": 24,
+  "updated_at": "2026-10-11T17:20:40.859368Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2425,7 +2425,7 @@
       "projected_points": 12.967628130622343,
       "projected_round": 4.467628130622343,
       "left": 2,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -2467,8 +2467,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/qDW1E74U",
+          "game_link_kind": "live",
           "round_game": "3:aloo_bhaloo:titusalone91",
           "season_points": 1.5,
           "season_games": 2
@@ -3229,7 +3229,7 @@
       "projected_points": 12.099804637008706,
       "projected_round": 5.099804637008707,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -3316,8 +3316,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/8wf1rPsF",
+          "game_link_kind": "live",
           "round_game": "3:acebulf:its_ck",
           "season_points": 0.0,
           "season_games": 3
@@ -3459,7 +3459,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1702,
+          "rating": 1707,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -4837,7 +4837,7 @@
       "projected_points": 11.442688366237707,
       "projected_round": 2.4426883662377072,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4879,8 +4879,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/qDW1E74U",
+          "game_link_kind": "live",
           "round_game": "3:aloo_bhaloo:titusalone91",
           "season_points": 1.5,
           "season_games": 2
@@ -7226,7 +7226,7 @@
         {
           "handle": "TimeFork",
           "status": "draw",
-          "rating": 1426,
+          "rating": 1433,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -7383,7 +7383,7 @@
       "projected_points": 9.58615110174961,
       "projected_round": 3.0861511017496115,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -7470,8 +7470,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/8wf1rPsF",
+          "game_link_kind": "live",
           "round_game": "3:acebulf:its_ck",
           "season_points": 0.0,
           "season_games": 3
@@ -7517,7 +7517,7 @@
       "projected_points": 9.550199353253536,
       "projected_round": 3.5501993532535367,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7604,8 +7604,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/sv2UALrB",
+          "game_link_kind": "live",
           "round_game": "3:bncl:stclion",
           "season_points": 1.0,
           "season_games": 2
@@ -8321,7 +8321,7 @@
       "projected_points": 8.097820219263172,
       "projected_round": 2.0978202192631716,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -8408,8 +8408,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/8wf1rPsF",
+          "game_link_kind": "live",
           "round_game": "3:acebulf:its_ck",
           "season_points": 0.0,
           "season_games": 2
@@ -8964,14 +8964,6 @@
       "eligible": false
     },
     {
-      "name": "50th Parallel Pawns",
-      "projected": 4.830624120666396,
-      "actual": 4.0,
-      "paired": 8,
-      "left": 2,
-      "eligible": false
-    },
-    {
       "name": "Svidler? I hardly know her",
       "projected": 4.765994670766489,
       "actual": 4.0,
@@ -9060,6 +9052,14 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 4.238157890082064,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "projected": 4.192463392579517,
       "actual": 3.5,
@@ -9076,8 +9076,16 @@
       "eligible": false
     },
     {
+      "name": "Pirc and Roll",
+      "projected": 3.7618421099179358,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.7495404082952355,
+      "projected": 3.749540408295236,
       "actual": 2.5,
       "paired": 8,
       "left": 2,
@@ -9161,14 +9169,6 @@
       "actual": 3.0,
       "paired": 8,
       "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Pirc and Roll",
-      "projected": 3.169375879333604,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 2,
       "eligible": false
     },
     {
