@@ -2,7 +2,7 @@
   "season": 50,
   "round": 3,
   "round_in_progress": 2,
-  "updated_at": "2026-10-11T10:00:13.588875Z",
+  "updated_at": "2026-10-11T10:21:41.050352Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 6.513505257711255,
+      "projected": 6.513505257711256,
       "actual": 5.5,
       "paired": 8,
       "left": 2,
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.1737636146499595,
+      "projected": 4.173763614649959,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 3.8262363853500405,
+      "projected": 3.826236385350041,
       "actual": 3.0,
       "paired": 8,
       "left": 2,
