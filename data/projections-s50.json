@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-11T20:20:43.730695Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-11T20:37:18.972511Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -147,7 +147,7 @@
       "projected_points": 16.119941359044525,
       "projected_round": 6.119941359044523,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -189,8 +189,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/9XZaeSLa",
+          "game_link_kind": "live",
           "round_game": "3:aguayo:jwwells42",
           "season_points": 2.0,
           "season_games": 2
@@ -281,7 +281,7 @@
       "projected_points": 15.619941359044523,
       "projected_round": 3.1199413590445233,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -323,8 +323,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/9XZaeSLa",
+          "game_link_kind": "live",
           "round_game": "3:aguayo:jwwells42",
           "season_points": 2.0,
           "season_games": 2
@@ -683,7 +683,7 @@
       "projected_points": 14.619941359044523,
       "projected_round": 4.619941359044523,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -725,8 +725,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/9XZaeSLa",
+          "game_link_kind": "live",
           "round_game": "3:aguayo:jwwells42",
           "season_points": 2.0,
           "season_games": 2
@@ -1487,7 +1487,7 @@
       "projected_points": 13.619941359044523,
       "projected_round": 3.6199413590445233,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1529,8 +1529,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/9XZaeSLa",
+          "game_link_kind": "live",
           "round_game": "3:aguayo:jwwells42",
           "season_points": 2.0,
           "season_games": 2
@@ -2559,7 +2559,7 @@
       "projected_points": 12.619941359044523,
       "projected_round": 5.619941359044523,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -2601,8 +2601,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/9XZaeSLa",
+          "game_link_kind": "live",
           "round_game": "3:aguayo:jwwells42",
           "season_points": 2.0,
           "season_games": 2
@@ -3459,7 +3459,7 @@
         {
           "handle": "PatrickVrielink",
           "status": "lost",
-          "rating": 1717,
+          "rating": 1722,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.1645924413099045,
+      "projected": 3.164592441309904,
       "actual": 2.0,
       "paired": 8,
       "left": 2,
