@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 3,
-  "round_in_progress": 8,
-  "updated_at": "2026-10-11T19:20:53.053219Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-11T19:36:05.852838Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -213,7 +213,7 @@
         {
           "handle": "TTotr",
           "status": "won",
-          "rating": 1832,
+          "rating": 1820,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2759,7 +2759,7 @@
         {
           "handle": "TTotr",
           "status": "won",
-          "rating": 1832,
+          "rating": 1820,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -3765,7 +3765,7 @@
       "projected_points": 11.989927553072562,
       "projected_round": 3.4899275530725618,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -3852,8 +3852,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/ITmRwRI1",
+          "game_link_kind": "live",
           "round_game": "3:gpetris:pratikbora",
           "season_points": 2.0,
           "season_games": 2
@@ -6779,7 +6779,7 @@
         {
           "handle": "TTotr",
           "status": "won",
-          "rating": 1832,
+          "rating": 1820,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8853,10 +8853,10 @@
   "league_teams": [
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 7.130730288616203,
-      "actual": 6.5,
+      "projected": 7.0,
+      "actual": 7.0,
       "paired": 8,
-      "left": 1,
+      "left": 0,
       "eligible": false
     },
     {
@@ -8932,6 +8932,14 @@
       "eligible": false
     },
     {
+      "name": "The Tarrasch Talkers",
+      "projected": 5.5,
+      "actual": 5.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Illiterate Alliteration Explorers",
       "projected": 5.167418421873223,
       "actual": 4.5,
@@ -8950,14 +8958,6 @@
     {
       "name": "Leningrad School of Blunders",
       "projected": 5.106287823785428,
-      "actual": 4.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "The Tarrasch Talkers",
-      "projected": 4.969815319996098,
       "actual": 4.5,
       "paired": 8,
       "left": 1,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.164592441309904,
+      "projected": 3.1645924413099045,
       "actual": 2.0,
       "paired": 8,
       "left": 2,
@@ -9166,14 +9166,6 @@
     {
       "name": "J’adoube-Al-Blunder",
       "projected": 3.0952430396515718,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
-      "name": "Fork You Very Much",
-      "projected": 3.0301846800039023,
       "actual": 2.5,
       "paired": 8,
       "left": 1,
@@ -9213,6 +9205,14 @@
     },
     {
       "name": "fifty shades of black and white",
+      "projected": 2.5,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
+      "name": "Fork You Very Much",
       "projected": 2.5,
       "actual": 2.5,
       "paired": 8,
@@ -9277,10 +9277,10 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 0.8692697113837977,
-      "actual": 0.5,
+      "projected": 1.0,
+      "actual": 1.0,
       "paired": 8,
-      "left": 1,
+      "left": 0,
       "eligible": false
     }
   ],
