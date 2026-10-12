@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 1,
-  "updated_at": "2026-10-12T21:38:45.369703Z",
+  "updated_at": "2026-10-12T22:00:43.975865Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5772,8 +5772,8 @@
       "name": "All players were handpicked with care",
       "actual_points": 10.5,
       "actual_round": 0.0,
-      "projected_points": 14.324761859656519,
-      "projected_round": 3.8247618596565194,
+      "projected_points": 14.363575239193679,
+      "projected_round": 3.863575239193678,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -5856,9 +5856,9 @@
         {
           "handle": "fireball100",
           "status": "pending",
-          "rating": 1717,
+          "rating": 1744,
           "decided_without_play": false,
-          "expected_points": 0.49280491829094863,
+          "expected_points": 0.5316182978281073,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8908,14 +8908,6 @@
       "eligible": false
     },
     {
-      "name": "Morphy's Mates",
-      "projected": 4.1663023515126785,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
       "projected": 4.157228801020854,
       "actual": 0.0,
@@ -8926,6 +8918,14 @@
     {
       "name": "50-50 my next move is a blunder",
       "projected": 4.143090213511143,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Morphy's Mates",
+      "projected": 4.12748897197552,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.9228047551291967,
+      "projected": 3.922804755129197,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9204,6 +9204,14 @@
       "eligible": false
     },
     {
+      "name": "Rooky Horror Pawn Show",
+      "projected": 3.87251102802448,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "Mating for Godot",
       "projected": 3.856909786488857,
       "actual": 0.0,
@@ -9214,14 +9222,6 @@
     {
       "name": "Fifty Shades of Time Trouble",
       "projected": 3.842771198979146,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Rooky Horror Pawn Show",
-      "projected": 3.8336976484873206,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
