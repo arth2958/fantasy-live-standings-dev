@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 0,
-  "updated_at": "2026-10-12T11:24:43.413303Z",
+  "updated_at": "2026-10-12T11:55:03.708461Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -278,8 +278,8 @@
       "name": "Mate in 9 to 5",
       "actual_points": 16.0,
       "actual_round": 0.0,
-      "projected_points": 20.15137989959596,
-      "projected_round": 4.151379899595961,
+      "projected_points": 20.120277774480584,
+      "projected_round": 4.120277774480583,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -379,7 +379,7 @@
           "status": "pending",
           "rating": 1738,
           "decided_without_play": false,
-          "expected_points": 0.44980064674646303,
+          "expected_points": 0.418698521631085,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4968,8 +4968,8 @@
       "name": "Something magnificant",
       "actual_points": 11.5,
       "actual_round": 0.0,
-      "projected_points": 15.04469884718176,
-      "projected_round": 3.5446988471817606,
+      "projected_points": 15.013596722066383,
+      "projected_round": 3.513596722066383,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -5069,7 +5069,7 @@
           "status": "pending",
           "rating": 1738,
           "decided_without_play": false,
-          "expected_points": 0.44980064674646303,
+          "expected_points": 0.418698521631085,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7112,8 +7112,8 @@
       "name": "Fantasy8",
       "actual_points": 9.5,
       "actual_round": 0.0,
-      "projected_points": 13.494393145055824,
-      "projected_round": 3.994393145055823,
+      "projected_points": 13.495519557713962,
+      "projected_round": 3.995519557713963,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -7226,9 +7226,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1433,
+          "rating": 1434,
           "decided_without_play": false,
-          "expected_points": 0.2663662975861926,
+          "expected_points": 0.2674927102443324,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8901,15 +8901,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.158355213678994,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Rooky Horror Pawn Show fan club",
-      "projected": 4.156347691335076,
+      "projected": 4.157228801020854,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8934,6 +8926,14 @@
     {
       "name": "Riding with the King",
       "projected": 4.125369977003963,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Rooky Horror Pawn Show fan club",
+      "projected": 4.125245566219697,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9196,6 +9196,14 @@
       "eligible": false
     },
     {
+      "name": "Not all who blunder are lost",
+      "projected": 3.874754433780302,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "Old but hoping for stratospheric improvement",
       "projected": 3.874630022996036,
       "actual": 0.0,
@@ -9220,16 +9228,8 @@
       "eligible": false
     },
     {
-      "name": "Not all who blunder are lost",
-      "projected": 3.843652308664924,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.841644786321006,
+      "projected": 3.842771198979146,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
