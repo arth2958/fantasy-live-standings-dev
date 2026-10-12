@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 0,
-  "updated_at": "2026-10-12T16:24:15.881914Z",
+  "updated_at": "2026-10-12T16:52:18.262672Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 3.9092817392813113,
+      "projected": 3.9092817392813117,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 3.338714096050934,
+      "projected": 3.3387140960509343,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
