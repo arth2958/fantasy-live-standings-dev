@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-12T20:54:24.165631Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-12T21:21:25.729827Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -281,7 +281,7 @@
       "projected_points": 19.954907318964203,
       "projected_round": 3.9549073189642034,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -383,8 +383,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/R2bBTQaS",
+          "game_link_kind": "live",
           "round_game": "4:gingersquirrelnuts:naturesaccomplice",
           "season_points": 1.0,
           "season_games": 3
@@ -4837,7 +4837,7 @@
       "projected_points": 15.017827581577219,
       "projected_round": 3.5178275815772198,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4939,8 +4939,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/R2bBTQaS",
+          "game_link_kind": "live",
           "round_game": "4:gingersquirrelnuts:naturesaccomplice",
           "season_points": 1.0,
           "season_games": 3
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
-      "projected": 4.420590587935331,
+      "projected": 4.42059058793533,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
