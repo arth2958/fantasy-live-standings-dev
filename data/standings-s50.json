@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-13T21:04:35.247237Z",
+  "updated_at": "2026-10-13T21:32:14.881271Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -35314,8 +35314,8 @@
       "points": 8.0,
       "games": 23,
       "round_games": 0,
-      "round_scheduled": 8,
-      "games_left": 8,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.34782608695652173,
       "roster": [
         {
@@ -35696,7 +35696,7 @@
           "round": 4,
           "points": 0.0,
           "finished": 0,
-          "paired": 8,
+          "paired": 7,
           "players": [
             {
               "handle": "tommeketoch",
@@ -35765,16 +35765,8 @@
             },
             {
               "handle": "SedNomini",
-              "points": 0.0,
-              "games": [
-                {
-                  "opponent": "WordRearrangment",
-                  "actual_result": null,
-                  "game_url": null,
-                  "status": "pending",
-                  "no_play": false
-                }
-              ]
+              "points": 0,
+              "games": []
             },
             {
               "handle": "MatthewKCanada",

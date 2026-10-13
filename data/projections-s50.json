@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 1,
-  "updated_at": "2026-10-13T21:04:40.239611Z",
+  "updated_at": "2026-10-13T21:32:19.690968Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8180,140 +8180,6 @@
       "projected_rank": 61
     },
     {
-      "owner": "fork2020",
-      "name": "Finally a Website League.",
-      "actual_points": 8.0,
-      "actual_round": 0.0,
-      "projected_points": 11.903645222015928,
-      "projected_round": 3.903645222015929,
-      "left": 8,
-      "in_progress": 0,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "tommeketoch",
-          "status": "pending",
-          "rating": 2191,
-          "decided_without_play": false,
-          "expected_points": 0.515824985264735,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:pavonine:tommeketoch",
-          "season_points": 0.5,
-          "season_games": 3
-        },
-        {
-          "handle": "LloydRet",
-          "status": "pending",
-          "rating": 2084,
-          "decided_without_play": false,
-          "expected_points": 0.46122190794282847,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:aactrl:lloydret",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "berndwind",
-          "status": "pending",
-          "rating": 2012,
-          "decided_without_play": false,
-          "expected_points": 0.4398498547680971,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:berndwind:cowtone",
-          "season_points": 1.5,
-          "season_games": 2
-        },
-        {
-          "handle": "BLang316",
-          "status": "pending",
-          "rating": 1872,
-          "decided_without_play": false,
-          "expected_points": 0.4341847969307667,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:blang316:hesperian",
-          "season_points": 0.0,
-          "season_games": 3
-        },
-        {
-          "handle": "fork2020",
-          "status": "pending",
-          "rating": 1856,
-          "decided_without_play": false,
-          "expected_points": 0.5416377027147634,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:fork2020:gmat20020",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "SedNomini",
-          "status": "pending",
-          "rating": 1748,
-          "decided_without_play": false,
-          "expected_points": 0.45550542691699203,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:sednomini:wordrearrangment",
-          "season_points": 0.0,
-          "season_games": 3
-        },
-        {
-          "handle": "MatthewKCanada",
-          "status": "pending",
-          "rating": 1683,
-          "decided_without_play": false,
-          "expected_points": 0.581301478368915,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:matthewkcanada:tastypotatohead",
-          "season_points": 1.0,
-          "season_games": 3
-        },
-        {
-          "handle": "R0B-W",
-          "status": "pending",
-          "rating": 1532,
-          "decided_without_play": false,
-          "expected_points": 0.47411906910883095,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:franconianchess:r0b-w",
-          "season_points": 1.0,
-          "season_games": 3
-        }
-      ],
-      "projected_rank": 62
-    },
-    {
       "owner": "macha1313",
       "name": "Favorite Names",
       "actual_points": 8.5,
@@ -8445,7 +8311,7 @@
           "season_games": 3
         }
       ],
-      "projected_rank": 63
+      "projected_rank": 62
     },
     {
       "owner": "LosingIsTheBest",
@@ -8577,6 +8443,140 @@
           "round_game": "4:chraki:jakubjaniak1994",
           "season_points": 0.0,
           "season_games": 2
+        }
+      ],
+      "projected_rank": 63
+    },
+    {
+      "owner": "fork2020",
+      "name": "Finally a Website League.",
+      "actual_points": 8.0,
+      "actual_round": 0.0,
+      "projected_points": 11.448139795098937,
+      "projected_round": 3.4481397950989368,
+      "left": 7,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "tommeketoch",
+          "status": "pending",
+          "rating": 2191,
+          "decided_without_play": false,
+          "expected_points": 0.515824985264735,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:pavonine:tommeketoch",
+          "season_points": 0.5,
+          "season_games": 3
+        },
+        {
+          "handle": "LloydRet",
+          "status": "pending",
+          "rating": 2084,
+          "decided_without_play": false,
+          "expected_points": 0.46122190794282847,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:aactrl:lloydret",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "berndwind",
+          "status": "pending",
+          "rating": 2012,
+          "decided_without_play": false,
+          "expected_points": 0.4398498547680971,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:berndwind:cowtone",
+          "season_points": 1.5,
+          "season_games": 2
+        },
+        {
+          "handle": "BLang316",
+          "status": "pending",
+          "rating": 1872,
+          "decided_without_play": false,
+          "expected_points": 0.4341847969307667,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:blang316:hesperian",
+          "season_points": 0.0,
+          "season_games": 3
+        },
+        {
+          "handle": "fork2020",
+          "status": "pending",
+          "rating": 1856,
+          "decided_without_play": false,
+          "expected_points": 0.5416377027147634,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:fork2020:gmat20020",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "SedNomini",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 0.0,
+          "season_games": 3
+        },
+        {
+          "handle": "MatthewKCanada",
+          "status": "pending",
+          "rating": 1683,
+          "decided_without_play": false,
+          "expected_points": 0.581301478368915,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:matthewkcanada:tastypotatohead",
+          "season_points": 1.0,
+          "season_games": 3
+        },
+        {
+          "handle": "R0B-W",
+          "status": "pending",
+          "rating": 1532,
+          "decided_without_play": false,
+          "expected_points": 0.47411906910883095,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:franconianchess:r0b-w",
+          "season_points": 1.0,
+          "season_games": 3
         }
       ],
       "projected_rank": 64
@@ -8972,6 +8972,14 @@
       "eligible": false
     },
     {
+      "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
+      "projected": 4.1608071180894575,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "50-50 my next move is a blunder",
       "projected": 4.159802500911572,
       "actual": 0.0,
@@ -9022,14 +9030,6 @@
     {
       "name": "Wandering Knights",
       "projected": 4.079043506814673,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 4.070390622225966,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9100,14 +9100,6 @@
       "eligible": false
     },
     {
-      "name": "The Greek Gifty Nifty Fifty",
-      "projected": 3.9296093777740344,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Don't give a check your ascii can't cache",
       "projected": 3.9209564931853267,
       "actual": 0.0,
@@ -9158,6 +9150,14 @@
     {
       "name": "Mating for Godot",
       "projected": 3.840197499088429,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "The Greek Gifty Nifty Fifty",
+      "projected": 3.8391928819105425,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
