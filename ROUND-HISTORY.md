@@ -4,7 +4,7 @@ This preview adds actual per-round scores to expanded projection teams. On both
 Standings and Projections, press R1, R2, or another published round to see the
 players, opponents, actual points, and win/draw/loss. A game link opens that
 round's game. Pending results are not counted as points. Future rounds have no
-results and cannot be opened. "Back to current roster" restores the existing
+results and cannot be opened. "Back to current round" restores the existing
 current-round view and its Elo detail.
 
 Fantasy teams keep their original drafted players. League teams show the
