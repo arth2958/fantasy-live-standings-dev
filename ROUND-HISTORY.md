@@ -52,3 +52,22 @@ is invented. Unpaired fantasy players say "Not playing this round".
 No workflows were changed for this feature. The existing standings and league
 builders already publish their own data files. Projections still runs
 independently from production's official standings workflow.
+
+## Historical pre-game Elo
+
+Each played historical game can show "Pre-game Elo: 0.29 expected" below
+its result. This is expected points, not a win probability or a change to the
+actual score. The calculation uses fixed WhiteElo/BlackElo tags from that game's
+PGN and the existing +25 White adjustment. No-play games, unstarted games and
+missing snapshots show no estimate. Today's ratings are never substituted.
+
+The league builder keeps its pregame_games cache on each refresh and now
+backfills all published rounds. It writes each side's pregame_expectation
+into historical game records. round-history.js reads that same data for both
+fantasy and league players, matching by game URL and player handle so multiple
+games cannot overwrite one another. If that data fetch fails, actual results
+still work; the Elo line is simply omitted.
+
+Next season: keep body data-season on BOTH pages set to the new season. The
+shared historical Elo fetch follows it. Check a White player, a Black player,
+a no-play result and a player with multiple games before approving release.
