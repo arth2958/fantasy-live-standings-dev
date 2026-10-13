@@ -15,14 +15,18 @@ function historicalElo() {
         return r.json();
       }).then(data => {
         const lookup = new Map();
+        const currentPlayers = new Map();
+        Object.values(data.teams || {}).forEach(team => (team.players || []).forEach(player => {
+          currentPlayers.set(`${player.handle.toLowerCase()}|${player.opponent.toLowerCase()}`, player);
+        }));
         Object.values(data.teams || {}).forEach(team => (team.round_scores || []).forEach(round =>
           (round.players || []).forEach(player => (player.games || []).forEach(game => {
             const value = game.pregame_expectation;
             if (!game.no_play && game.game_url && typeof value === 'number' && value >= 0 && value <= 1)
               lookup.set(`${game.game_url}|${player.handle.toLowerCase()}`, value);
           }))));
-        return lookup;
-      }).catch(() => new Map()) : Promise.resolve(new Map());
+        return {lookup, currentPlayers, round: data.round};
+      }).catch(() => ({lookup: new Map(), currentPlayers: new Map()})) : Promise.resolve({lookup: new Map(), currentPlayers: new Map()});
   }
   return historyEloPromise;
 }
@@ -57,18 +61,29 @@ window.roundHistory = function(scores, current) {
       const status = !games.length ? 'unpaired' : decided.length < games.length ? 'pending' :
         games.length === 1 ? games[0].status : 'mixed';
       card.classList.add(status);
-      const name = document.createElement('b'); name.textContent = player.handle;
+      const name = document.createElement('b');
+      const nameLink = document.createElement('a');
+      const linkedGame = games.find(g => gameURL(g.game_url));
+      if (linkedGame) {
+        nameLink.href = linkedGame.game_url; nameLink.target = '_blank'; nameLink.rel = 'noopener';
+        nameLink.textContent = player.handle; name.append(nameLink);
+      } else name.textContent = player.handle;
+      const profile = document.createElement('a'); profile.className = 'league-profile';
+      profile.href = `https://www.lichess4545.com/team4545/season/${document.body.dataset.season}/player/${encodeURIComponent(player.handle)}/`;
+      profile.target = '_blank'; profile.rel = 'noopener'; profile.textContent = '↗';
+      profile.setAttribute('aria-label', `Open ${player.handle} league profile`); name.append(' ', profile);
       const score = document.createElement('small'); score.className = 'history-score';
       score.textContent = `${number(player.points || 0)} pts / ${decided.length} games`;
-      card.append(name, score);
+      card.append(name);
+      // Season totals remain outside this selected-round view; show per-game detail below.
       if (!games.length) {
         const line = document.createElement('small'); line.textContent = 'Not playing this round'; card.append(line);
       }
       games.forEach(game => {
-        const line = document.createElement('small'); line.className = 'history-game';
+        const line = document.createElement('small'); line.className = 'history-game round-state';
         const word = game.actual_result == null ? (game.game_url ? 'Playing' : 'Pending') :
           ({won: 'Win', draw: 'Draw', lost: 'Loss'}[game.status] || 'Final');
-        const text = `${word}${game.no_play ? ' (no play)' : ''} vs ${game.opponent}`;
+        const text = `${word}${game.no_play ? ' (no play)' : ''}`;
         if (gameURL(game.game_url)) {
           const link = document.createElement('a'); link.href = game.game_url;
           link.target = '_blank'; link.rel = 'noopener'; link.textContent = text;
@@ -76,13 +91,27 @@ window.roundHistory = function(scores, current) {
           line.append(link);
         } else line.textContent = text;
         card.append(line);
+        const detail = document.createElement('small'); detail.className = 'history-detail';
+        detail.textContent = game.actual_result == null ? `Pending vs ${game.opponent}` :
+          `${Number(game.actual_result).toFixed(2)} final${game.no_play ? ' (no play)' : ''} vs ${game.opponent}`;
+        card.append(detail);
         // A no-play or missing snapshot has no estimate. Never infer one from today's ratings.
-        if (!game.no_play && gameURL(game.game_url)) historicalElo().then(lookup => {
-          const estimate = lookup.get(`${game.game_url}|${player.handle.toLowerCase()}`);
-          if (estimate == null || !line.isConnected) return;
-          const elo = document.createElement('small'); elo.className = 'history-elo';
-          elo.textContent = `Pre-game Elo: ${estimate.toFixed(2)} expected`;
-          line.after(elo);
+        if (!game.no_play) historicalElo().then(data => {
+          if (!line.isConnected) return;
+          // Only the current round may use today's live estimate for an unstarted game.
+          // Historical rounds never fall back to live ratings or today's opponent.
+          const isCurrent = Number(round.round) === Number(current) && Number(round.round) === Number(data.round);
+          const now = isCurrent ? data.currentPlayers.get(`${player.handle.toLowerCase()}|${String(game.opponent).toLowerCase()}`) : null;
+          const fixed = data.lookup.get(`${game.game_url}|${player.handle.toLowerCase()}`);
+          const pregame = fixed ?? (now && game.actual_result == null ? now.pregame_expectation : null);
+          const live = now && game.actual_result == null && pregame == null ? now.live_elo_estimate : null;
+          const estimate = pregame ?? live;
+          if (estimate == null) return;
+          if (game.actual_result == null && now)
+            detail.textContent = `${Number(now.expected_points).toFixed(2)} projected vs ${game.opponent}`;
+          const elo = document.createElement('small'); elo.className = 'history-elo elo-detail';
+          elo.textContent = `${pregame != null ? 'Pre-game Elo' : 'Elo estimate'} ${Math.round(estimate * 100)}%`;
+          detail.after(elo);
         });
       });
       players.append(card);
