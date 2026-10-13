@@ -1,8 +1,31 @@
 /* ROUND HISTORY, shared by standings and projections.
- * Actual scores only: forecasts and Elo estimates stay in the current roster.
+ * Round totals are actual only. Historical Elo is separate game-start context.
  * No season number here. Each page supplies its own published round_scores.
  * To reuse next season, keep this file and its CSS links on both pages.
  */
+// Shared page-wide lookup. Both pages use the same historical league game data.
+// NEXT SEASON: set body data-season on each page; this URL follows that value.
+let historyEloPromise;
+function historicalElo() {
+  if (!historyEloPromise) {
+    const season = document.body.dataset.season;
+    historyEloPromise = /^\d+$/.test(season || '') ?
+      fetch(`../data/league-s${season}.json`, {cache: 'no-store'}).then(r => {
+        if (!r.ok) throw new Error('Historical Elo unavailable');
+        return r.json();
+      }).then(data => {
+        const lookup = new Map();
+        Object.values(data.teams || {}).forEach(team => (team.round_scores || []).forEach(round =>
+          (round.players || []).forEach(player => (player.games || []).forEach(game => {
+            const value = game.pregame_expectation;
+            if (!game.no_play && game.game_url && typeof value === 'number' && value >= 0 && value <= 1)
+              lookup.set(`${game.game_url}|${player.handle.toLowerCase()}`, value);
+          }))));
+        return lookup;
+      }).catch(() => new Map()) : Promise.resolve(new Map());
+  }
+  return historyEloPromise;
+}
 window.roundHistory = function(scores, current) {
   const section = document.createElement('section');
   section.className = 'round-scores round-history';
@@ -53,6 +76,14 @@ window.roundHistory = function(scores, current) {
           line.append(link);
         } else line.textContent = text;
         card.append(line);
+        // A no-play or missing snapshot has no estimate. Never infer one from today's ratings.
+        if (!game.no_play && gameURL(game.game_url)) historicalElo().then(lookup => {
+          const estimate = lookup.get(`${game.game_url}|${player.handle.toLowerCase()}`);
+          if (estimate == null || !line.isConnected) return;
+          const elo = document.createElement('small'); elo.className = 'history-elo';
+          elo.textContent = `Pre-game Elo: ${estimate.toFixed(2)} expected`;
+          line.after(elo);
+        });
       });
       players.append(card);
     });
