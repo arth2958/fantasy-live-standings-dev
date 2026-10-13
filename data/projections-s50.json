@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-13T17:42:10.498951Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-13T18:03:19.183880Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1353,7 +1353,7 @@
       "projected_points": 17.80500385367241,
       "projected_round": 4.8050038536724085,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1410,8 +1410,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -1487,7 +1487,7 @@
       "projected_points": 17.636735931710604,
       "projected_round": 4.1367359317106045,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1544,8 +1544,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -1755,7 +1755,7 @@
       "projected_points": 17.50016591125648,
       "projected_round": 4.000165911256479,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1812,8 +1812,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -2023,7 +2023,7 @@
       "projected_points": 17.35668864902019,
       "projected_round": 3.8566886490201893,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2080,8 +2080,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -2958,8 +2958,8 @@
       "name": "Is this the real team? Is this just fantasy?",
       "actual_points": 12.5,
       "actual_round": 0.0,
-      "projected_points": 16.742963408842385,
-      "projected_round": 4.2429634088423835,
+      "projected_points": 16.734526765892884,
+      "projected_round": 4.234526765892884,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -3059,7 +3059,7 @@
           "status": "pending",
           "rating": 1646,
           "decided_without_play": false,
-          "expected_points": 0.4285368825916186,
+          "expected_points": 0.42010023964211857,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3226,8 +3226,8 @@
       "name": "Shakalaka",
       "actual_points": 12.5,
       "actual_round": 0.0,
-      "projected_points": 16.095737632994712,
-      "projected_round": 3.5957376329947106,
+      "projected_points": 16.10417427594421,
+      "projected_round": 3.6041742759442106,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -3325,9 +3325,9 @@
         {
           "handle": "PatrickVrielink",
           "status": "pending",
-          "rating": 1721,
+          "rating": 1727,
           "decided_without_play": false,
-          "expected_points": 0.5714631174083814,
+          "expected_points": 0.5798997603578815,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4033,7 +4033,7 @@
       "projected_points": 15.50500563071081,
       "projected_round": 3.005005630710811,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4090,8 +4090,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -4837,7 +4837,7 @@
       "projected_points": 15.161799770213712,
       "projected_round": 3.661799770213712,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4894,8 +4894,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -5641,7 +5641,7 @@
       "projected_points": 14.5335290129555,
       "projected_round": 4.0335290129554995,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5698,8 +5698,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/RnCgXjZn",
+          "game_link_kind": "live",
           "round_game": "4:eight_x_eight:waterlorda7890",
           "season_points": 1.0,
           "season_games": 3
@@ -5775,7 +5775,7 @@
       "projected_points": 14.390928661264017,
       "projected_round": 3.8909286612640157,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5817,8 +5817,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/IRS4nKuZ",
+          "game_link_kind": "live",
           "round_game": "4:mekumcu:vanroy",
           "season_points": 2.5,
           "season_games": 3
@@ -6579,7 +6579,7 @@
       "projected_points": 13.867434274632313,
       "projected_round": 3.367434274632312,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -6636,8 +6636,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pOEjVyV7",
+          "game_link_kind": "live",
           "round_game": "4:m0r1:morganbp",
           "season_points": 3.0,
           "season_games": 3
@@ -7383,7 +7383,7 @@
       "projected_points": 13.378707988989671,
       "projected_round": 2.878707988989671,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -7425,8 +7425,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/IRS4nKuZ",
+          "game_link_kind": "live",
           "round_game": "4:mekumcu:vanroy",
           "season_points": 2.5,
           "season_games": 3
@@ -7919,7 +7919,7 @@
       "projected_points": 12.464227997561704,
       "projected_round": 2.4642279975617036,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 5,
       "roster": [
         {
@@ -7976,8 +7976,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/RnCgXjZn",
+          "game_link_kind": "live",
           "round_game": "4:eight_x_eight:waterlorda7890",
           "season_points": 0.0,
           "season_games": 2
@@ -8892,14 +8892,6 @@
       "eligible": false
     },
     {
-      "name": "Silk Road Sacrifices",
-      "projected": 4.4484957309487285,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "The Last Shall be the First",
       "projected": 4.424789199369708,
       "actual": 1.0,
@@ -8917,7 +8909,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 4.418593744912338,
+      "projected": 4.410157101962838,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9044,6 +9036,14 @@
       "eligible": false
     },
     {
+      "name": "Silk Road Sacrifices",
+      "projected": 4.039571327263673,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "If anyone can refute it—don't show me",
       "projected": 4.036258750424404,
       "actual": 0.0,
@@ -9089,6 +9089,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "50th Parallel Pawns",
+      "projected": 3.9604286727363274,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
@@ -9213,7 +9221,7 @@
     },
     {
       "name": "fifty shades of black and white",
-      "projected": 3.5814062550876624,
+      "projected": 3.5898428980371624,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9230,14 +9238,6 @@
     {
       "name": "50 first mates",
       "projected": 3.575210800630292,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "50th Parallel Pawns",
-      "projected": 3.5515042690512715,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
