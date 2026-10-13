@@ -71,3 +71,13 @@ still work; the Elo line is simply omitted.
 Next season: keep body data-season on BOTH pages set to the new season. The
 shared historical Elo fetch follows it. Check a White player, a Black player,
 a no-play result and a player with multiple games before approving release.
+
+## Match the current roster and show current pending stats
+
+Historical cards now use the current roster's linked name/profile arrow,
+status word, quiet score line and darker bold percentage Elo label.
+For the current round only, pending games also show projected points and
+"Elo estimate" from the current league-player data until a game starts.
+Once game-start ratings exist they say "Pre-game Elo". Past rounds never
+use live estimates. Match current details by both player and opponent;
+match past details by player and game URL. No-play games remain Elo-free.
