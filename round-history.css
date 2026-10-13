@@ -31,3 +31,17 @@
 @media(min-width:700px){.round-history .round-score-grid{grid-template-columns:repeat(8,minmax(0,1fr))}.round-result-players{grid-template-columns:repeat(4,minmax(0,1fr))}}
 /* Explicit hidden rule prevents generic grid/display styles from revealing it. */
 .round-result-panel[hidden],.round-reset[hidden]{display:none}
+
+/* Match the current roster: linked colored name/dot, quiet status and score,
+   then a darker bold Elo line. Percentages use the same label on both views. */
+.history-player{padding:8px 9px;font-size:12px}
+.history-player b{font-size:12px;font-weight:800;line-height:1.4;color:var(--ink)}
+.history-player b::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;background:#beb9bc}
+.history-player.won b::before{background:rgb(var(--result-win))}
+.history-player.draw b::before{background:rgb(var(--result-draw))}
+.history-player.lost b::before{background:rgb(var(--result-loss))}
+.history-player.pending b::before{background:rgb(var(--result-pending))}
+.history-player b a{color:inherit;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:2px;border:0}
+.history-player .history-game,.history-player .history-detail{font-size:9px;color:var(--muted);font-weight:700;line-height:1.35;margin-top:2px}
+.history-player .history-game a{text-decoration:none}
+.history-player .history-elo{font-size:9px;color:var(--ink);font-weight:700;line-height:1.35;margin-top:4px}
