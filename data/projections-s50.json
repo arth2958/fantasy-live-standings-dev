@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 0,
-  "updated_at": "2026-10-13T10:54:42.688706Z",
+  "updated_at": "2026-10-13T11:24:42.362391Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7112,8 +7112,8 @@
       "name": "Fantasy8",
       "actual_points": 9.5,
       "actual_round": 0.0,
-      "projected_points": 13.495519557713962,
-      "projected_round": 3.995519557713963,
+      "projected_points": 13.491032086928941,
+      "projected_round": 3.991032086928941,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -7226,9 +7226,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1434,
+          "rating": 1430,
           "decided_without_play": false,
-          "expected_points": 0.2674927102443324,
+          "expected_points": 0.2630052394593107,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8932,16 +8932,16 @@
       "eligible": false
     },
     {
-      "name": "50-50 my next move is a blunder",
-      "projected": 4.159802500911572,
+      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
+      "projected": 4.161716271805876,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.157228801020854,
+      "name": "50-50 my next move is a blunder",
+      "projected": 4.159802500911572,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 4.08199615832041,
+      "projected": 4.081996158320409,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9013,7 +9013,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 4.077195244870803,
+      "projected": 4.077195244870804,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Svidler? I hardly know her",
-      "projected": 3.901518684129284,
+      "projected": 3.9015186841292837,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9188,16 +9188,16 @@
       "eligible": false
     },
     {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 3.8427711989791464,
+      "name": "Mating for Godot",
+      "projected": 3.840197499088429,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
       "eligible": false
     },
     {
-      "name": "Mating for Godot",
-      "projected": 3.840197499088429,
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 3.8382837281941247,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
