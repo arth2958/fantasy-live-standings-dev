@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-13T19:04:32.137428Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-13T19:35:58.278093Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5770,12 +5770,12 @@
     {
       "owner": "Acebulf",
       "name": "The chonkers",
-      "actual_points": 10.5,
-      "actual_round": 0.0,
-      "projected_points": 14.5335290129555,
-      "projected_round": 4.0335290129554995,
-      "left": 7,
-      "in_progress": 1,
+      "actual_points": 11.0,
+      "actual_round": 0.5,
+      "projected_points": 14.404140465737996,
+      "projected_round": 3.9041404657379966,
+      "left": 6,
+      "in_progress": 0,
       "paired": 7,
       "roster": [
         {
@@ -5825,18 +5825,18 @@
         },
         {
           "handle": "waterlorda7890",
-          "status": "pending",
-          "rating": 1933,
+          "status": "draw",
+          "rating": 1931,
           "decided_without_play": false,
-          "expected_points": 0.6293885472175023,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
           "game_url": "https://lichess.org/RnCgXjZn",
-          "game_link_kind": "live",
+          "game_link_kind": "recent",
           "round_game": "4:eight_x_eight:waterlorda7890",
-          "season_points": 1.0,
-          "season_games": 3
+          "season_points": 1.5,
+          "season_games": 4
         },
         {
           "handle": "TristanBrown17",
@@ -7914,12 +7914,12 @@
     {
       "owner": "voylento",
       "name": "legion of doom",
-      "actual_points": 10.0,
-      "actual_round": 0.0,
-      "projected_points": 12.464227997561704,
-      "projected_round": 2.4642279975617036,
-      "left": 5,
-      "in_progress": 1,
+      "actual_points": 10.5,
+      "actual_round": 0.5,
+      "projected_points": 12.593616544779206,
+      "projected_round": 2.5936165447792057,
+      "left": 4,
+      "in_progress": 0,
       "paired": 5,
       "roster": [
         {
@@ -7969,18 +7969,18 @@
         },
         {
           "handle": "eight_x_eight",
-          "status": "pending",
-          "rating": 1866,
+          "status": "draw",
+          "rating": 1870,
           "decided_without_play": false,
-          "expected_points": 0.37061145278249774,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
+          "expected_points": 0.5,
+          "actual_result": 0.5,
+          "round_points": 0.5,
+          "round_games": 1,
           "game_url": "https://lichess.org/RnCgXjZn",
-          "game_link_kind": "live",
+          "game_link_kind": "recent",
           "round_game": "4:eight_x_eight:waterlorda7890",
-          "season_points": 0.0,
-          "season_games": 2
+          "season_points": 0.5,
+          "season_games": 3
         },
         {
           "handle": "asimovfoundation",
@@ -8184,8 +8184,8 @@
       "name": "Finally a Website League.",
       "actual_points": 8.0,
       "actual_round": 0.0,
-      "projected_points": 11.888116809674061,
-      "projected_round": 3.8881168096740617,
+      "projected_points": 11.912263628474722,
+      "projected_round": 3.9122636284747214,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -8270,7 +8270,7 @@
           "status": "pending",
           "rating": 1748,
           "decided_without_play": false,
-          "expected_points": 0.4313586081163323,
+          "expected_points": 0.45550542691699203,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8860,14 +8860,6 @@
       "eligible": false
     },
     {
-      "name": "Rooky Horror Pawn Show fan club",
-      "projected": 4.693222522973494,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "What a team! And we managed to avoid Prosti",
       "projected": 4.6530303916928535,
       "actual": 1.0,
@@ -8881,6 +8873,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "Rooky Horror Pawn Show fan club",
+      "projected": 4.563833975755992,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
@@ -8989,7 +8989,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 4.09440000387683,
+      "projected": 4.094400003876829,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 4.0548622098840985,
+      "projected": 4.079009028684759,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 3.9604286727363274,
+      "projected": 3.9604286727363283,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "The Greek Gifty Nifty Fifty",
-      "projected": 3.9451377901159015,
+      "projected": 3.9209909713152413,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.9055999961231707,
+      "projected": 3.905599996123171,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9252,6 +9252,14 @@
       "eligible": false
     },
     {
+      "name": "Not all who blunder are lost",
+      "projected": 3.4361660242440077,
+      "actual": 0.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "50 pawns of Giri",
       "projected": 3.4211664211403026,
       "actual": 0.0,
@@ -9262,14 +9270,6 @@
     {
       "name": "50 Ways to Fork Your Lover",
       "projected": 3.3469696083071465,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Not all who blunder are lost",
-      "projected": 3.3067774770265057,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
