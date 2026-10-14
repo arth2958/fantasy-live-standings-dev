@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-14T02:11:53.167912Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-14T02:50:58.900357Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3088,6 +3088,140 @@
       "projected_rank": 23
     },
     {
+      "owner": "Tranzoo",
+      "name": "Shakalaka",
+      "actual_points": 13.5,
+      "actual_round": 1.0,
+      "projected_points": 16.425768619091226,
+      "projected_round": 3.9257686190912273,
+      "left": 6,
+      "in_progress": 0,
+      "paired": 7,
+      "roster": [
+        {
+          "handle": "Unknownprodigy",
+          "status": "won",
+          "rating": 2313,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/2CItWoDq",
+          "game_link_kind": "recent",
+          "round_game": "4:kjar:unknownprodigy",
+          "season_points": 4.0,
+          "season_games": 4
+        },
+        {
+          "handle": "Hanzo_19",
+          "status": "pending",
+          "rating": 2079,
+          "decided_without_play": false,
+          "expected_points": 0.34158547908308745,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:capestgeorge:hanzo_19",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Ciraid",
+          "status": "pending",
+          "rating": 1967,
+          "decided_without_play": false,
+          "expected_points": 0.5980137657693436,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:ciraid:n8otom8o",
+          "season_points": 0.0,
+          "season_games": 3
+        },
+        {
+          "handle": "KirkD",
+          "status": "unpaired",
+          "rating": null,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": null,
+          "season_points": 0.5,
+          "season_games": 3
+        },
+        {
+          "handle": "MarekW78",
+          "status": "pending",
+          "rating": 1885,
+          "decided_without_play": false,
+          "expected_points": 0.6062878237854281,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:glbert:marekw78",
+          "season_points": 3.0,
+          "season_games": 3
+        },
+        {
+          "handle": "Lotus_62",
+          "status": "pending",
+          "rating": 1774,
+          "decided_without_play": false,
+          "expected_points": 0.4884891087822083,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:lotus_62:ok_4",
+          "season_points": 2.5,
+          "season_games": 3
+        },
+        {
+          "handle": "PatrickVrielink",
+          "status": "pending",
+          "rating": 1721,
+          "decided_without_play": false,
+          "expected_points": 0.5714631174083814,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:kborman:patrickvrielink",
+          "season_points": 1.5,
+          "season_games": 3
+        },
+        {
+          "handle": "Ezze_13",
+          "status": "pending",
+          "rating": 1469,
+          "decided_without_play": false,
+          "expected_points": 0.31992932426277854,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:dragon19410:ezze_13",
+          "season_points": 0.5,
+          "season_games": 2
+        }
+      ],
+      "projected_rank": 24
+    },
+    {
       "owner": "tastypotatohead",
       "name": "Twice the Risk, Twice the Output (hopefully)",
       "actual_points": 12.5,
@@ -3217,140 +3351,6 @@
           "round_game": "4:angborxley:drrickinct",
           "season_points": 1.0,
           "season_games": 3
-        }
-      ],
-      "projected_rank": 24
-    },
-    {
-      "owner": "Tranzoo",
-      "name": "Shakalaka",
-      "actual_points": 12.5,
-      "actual_round": 0.0,
-      "projected_points": 16.095737632994712,
-      "projected_round": 3.5957376329947106,
-      "left": 7,
-      "in_progress": 1,
-      "paired": 7,
-      "roster": [
-        {
-          "handle": "Unknownprodigy",
-          "status": "pending",
-          "rating": 2301,
-          "decided_without_play": false,
-          "expected_points": 0.6699690139034832,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/2CItWoDq",
-          "game_link_kind": "live",
-          "round_game": "4:kjar:unknownprodigy",
-          "season_points": 3.0,
-          "season_games": 3
-        },
-        {
-          "handle": "Hanzo_19",
-          "status": "pending",
-          "rating": 2079,
-          "decided_without_play": false,
-          "expected_points": 0.34158547908308745,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:capestgeorge:hanzo_19",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "Ciraid",
-          "status": "pending",
-          "rating": 1967,
-          "decided_without_play": false,
-          "expected_points": 0.5980137657693436,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:ciraid:n8otom8o",
-          "season_points": 0.0,
-          "season_games": 3
-        },
-        {
-          "handle": "KirkD",
-          "status": "unpaired",
-          "rating": null,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": null,
-          "season_points": 0.5,
-          "season_games": 3
-        },
-        {
-          "handle": "MarekW78",
-          "status": "pending",
-          "rating": 1885,
-          "decided_without_play": false,
-          "expected_points": 0.6062878237854281,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:glbert:marekw78",
-          "season_points": 3.0,
-          "season_games": 3
-        },
-        {
-          "handle": "Lotus_62",
-          "status": "pending",
-          "rating": 1774,
-          "decided_without_play": false,
-          "expected_points": 0.4884891087822083,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:lotus_62:ok_4",
-          "season_points": 2.5,
-          "season_games": 3
-        },
-        {
-          "handle": "PatrickVrielink",
-          "status": "pending",
-          "rating": 1721,
-          "decided_without_play": false,
-          "expected_points": 0.5714631174083814,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:kborman:patrickvrielink",
-          "season_points": 1.5,
-          "season_games": 3
-        },
-        {
-          "handle": "Ezze_13",
-          "status": "pending",
-          "rating": 1469,
-          "decided_without_play": false,
-          "expected_points": 0.31992932426277854,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:dragon19410:ezze_13",
-          "season_points": 0.5,
-          "season_games": 2
         }
       ],
       "projected_rank": 25
@@ -6541,7 +6541,7 @@
         {
           "handle": "Bortvinik",
           "status": "won",
-          "rating": 1679,
+          "rating": 1673,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8860,6 +8860,14 @@
       "eligible": false
     },
     {
+      "name": "King's Landing",
+      "projected": 4.6565533829008645,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 4.593246862882165,
       "actual": 1.5,
@@ -8925,7 +8933,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 4.405545442893683,
+      "projected": 4.405545442893682,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8934,14 +8942,6 @@
     {
       "name": "Leningrad School of Blunders",
       "projected": 4.398538538884466,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "King's Landing",
-      "projected": 4.326522396804347,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9037,7 +9037,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 4.039571327263673,
+      "projected": 4.039571327263672,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "Pirc and Roll",
-      "projected": 4.030605325287765,
+      "projected": 4.030605325287764,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.9643338820928715,
+      "projected": 3.9643338820928706,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 3.8848692059320795,
+      "projected": 3.88486920593208,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9185,14 +9185,6 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Blunders Without Borders",
-      "projected": 3.6734776031956518,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
       "eligible": false
     },
     {
@@ -9271,6 +9263,14 @@
       "name": "Not all who blunder are lost",
       "projected": 3.4067531371178346,
       "actual": 0.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Blunders Without Borders",
+      "projected": 3.3434466170991355,
+      "actual": 0.0,
       "paired": 8,
       "left": 6,
       "eligible": false
