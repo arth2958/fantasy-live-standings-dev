@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-14T19:20:38.118680Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-14T19:53:35.293031Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -546,8 +546,8 @@
       "name": "This is a really nice looking website, I like this",
       "actual_points": 15.0,
       "actual_round": 0.0,
-      "projected_points": 19.04365001453889,
-      "projected_round": 4.04365001453889,
+      "projected_points": 19.02846760395562,
+      "projected_round": 4.028467603955618,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -630,9 +630,9 @@
         {
           "handle": "kostasvl",
           "status": "pending",
-          "rating": 1758,
+          "rating": 1746,
           "decided_without_play": false,
-          "expected_points": 0.33386057541687786,
+          "expected_points": 0.31867816483360634,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -948,8 +948,8 @@
       "name": "Mils Bee Hive",
       "actual_points": 15.5,
       "actual_round": 2.0,
-      "projected_points": 18.319181848179646,
-      "projected_round": 4.819181848179645,
+      "projected_points": 18.334364258762918,
+      "projected_round": 4.834364258762916,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -1034,7 +1034,7 @@
           "status": "pending",
           "rating": 1853,
           "decided_without_play": false,
-          "expected_points": 0.6661394245831221,
+          "expected_points": 0.6813218351663937,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -1082,8 +1082,8 @@
       "name": "Hedgehogs, Hippos, and Effin' Birds",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 18.261851661690567,
-      "projected_round": 4.261851661690567,
+      "projected_points": 18.29524166018445,
+      "projected_round": 4.295241660184447,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -1168,7 +1168,7 @@
           "status": "pending",
           "rating": 1853,
           "decided_without_play": false,
-          "expected_points": 0.6661394245831221,
+          "expected_points": 0.6813218351663937,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -1183,7 +1183,7 @@
           "status": "pending",
           "rating": 1770,
           "decided_without_play": false,
-          "expected_points": 0.7436345220073278,
+          "expected_points": 0.761842109917936,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -1598,7 +1598,7 @@
         {
           "handle": "nightsub",
           "status": "won",
-          "rating": 1518,
+          "rating": 1536,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2556,8 +2556,8 @@
       "name": "Players who will play all 8 games.",
       "actual_points": 12.5,
       "actual_round": 0.0,
-      "projected_points": 16.796817106314958,
-      "projected_round": 4.296817106314957,
+      "projected_points": 16.815024694225563,
+      "projected_round": 4.315024694225565,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -2657,7 +2657,7 @@
           "status": "pending",
           "rating": 1770,
           "decided_without_play": false,
-          "expected_points": 0.7436345220073278,
+          "expected_points": 0.761842109917936,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3762,8 +3762,8 @@
       "name": "trust in all, but myself",
       "actual_points": 12.0,
       "actual_round": 0.0,
-      "projected_points": 15.592896955052716,
-      "projected_round": 3.5928969550527157,
+      "projected_points": 15.611104542963325,
+      "projected_round": 3.611104542963324,
       "left": 7,
       "in_progress": 0,
       "paired": 8,
@@ -3863,7 +3863,7 @@
           "status": "pending",
           "rating": 1770,
           "decided_without_play": false,
-          "expected_points": 0.7436345220073278,
+          "expected_points": 0.761842109917936,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6154,7 +6154,7 @@
         {
           "handle": "nightsub",
           "status": "won",
-          "rating": 1518,
+          "rating": 1536,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -6308,8 +6308,8 @@
       "name": "50 reasons to give fantasy a try",
       "actual_points": 11.0,
       "actual_round": 0.0,
-      "projected_points": 14.126377080622353,
-      "projected_round": 3.126377080622353,
+      "projected_points": 14.111194670039081,
+      "projected_round": 3.1111946700390813,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -6392,9 +6392,9 @@
         {
           "handle": "kostasvl",
           "status": "pending",
-          "rating": 1758,
+          "rating": 1746,
           "decided_without_play": false,
-          "expected_points": 0.33386057541687786,
+          "expected_points": 0.31867816483360634,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6978,8 +6978,8 @@
       "name": "everyone but me :(",
       "actual_points": 10.0,
       "actual_round": 0.0,
-      "projected_points": 13.671250777424422,
-      "projected_round": 3.6712507774244223,
+      "projected_points": 13.686433188007694,
+      "projected_round": 3.686433188007694,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -7064,7 +7064,7 @@
           "status": "pending",
           "rating": 1853,
           "decided_without_play": false,
-          "expected_points": 0.6661394245831221,
+          "expected_points": 0.6813218351663937,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8586,8 +8586,8 @@
       "name": "King12-life’s team",
       "actual_points": 5.5,
       "actual_round": 0.0,
-      "projected_points": 9.161575238877443,
-      "projected_round": 3.6615752388774436,
+      "projected_points": 9.146392828294172,
+      "projected_round": 3.646392828294172,
       "left": 7,
       "in_progress": 0,
       "paired": 8,
@@ -8670,9 +8670,9 @@
         {
           "handle": "kostasvl",
           "status": "pending",
-          "rating": 1758,
+          "rating": 1746,
           "decided_without_play": false,
-          "expected_points": 0.33386057541687786,
+          "expected_points": 0.31867816483360634,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8720,8 +8720,8 @@
       "name": "Stinkfish 50",
       "actual_points": 5.5,
       "actual_round": 0.0,
-      "projected_points": 9.101314121936404,
-      "projected_round": 3.6013141219364035,
+      "projected_points": 9.086131711353133,
+      "projected_round": 3.586131711353132,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -8804,9 +8804,9 @@
         {
           "handle": "kostasvl",
           "status": "pending",
-          "rating": 1758,
+          "rating": 1746,
           "decided_without_play": false,
-          "expected_points": 0.33386057541687786,
+          "expected_points": 0.31867816483360634,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8852,6 +8852,14 @@
   ],
   "league_teams": [
     {
+      "name": "Rookies Of The Year",
+      "projected": 4.8862691301021455,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "passed pawn patrol",
       "projected": 4.868198125727189,
       "actual": 2.0,
@@ -8863,14 +8871,6 @@
       "name": "J’adoube-Al-Blunder",
       "projected": 4.842228155969497,
       "actual": 2.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Rookies Of The Year",
-      "projected": 4.789373591229536,
-      "actual": 1.5,
       "paired": 8,
       "left": 6,
       "eligible": false
@@ -8893,7 +8893,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.671250777424422,
+      "projected": 4.686433188007694,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8929,6 +8929,14 @@
       "actual": 2.0,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "If anyone can refute it—don't show me",
+      "projected": 4.438519911805276,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 7,
       "eligible": false
     },
     {
@@ -9020,6 +9028,14 @@
       "eligible": false
     },
     {
+      "name": "Total Tomination",
+      "projected": 4.138420515969817,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "oh those 64 squares can encompass such immensity",
       "projected": 4.121047114779432,
       "actual": 1.0,
@@ -9028,27 +9044,11 @@
       "eligible": false
     },
     {
-      "name": "Total Tomination",
-      "projected": 4.120212928059209,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Illiterate Alliteration Explorers",
       "projected": 4.115130794067921,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "If anyone can refute it—don't show me",
-      "projected": 4.067908459022779,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
       "eligible": false
     },
     {
@@ -9084,14 +9084,6 @@
       "eligible": false
     },
     {
-      "name": "Operation Pawnstorm",
-      "projected": 3.9320915409772215,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "50 Shades of Swindles and Tricks",
       "projected": 3.88486920593208,
       "actual": 0.0,
@@ -9100,19 +9092,19 @@
       "eligible": false
     },
     {
-      "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 3.879787071940791,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
       "projected": 3.8789528852205675,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "Yeah, well, that's just like, your opening, man.",
+      "projected": 3.861579484030183,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
       "eligible": false
     },
     {
@@ -9204,6 +9196,14 @@
       "eligible": false
     },
     {
+      "name": "Operation Pawnstorm",
+      "projected": 3.561480088194724,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "Old but hoping for stratospheric improvement",
       "projected": 3.4828622145115533,
       "actual": 1.0,
@@ -9237,7 +9237,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 3.3287492225755777,
+      "projected": 3.313566811992306,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9260,14 +9260,6 @@
       "eligible": false
     },
     {
-      "name": "50 pawns of Giri",
-      "projected": 3.2106264087704646,
-      "actual": 0.5,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "Svidler? I hardly know her",
       "projected": 3.1577718440305027,
       "actual": 0.0,
@@ -9279,6 +9271,14 @@
       "name": "Fork You Very Much",
       "projected": 3.131801874272811,
       "actual": 0.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "50 pawns of Giri",
+      "projected": 3.1137308698978545,
+      "actual": 0.5,
       "paired": 8,
       "left": 6,
       "eligible": false
