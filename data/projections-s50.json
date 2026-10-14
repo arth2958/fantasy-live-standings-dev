@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-14T00:42:18.222263Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-14T01:21:39.137656Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9149,7 +9149,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.8382837281941247,
+      "projected": 3.8382837281941242,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
