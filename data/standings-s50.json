@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-14T17:34:19.488785Z",
+  "updated_at": "2026-10-14T18:06:43.324051Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -2044,7 +2044,7 @@
                 {
                   "opponent": "Fyrox96",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/UM3J79LA",
                   "status": "pending",
                   "no_play": false
                 }
@@ -4231,7 +4231,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -5777,7 +5777,7 @@
                 {
                   "opponent": "aloo_bhaloo",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IpTR1Fvz",
                   "status": "pending",
                   "no_play": false
                 }
@@ -6318,7 +6318,7 @@
                 {
                   "opponent": "scarff",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IpTR1Fvz",
                   "status": "pending",
                   "no_play": false
                 }
@@ -11732,7 +11732,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -12256,7 +12256,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -12723,7 +12723,7 @@
                 {
                   "opponent": "scarff",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IpTR1Fvz",
                   "status": "pending",
                   "no_play": false
                 }
@@ -13255,7 +13255,7 @@
                 {
                   "opponent": "aloo_bhaloo",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IpTR1Fvz",
                   "status": "pending",
                   "no_play": false
                 }
@@ -13320,7 +13320,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -23798,7 +23798,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -24830,7 +24830,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -25354,7 +25354,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -26835,7 +26835,7 @@
                 {
                   "opponent": "Fyrox96",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/UM3J79LA",
                   "status": "pending",
                   "no_play": false
                 }
@@ -28466,7 +28466,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -30054,7 +30054,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
@@ -34769,7 +34769,7 @@
                 {
                   "opponent": "mimrolls",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/4UM5THaj",
                   "status": "pending",
                   "no_play": false
                 }
