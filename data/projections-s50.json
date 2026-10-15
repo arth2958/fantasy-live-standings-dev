@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 3,
-  "updated_at": "2026-10-15T16:09:33.041571Z",
+  "updated_at": "2026-10-15T16:56:25.355246Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8610,7 +8610,7 @@
         {
           "handle": "NaveenGeorge",
           "status": "lost",
-          "rating": 2084,
+          "rating": 2091,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
