@@ -1,13 +1,13 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-15T20:52:43.109928Z",
+  "updated_at": "2026-10-15T21:17:45.371131Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
   },
   "method": "Everyone starts at 0 until round 1 pairings are published. Points from live pairings; ties: points per game, then lowest total team price.",
-  "pairings_parsed": 711,
+  "pairings_parsed": 712,
   "popular": [
     {
       "board": 1,
@@ -34825,11 +34825,11 @@
       "name": "Gods Of Survivors",
       "total": 15912,
       "points": 8.0,
-      "games": 22,
-      "round_games": 1,
+      "games": 23,
+      "round_games": 2,
       "round_scheduled": 8,
-      "games_left": 7,
-      "ppg": 0.36363636363636365,
+      "games_left": 6,
+      "ppg": 0.34782608695652173,
       "roster": [
         {
           "handle": "alp_arslan92",
@@ -34859,7 +34859,7 @@
         {
           "handle": "its_ck",
           "points": 0.0,
-          "games": 3
+          "games": 4
         },
         {
           "handle": "LosingIsTheBest",
@@ -35192,7 +35192,7 @@
         {
           "round": 4,
           "points": 0.5,
-          "finished": 1,
+          "finished": 2,
           "paired": 8,
           "players": [
             {
@@ -35266,9 +35266,9 @@
               "games": [
                 {
                   "opponent": "SixTiN06",
-                  "actual_result": null,
+                  "actual_result": 0.0,
                   "game_url": "https://lichess.org/DlfbClQB",
-                  "status": "pending",
+                  "status": "lost",
                   "no_play": false
                 }
               ]
@@ -37364,7 +37364,7 @@
   ],
   "round": {
     "number": 4,
-    "played": 63,
+    "played": 64,
     "total": 216
   }
 }
