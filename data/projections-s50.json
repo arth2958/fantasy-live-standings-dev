@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-15T17:32:22.875522Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-15T18:02:25.959765Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1886,8 +1886,8 @@
       "name": "Is this the real team? Is this just fantasy?",
       "actual_points": 13.5,
       "actual_round": 1.0,
-      "projected_points": 17.17443569483401,
-      "projected_round": 4.674435694834011,
+      "projected_points": 17.167433768506942,
+      "projected_round": 4.667433768506943,
       "left": 7,
       "in_progress": 0,
       "paired": 8,
@@ -1987,7 +1987,7 @@
           "status": "pending",
           "rating": 1646,
           "decided_without_play": false,
-          "expected_points": 0.42150324765525726,
+          "expected_points": 0.4145013213281905,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3494,8 +3494,8 @@
       "name": "Shakalaka",
       "actual_points": 13.5,
       "actual_round": 1.0,
-      "projected_points": 16.125169228068412,
-      "projected_round": 3.6251692280684127,
+      "projected_points": 16.13217115439548,
+      "projected_round": 3.6321711543954796,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -3593,9 +3593,9 @@
         {
           "handle": "PatrickVrielink",
           "status": "pending",
-          "rating": 1726,
+          "rating": 1731,
           "decided_without_play": false,
-          "expected_points": 0.5784967523447427,
+          "expected_points": 0.5854986786718095,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7919,7 +7919,7 @@
       "projected_points": 12.149507505896059,
       "projected_round": 2.149507505896059,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 4,
       "roster": [
         {
@@ -7991,8 +7991,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/81OO5yy6",
+          "game_link_kind": "live",
           "round_game": "4:asimovfoundation:mizrab",
           "season_points": 1.0,
           "season_games": 3
@@ -8321,7 +8321,7 @@
       "projected_points": 11.102803952914748,
       "projected_round": 2.602803952914747,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -8393,8 +8393,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/81OO5yy6",
+          "game_link_kind": "live",
           "round_game": "4:asimovfoundation:mizrab",
           "season_points": 1.0,
           "season_games": 3
@@ -8949,7 +8949,7 @@
     },
     {
       "name": "fifty shades of black and white",
-      "projected": 4.49863705413707,
+      "projected": 4.505638980464137,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9036,14 +9036,6 @@
       "eligible": false
     },
     {
-      "name": "Wandering Knights",
-      "projected": 4.205445570273262,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "50 Shades of Swindles and Tricks",
       "projected": 4.1887404355024795,
       "actual": 1.0,
@@ -9057,6 +9049,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Don't give a check your ascii can't cache",
+      "projected": 4.053120906757439,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
@@ -9076,6 +9076,14 @@
       "eligible": false
     },
     {
+      "name": "Wandering Knights",
+      "projected": 3.946879093242561,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "Mating for Godot",
       "projected": 3.8230471869883917,
       "actual": 0.0,
@@ -9086,14 +9094,6 @@
     {
       "name": "Illiterate Alliteration Explorers",
       "projected": 3.81125956449752,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Don't give a check your ascii can't cache",
-      "projected": 3.794554429726739,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.50136294586293,
+      "projected": 3.494361019535863,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
