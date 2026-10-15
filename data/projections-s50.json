@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-15T11:53:17.040019Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-15T12:18:00.572074Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8884,6 +8884,14 @@
       "eligible": false
     },
     {
+      "name": "50th Parallel Pawns",
+      "projected": 4.906314552815819,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "J’adoube-Al-Blunder",
       "projected": 4.842228155969497,
       "actual": 2.0,
@@ -8969,14 +8977,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "50th Parallel Pawns",
-      "projected": 4.305536306925808,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9156,14 +9156,6 @@
       "eligible": false
     },
     {
-      "name": "Silk Road Sacrifices",
-      "projected": 3.694463693074192,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "50 pawns of Giri",
       "projected": 3.6166090694726654,
       "actual": 1.5,
@@ -9249,6 +9241,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "Silk Road Sacrifices",
+      "projected": 3.093685447184181,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 5,
       "eligible": false
     },
     {
