@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-15T10:39:59.887323Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-15T11:15:13.111138Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1219,7 +1219,7 @@
       "projected_points": 17.98105079905479,
       "projected_round": 4.981050799054787,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1246,8 +1246,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xL8NKFvq",
+          "game_link_kind": "live",
           "round_game": "4:bufferunderrun:mobusel",
           "season_points": 0.0,
           "season_games": 3
@@ -2559,7 +2559,7 @@
       "projected_points": 16.754854095460423,
       "projected_round": 4.254854095460424,
       "left": 6,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -2586,8 +2586,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xL8NKFvq",
+          "game_link_kind": "live",
           "round_game": "4:bufferunderrun:mobusel",
           "season_points": 0.0,
           "season_games": 3
@@ -4301,7 +4301,7 @@
       "projected_points": 14.976228486447457,
       "projected_round": 4.476228486447458,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -4328,8 +4328,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xL8NKFvq",
+          "game_link_kind": "live",
           "round_game": "4:bufferunderrun:mobusel",
           "season_points": 0.0,
           "season_games": 3
@@ -4388,8 +4388,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/ro7I8DWB",
+          "game_link_kind": "live",
           "round_game": "4:kuro5hin:ribrubrib",
           "season_points": 2.0,
           "season_games": 3
@@ -5105,7 +5105,7 @@
       "projected_points": 14.768277715154579,
       "projected_round": 4.268277715154578,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5132,8 +5132,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xL8NKFvq",
+          "game_link_kind": "live",
           "round_game": "4:bufferunderrun:mobusel",
           "season_points": 0.0,
           "season_games": 3
@@ -7383,7 +7383,7 @@
       "projected_points": 13.205668124030037,
       "projected_round": 4.705668124030038,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7410,8 +7410,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xL8NKFvq",
+          "game_link_kind": "live",
           "round_game": "4:bufferunderrun:mobusel",
           "season_points": 0.0,
           "season_games": 3
@@ -7648,8 +7648,8 @@
       "name": "Fantasy8",
       "actual_points": 9.5,
       "actual_round": 0.0,
-      "projected_points": 13.04547044931277,
-      "projected_round": 3.54547044931277,
+      "projected_points": 13.03873927461174,
+      "projected_round": 3.5387392746117396,
       "left": 7,
       "in_progress": 0,
       "paired": 8,
@@ -7762,9 +7762,9 @@
         {
           "handle": "TimeFork",
           "status": "pending",
-          "rating": 1435,
+          "rating": 1429,
           "decided_without_play": false,
-          "expected_points": 0.2686221421606117,
+          "expected_points": 0.2618909674595814,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8860,19 +8860,19 @@
       "eligible": false
     },
     {
+      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
+      "projected": 5.0754420076852265,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "my english needs work",
       "projected": 5.073382226069787,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 5.068710832984197,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9013,7 +9013,7 @@
     },
     {
       "name": "Morphy's Mates",
-      "projected": 4.252863075645347,
+      "projected": 4.2528630756453465,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9117,7 +9117,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.7471369243546526,
+      "projected": 3.747136924354653,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9260,19 +9260,19 @@
       "eligible": false
     },
     {
-      "name": "Fifty Shades of Time Trouble",
-      "projected": 2.931289167015804,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "pspspspspsps",
       "projected": 2.9266177739302126,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "Fifty Shades of Time Trouble",
+      "projected": 2.924557992314774,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 6,
       "eligible": false
     },
     {
