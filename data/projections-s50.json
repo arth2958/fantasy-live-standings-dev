@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-16T22:31:39.069091Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-16T22:59:25.893529Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8940,14 +8940,6 @@
       "eligible": false
     },
     {
-      "name": "Pawn with the Sickness",
-      "projected": 4.579874001745768,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 7,
-      "eligible": false
-    },
-    {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
       "projected": 4.550104789610867,
       "actual": 2.0,
@@ -9068,6 +9060,22 @@
       "eligible": false
     },
     {
+      "name": "Pawn with the Sickness",
+      "projected": 4.09138489296356,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "The Tarrasch Talkers",
+      "projected": 3.9086151070364403,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 6,
+      "eligible": false
+    },
+    {
       "name": "Illiterate Alliteration Explorers",
       "projected": 3.9006467513361307,
       "actual": 3.0,
@@ -9185,14 +9193,6 @@
       "actual": 1.0,
       "paired": 8,
       "left": 5,
-      "eligible": false
-    },
-    {
-      "name": "The Tarrasch Talkers",
-      "projected": 3.420125998254232,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 7,
       "eligible": false
     },
     {
