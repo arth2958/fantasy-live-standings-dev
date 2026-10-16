@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 2,
-  "updated_at": "2026-10-16T10:37:41.671357Z",
+  "updated_at": "2026-10-16T11:07:09.903202Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8318,8 +8318,8 @@
       "name": "Gods Of Survivors",
       "actual_points": 8.0,
       "actual_round": 0.5,
-      "projected_points": 11.284654910470922,
-      "projected_round": 3.7846549104709215,
+      "projected_points": 11.276151341163981,
+      "projected_round": 3.776151341163981,
       "left": 6,
       "in_progress": 0,
       "paired": 8,
@@ -8417,9 +8417,9 @@
         {
           "handle": "LosingIsTheBest",
           "status": "pending",
-          "rating": 1714,
+          "rating": 1708,
           "decided_without_play": false,
-          "expected_points": 0.44268836623770724,
+          "expected_points": 0.4341847969307667,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "passed pawn patrol",
-      "projected": 5.429762181185346,
+      "projected": 5.421258611878405,
       "actual": 3.0,
       "paired": 8,
       "left": 5,
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 5.075442007685227,
+      "projected": 5.0754420076852265,
       "actual": 2.0,
       "paired": 8,
       "left": 6,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 4.718399929048752,
+      "projected": 4.7183999290487515,
       "actual": 1.5,
       "paired": 8,
       "left": 6,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 2.9245579923147735,
+      "projected": 2.924557992314774,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 2.5702378188146544,
+      "projected": 2.578741388121595,
       "actual": 0.0,
       "paired": 8,
       "left": 5,
