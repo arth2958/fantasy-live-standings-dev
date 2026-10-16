@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 0,
-  "updated_at": "2026-10-16T03:54:13.509765Z",
+  "updated_at": "2026-10-16T04:32:51.011155Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7246,8 +7246,8 @@
       "name": "everyone but me :(",
       "actual_points": 11.0,
       "actual_round": 1.0,
-      "projected_points": 13.476360788949032,
-      "projected_round": 3.4763607889490316,
+      "projected_points": 13.483423416116992,
+      "projected_round": 3.4834234161169917,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -7287,7 +7287,7 @@
           "status": "pending",
           "rating": 2015,
           "decided_without_play": false,
-          "expected_points": 0.4285368825916186,
+          "expected_points": 0.43559950975957873,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8997,7 +8997,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.476360788949032,
+      "projected": 4.483423416116992,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "50 Ways to Fork Your Lover",
-      "projected": 3.5236392110509684,
+      "projected": 3.5165765838830083,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
