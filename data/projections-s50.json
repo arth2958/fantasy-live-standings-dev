@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 3,
-  "updated_at": "2026-10-15T23:55:06.478026Z",
+  "updated_at": "2026-10-16T00:41:41.682279Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -3363,7 +3363,7 @@
       "projected_points": 16.270688450720673,
       "projected_round": 4.270688450720673,
       "left": 9,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 9,
       "roster": [
         {
@@ -3435,8 +3435,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/fPqIFYGn",
+          "game_link_kind": "live",
           "round_game": "4:monocarp:real_vmd",
           "season_points": 1.0,
           "season_games": 3
@@ -8884,6 +8884,14 @@
       "eligible": false
     },
     {
+      "name": "Rooky Horror Pawn Show",
+      "projected": 4.95617302342978,
+      "actual": 3.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "50th Parallel Pawns",
       "projected": 4.906314552815819,
       "actual": 2.0,
@@ -9036,14 +9044,6 @@
       "eligible": false
     },
     {
-      "name": "Rooky Horror Pawn Show",
-      "projected": 4.2327851539906085,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "50 Shades of Swindles and Tricks",
       "projected": 4.1887404355024795,
       "actual": 1.0,
@@ -9089,14 +9089,6 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Morphy's Mates",
-      "projected": 3.7672148460093906,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
@@ -9249,6 +9241,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "Morphy's Mates",
+      "projected": 3.0438269765702204,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
