@@ -1,13 +1,13 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-16T18:03:16.498254Z",
+  "updated_at": "2026-10-16T18:35:38.823230Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
   },
   "method": "Everyone starts at 0 until round 1 pairings are published. Points from live pairings; ties: points per game, then lowest total team price.",
-  "pairings_parsed": 728,
+  "pairings_parsed": 729,
   "popular": [
     {
       "board": 1,
@@ -9024,7 +9024,7 @@
                 {
                   "opponent": "capturingbravo",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/PQql8vDZ",
                   "status": "pending",
                   "no_play": false
                 }
@@ -12237,7 +12237,7 @@
                 {
                   "opponent": "Nubro",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/PQql8vDZ",
                   "status": "pending",
                   "no_play": false
                 }
@@ -22198,7 +22198,7 @@
                 {
                   "opponent": "Nubro",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/PQql8vDZ",
                   "status": "pending",
                   "no_play": false
                 }
@@ -32155,7 +32155,7 @@
                 {
                   "opponent": "capturingbravo",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/PQql8vDZ",
                   "status": "pending",
                   "no_play": false
                 }
@@ -34759,7 +34759,7 @@
                 {
                   "opponent": "capturingbravo",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/PQql8vDZ",
                   "status": "pending",
                   "no_play": false
                 }
@@ -37364,7 +37364,7 @@
   ],
   "round": {
     "number": 4,
-    "played": 80,
+    "played": 81,
     "total": 216
   }
 }
