@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-16T16:36:29.364324Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-16T17:07:50.644392Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -678,12 +678,12 @@
     {
       "owner": "Pineapplechiffoncake",
       "name": "Hedgehogs, Hippos, and Effin' Birds",
-      "actual_points": 15.0,
-      "actual_round": 1.0,
-      "projected_points": 18.603360338238527,
-      "projected_round": 4.603360338238526,
-      "left": 7,
-      "in_progress": 1,
+      "actual_points": 16.0,
+      "actual_round": 2.0,
+      "projected_points": 19.063152109914782,
+      "projected_round": 5.063152109914781,
+      "left": 6,
+      "in_progress": 0,
       "paired": 8,
       "roster": [
         {
@@ -703,18 +703,18 @@
         },
         {
           "handle": "Astronominoff",
-          "status": "pending",
-          "rating": 2089,
+          "status": "won",
+          "rating": 2108,
           "decided_without_play": false,
-          "expected_points": 0.5402082283237456,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
           "game_url": "https://lichess.org/2tHU3yBn",
-          "game_link_kind": "live",
+          "game_link_kind": "recent",
           "round_game": "4:astronominoff:darkfl0me",
-          "season_points": 0.0,
-          "season_games": 2
+          "season_points": 1.0,
+          "season_games": 3
         },
         {
           "handle": "Warvold",
@@ -2827,7 +2827,7 @@
       "projected_points": 16.346373790581545,
       "projected_round": 3.8463737905815454,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2914,8 +2914,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/IJ6KufTK",
+          "game_link_kind": "live",
           "round_game": "4:lewinberg:pezzo17",
           "season_points": 1.5,
           "season_games": 3
@@ -2961,7 +2961,7 @@
       "projected_points": 16.343059754418526,
       "projected_round": 4.843059754418524,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3033,8 +3033,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vdFQkeP",
+          "game_link_kind": "live",
           "round_game": "4:raindy:rpcx",
           "season_points": 2.5,
           "season_games": 3
@@ -3095,7 +3095,7 @@
       "projected_points": 16.23686537823113,
       "projected_round": 2.7368653782311307,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -3107,8 +3107,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/vrQzS5XY",
+          "game_link_kind": "live",
           "round_game": "4:arandommove:petro2",
           "season_points": 2.0,
           "season_games": 3
@@ -3197,8 +3197,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/79f6OI3p",
+          "game_link_kind": "live",
           "round_game": "4:apawnpusher:ironcladunicorn",
           "season_points": 1.0,
           "season_games": 3
@@ -3896,8 +3896,8 @@
       "name": "This is the way.",
       "actual_points": 13.5,
       "actual_round": 2.0,
-      "projected_points": 15.462518639189126,
-      "projected_round": 3.962518639189126,
+      "projected_points": 15.475170893053125,
+      "projected_round": 3.975170893053124,
       "left": 4,
       "in_progress": 0,
       "paired": 8,
@@ -4010,9 +4010,9 @@
         {
           "handle": "Apidae",
           "status": "pending",
-          "rating": 1502,
+          "rating": 1512,
           "decided_without_play": false,
-          "expected_points": 0.31992932426277854,
+          "expected_points": 0.332581578126777,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4164,8 +4164,8 @@
       "name": "trust in all, but myself",
       "actual_points": 12.0,
       "actual_round": 0.0,
-      "projected_points": 14.976361207911008,
-      "projected_round": 2.9763612079110073,
+      "projected_points": 14.989013461775006,
+      "projected_round": 2.9890134617750057,
       "left": 6,
       "in_progress": 0,
       "paired": 8,
@@ -4278,9 +4278,9 @@
         {
           "handle": "Apidae",
           "status": "pending",
-          "rating": 1502,
+          "rating": 1512,
           "decided_without_play": false,
-          "expected_points": 0.31992932426277854,
+          "expected_points": 0.332581578126777,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5105,7 +5105,7 @@
       "projected_points": 14.602485670869347,
       "projected_round": 3.602485670869347,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -5117,8 +5117,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/vrQzS5XY",
+          "game_link_kind": "live",
           "round_game": "4:arandommove:petro2",
           "season_points": 2.0,
           "season_games": 3
@@ -5239,7 +5239,7 @@
       "projected_points": 14.475638849872032,
       "projected_round": 2.9756388498720328,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5326,8 +5326,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/IJ6KufTK",
+          "game_link_kind": "live",
           "round_game": "4:lewinberg:pezzo17",
           "season_points": 2.0,
           "season_games": 3
@@ -6579,7 +6579,7 @@
       "projected_points": 13.800642867608065,
       "projected_round": 2.8006428676080652,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -6606,8 +6606,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/55vhUEFS",
+          "game_link_kind": "live",
           "round_game": "4:alikadhim2:nlance",
           "season_points": 2.5,
           "season_games": 3
@@ -6844,8 +6844,8 @@
       "name": "Fantasy8",
       "actual_points": 10.5,
       "actual_round": 1.0,
-      "projected_points": 13.498531046287994,
-      "projected_round": 3.9985310462879937,
+      "projected_points": 13.490816870477913,
+      "projected_round": 3.990816870477913,
       "left": 6,
       "in_progress": 0,
       "paired": 8,
@@ -6960,7 +6960,7 @@
           "status": "pending",
           "rating": 1429,
           "decided_without_play": false,
-          "expected_points": 0.2618909674595814,
+          "expected_points": 0.2541767916495005,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7115,7 +7115,7 @@
       "projected_points": 13.461195156698505,
       "projected_round": 4.961195156698505,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7187,8 +7187,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5vdFQkeP",
+          "game_link_kind": "live",
           "round_game": "4:raindy:rpcx",
           "season_points": 3.0,
           "season_games": 4
@@ -7517,7 +7517,7 @@
       "projected_points": 13.301000554640753,
       "projected_round": 3.8010005546407526,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -7529,8 +7529,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/55vhUEFS",
+          "game_link_kind": "live",
           "round_game": "4:alikadhim2:nlance",
           "season_points": 0.0,
           "season_games": 3
@@ -7916,8 +7916,8 @@
       "name": "50 ways to cook with Pineapple",
       "actual_points": 11.0,
       "actual_round": 1.5,
-      "projected_points": 12.57617704716231,
-      "projected_round": 3.0761770471623113,
+      "projected_points": 12.58882930102631,
+      "projected_round": 3.0888293010263097,
       "left": 4,
       "in_progress": 0,
       "paired": 8,
@@ -8030,9 +8030,9 @@
         {
           "handle": "Apidae",
           "status": "pending",
-          "rating": 1502,
+          "rating": 1512,
           "decided_without_play": false,
-          "expected_points": 0.31992932426277854,
+          "expected_points": 0.332581578126777,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8965,7 +8965,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.566733865974763,
+      "projected": 4.566733865974762,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.5423906138007855,
+      "projected": 4.550104789610867,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9020,14 +9020,6 @@
       "eligible": false
     },
     {
-      "name": "50 Shades of Swindles and Tricks",
-      "projected": 4.211067248895395,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "50 pawns of Giri",
       "projected": 4.183633717672032,
       "actual": 2.5,
@@ -9041,6 +9033,14 @@
       "actual": 1.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "50 Shades of Swindles and Tricks",
+      "projected": 4.109291081598002,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 4.023638792088993,
+      "projected": 4.010986538224994,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.9763612079110073,
+      "projected": 3.9890134617750057,
       "actual": 1.0,
       "paired": 8,
       "left": 6,
@@ -9092,6 +9092,14 @@
       "eligible": false
     },
     {
+      "name": "Illiterate Alliteration Explorers",
+      "projected": 3.8907089184019976,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "Leningrad School of Blunders",
       "projected": 3.818947567675997,
       "actual": 1.0,
@@ -9105,14 +9113,6 @@
       "actual": 1.5,
       "paired": 8,
       "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Illiterate Alliteration Explorers",
-      "projected": 3.7889327511046056,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 6,
       "eligible": false
     },
     {
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.457609386199215,
+      "projected": 3.449895210389134,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 3.4332661340252373,
+      "projected": 3.4332661340252377,
       "actual": 2.0,
       "paired": 8,
       "left": 3,
