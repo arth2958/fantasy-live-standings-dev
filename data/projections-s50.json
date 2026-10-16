@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 7,
-  "updated_at": "2026-10-16T17:07:50.644392Z",
+  "updated_at": "2026-10-16T17:35:03.844202Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1752,8 +1752,8 @@
       "name": "Is this the real team? Is this just fantasy?",
       "actual_points": 13.5,
       "actual_round": 1.0,
-      "projected_points": 17.233993643607363,
-      "projected_round": 4.733993643607363,
+      "projected_points": 17.220287632528326,
+      "projected_round": 4.720287632528324,
       "left": 7,
       "in_progress": 0,
       "paired": 8,
@@ -1853,7 +1853,7 @@
           "status": "pending",
           "rating": 1646,
           "decided_without_play": false,
-          "expected_points": 0.39784190682528303,
+          "expected_points": 0.384135895746244,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -3226,8 +3226,8 @@
       "name": "Shakalaka",
       "actual_points": 13.5,
       "actual_round": 1.0,
-      "projected_points": 16.169949657511317,
-      "projected_round": 3.6699496575113155,
+      "projected_points": 16.183655668590355,
+      "projected_round": 3.6836556685903545,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -3325,9 +3325,9 @@
         {
           "handle": "PatrickVrielink",
           "status": "pending",
-          "rating": 1743,
+          "rating": 1753,
           "decided_without_play": false,
-          "expected_points": 0.602158093174717,
+          "expected_points": 0.615864104253756,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8988,16 +8988,16 @@
       "eligible": false
     },
     {
-      "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.483423416116992,
+      "name": "fifty shades of black and white",
+      "projected": 4.489360385910235,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
       "eligible": false
     },
     {
-      "name": "fifty shades of black and white",
-      "projected": 4.475654374831196,
+      "name": "What a team! And we managed to avoid Prosti",
+      "projected": 4.483423416116992,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9132,16 +9132,16 @@
       "eligible": false
     },
     {
-      "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.524345625168804,
+      "name": "50 Ways to Fork Your Lover",
+      "projected": 3.5165765838830083,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
       "eligible": false
     },
     {
-      "name": "50 Ways to Fork Your Lover",
-      "projected": 3.5165765838830083,
+      "name": "Inexplicable Fianchetto Agenda",
+      "projected": 3.510639614089765,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
