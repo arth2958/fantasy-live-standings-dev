@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-17T01:50:04.748479Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-17T02:13:10.406235Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -546,8 +546,8 @@
       "name": "Hedgehogs, Hippos, and Effin' Birds",
       "actual_points": 16.0,
       "actual_round": 2.0,
-      "projected_points": 19.044446136987936,
-      "projected_round": 5.044446136987937,
+      "projected_points": 19.074151282695425,
+      "projected_round": 5.074151282695423,
       "left": 6,
       "in_progress": 0,
       "paired": 8,
@@ -602,7 +602,7 @@
           "status": "pending",
           "rating": 1923,
           "decided_without_play": false,
-          "expected_points": 0.3612622508882751,
+          "expected_points": 0.3909673965957604,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5638,8 +5638,8 @@
       "name": "50 reasons to give fantasy a try",
       "actual_points": 12.0,
       "actual_round": 1.0,
-      "projected_points": 14.289131976390273,
-      "projected_round": 3.2891319763902738,
+      "projected_points": 14.273193422680862,
+      "projected_round": 3.2731934226808614,
       "left": 5,
       "in_progress": 0,
       "paired": 7,
@@ -5694,7 +5694,7 @@
           "status": "pending",
           "rating": 1877,
           "decided_without_play": false,
-          "expected_points": 0.3692697113837977,
+          "expected_points": 0.35333115767438533,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8868,6 +8868,14 @@
       "eligible": false
     },
     {
+      "name": "J’adoube-Al-Blunder",
+      "projected": 5.236869986556455,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
       "name": "oh those 64 squares can encompass such immensity",
       "projected": 5.177108095961436,
       "actual": 3.0,
@@ -8908,14 +8916,6 @@
       "eligible": false
     },
     {
-      "name": "J’adoube-Al-Blunder",
-      "projected": 4.842228155969497,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
       "name": "The Greek Gifty Nifty Fifty",
       "projected": 4.783288617284442,
       "actual": 2.0,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.550104789610867,
+      "projected": 4.579809935318352,
       "actual": 2.0,
       "paired": 8,
       "left": 5,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.449895210389134,
+      "projected": 3.4201900646816483,
       "actual": 1.0,
       "paired": 8,
       "left": 5,
@@ -9214,14 +9214,6 @@
     {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
       "projected": 3.216711382715558,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Svidler? I hardly know her",
-      "projected": 3.1577718440305027,
       "actual": 0.0,
       "paired": 8,
       "left": 6,
@@ -9262,6 +9254,14 @@
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
       "projected": 2.8228919040385643,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 5,
+      "eligible": false
+    },
+    {
+      "name": "Svidler? I hardly know her",
+      "projected": 2.7631300134435453,
       "actual": 0.0,
       "paired": 8,
       "left": 5,
