@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-17T11:28:08.201922Z",
+  "updated_at": "2026-10-17T11:57:01.099585Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -4234,7 +4234,7 @@
                 {
                   "opponent": "time_lord19",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/cVieCIDx",
                   "status": "pending",
                   "no_play": false
                 }
@@ -16969,7 +16969,7 @@
                 {
                   "opponent": "andrewrimmer",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IPseW8hn",
                   "status": "pending",
                   "no_play": false
                 }
@@ -18577,7 +18577,7 @@
                 {
                   "opponent": "time_lord19",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/cVieCIDx",
                   "status": "pending",
                   "no_play": false
                 }
@@ -23240,7 +23240,7 @@
                 {
                   "opponent": "andrewrimmer",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IPseW8hn",
                   "status": "pending",
                   "no_play": false
                 }
@@ -27436,7 +27436,7 @@
                 {
                   "opponent": "time_lord19",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/cVieCIDx",
                   "status": "pending",
                   "no_play": false
                 }
@@ -29510,7 +29510,7 @@
                 {
                   "opponent": "andrewrimmer",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/IPseW8hn",
                   "status": "pending",
                   "no_play": false
                 }
