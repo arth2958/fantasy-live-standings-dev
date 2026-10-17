@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-17T14:57:14.330619Z",
+  "updated_at": "2026-10-17T15:28:08.988485Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -15352,7 +15352,7 @@
                 {
                   "opponent": "n8otom8o",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/5QC5H2GF",
                   "status": "pending",
                   "no_play": false
                 }
@@ -16954,7 +16954,7 @@
                 {
                   "opponent": "n8otom8o",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/5QC5H2GF",
                   "status": "pending",
                   "no_play": false
                 }
@@ -19573,7 +19573,7 @@
                 {
                   "opponent": "n8otom8o",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/5QC5H2GF",
                   "status": "pending",
                   "no_play": false
                 }
@@ -23766,7 +23766,7 @@
                 {
                   "opponent": "markmarkedymarkmark",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/xQy7LpJV",
                   "status": "pending",
                   "no_play": false
                 }
@@ -26866,7 +26866,7 @@
                 {
                   "opponent": "HorribleChessTV",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/VcaUby1X",
                   "status": "pending",
                   "no_play": false
                 }
@@ -32092,7 +32092,7 @@
                 {
                   "opponent": "n8otom8o",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/5QC5H2GF",
                   "status": "pending",
                   "no_play": false
                 }
@@ -35269,7 +35269,7 @@
                 {
                   "opponent": "chraki",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/KJvYsup5",
                   "status": "pending",
                   "no_play": false
                 }
@@ -36753,7 +36753,7 @@
                 {
                   "opponent": "n8otom8o",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/5QC5H2GF",
                   "status": "pending",
                   "no_play": false
                 }

@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 5,
-  "updated_at": "2026-10-17T14:57:19.322766Z",
+  "round_in_progress": 11,
+  "updated_at": "2026-10-17T15:28:15.298381Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -2961,7 +2961,7 @@
       "projected_points": 16.167850586801652,
       "projected_round": 3.6678505868016535,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -3003,8 +3003,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "live",
           "round_game": "4:ciraid:n8otom8o",
           "season_points": 0.0,
           "season_games": 3
@@ -3899,7 +3899,7 @@
       "projected_points": 15.288792594998602,
       "projected_round": 4.288792594998602,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3941,8 +3941,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/xQy7LpJV",
+          "game_link_kind": "live",
           "round_game": "4:markmarkedymarkmark:mixxanber",
           "season_points": 1.5,
           "season_games": 3
@@ -4301,7 +4301,7 @@
       "projected_points": 14.946420329160855,
       "projected_round": 3.4464203291608557,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4343,8 +4343,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "live",
           "round_game": "4:ciraid:n8otom8o",
           "season_points": 0.0,
           "season_games": 3
@@ -4435,7 +4435,7 @@
       "projected_points": 14.839755502563024,
       "projected_round": 2.839755502563025,
       "left": 6,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -4447,8 +4447,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VcaUby1X",
+          "game_link_kind": "live",
           "round_game": "4:horriblechesstv:leverkuhn",
           "season_points": 2.0,
           "season_games": 3
@@ -4837,7 +4837,7 @@
       "projected_points": 14.698420787964801,
       "projected_round": 2.6984207879648014,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4879,8 +4879,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "live",
           "round_game": "4:ciraid:n8otom8o",
           "season_points": 0.0,
           "season_games": 3
@@ -6713,7 +6713,7 @@
       "projected_points": 13.503470340386476,
       "projected_round": 4.003470340386476,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6755,8 +6755,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "live",
           "round_game": "4:ciraid:n8otom8o",
           "season_points": 0.0,
           "season_games": 3
@@ -8187,7 +8187,7 @@
       "projected_points": 11.243160175160725,
       "projected_round": 3.7431601751607255,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8304,8 +8304,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/KJvYsup5",
+          "game_link_kind": "live",
           "round_game": "4:chraki:jakubjaniak1994",
           "season_points": 0.0,
           "season_games": 2
@@ -8589,7 +8589,7 @@
       "projected_points": 9.116480450792713,
       "projected_round": 3.616480450792712,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -8631,8 +8631,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "live",
           "round_game": "4:ciraid:n8otom8o",
           "season_points": 0.0,
           "season_games": 3
