@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-17T13:59:57.230447Z",
+  "round_in_progress": 7,
+  "updated_at": "2026-10-17T14:28:14.308841Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -147,7 +147,7 @@
       "projected_points": 20.1301456592519,
       "projected_round": 4.1301456592519035,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -234,8 +234,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 2.0,
           "season_games": 4
@@ -1219,7 +1219,7 @@
       "projected_points": 17.81231993894269,
       "projected_round": 3.8123199389426885,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1306,8 +1306,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 2.0,
           "season_games": 4
@@ -1755,7 +1755,7 @@
       "projected_points": 17.220287632528326,
       "projected_round": 4.720287632528324,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -1782,8 +1782,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/pM9YPaZL",
+          "game_link_kind": "live",
           "round_game": "4:akristjansson:antisana",
           "season_points": 2.0,
           "season_games": 3
@@ -1842,8 +1842,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 2.0,
           "season_games": 4
@@ -2157,7 +2157,7 @@
       "projected_points": 16.995758643745816,
       "projected_round": 5.495758643745817,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2244,8 +2244,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/7XpDqpfe",
+          "game_link_kind": "live",
           "round_game": "4:megalodon777hs:welpe",
           "season_points": 0.0,
           "season_games": 2
@@ -3497,7 +3497,7 @@
       "projected_points": 15.951082186352338,
       "projected_round": 2.4510821863523384,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3584,8 +3584,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 2.0,
           "season_games": 4
@@ -4301,7 +4301,7 @@
       "projected_points": 14.839755502563024,
       "projected_round": 2.839755502563025,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4388,8 +4388,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 2.0,
           "season_games": 4
@@ -4435,7 +4435,7 @@
       "projected_points": 14.798117356148984,
       "projected_round": 3.7981173561489836,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4522,8 +4522,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 1.5,
           "season_games": 3
@@ -7115,7 +7115,7 @@
       "projected_points": 13.326063450346311,
       "projected_round": 2.826063450346311,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -7202,8 +7202,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/3NakWQVo",
+          "game_link_kind": "live",
           "round_game": "4:cinemashow:kygreek",
           "season_points": 1.5,
           "season_games": 3
@@ -7914,12 +7914,12 @@
     {
       "owner": "macha1313",
       "name": "Favorite Names",
-      "actual_points": 11.0,
-      "actual_round": 2.5,
-      "projected_points": 12.099925944078413,
-      "projected_round": 3.599925944078413,
-      "left": 2,
-      "in_progress": 1,
+      "actual_points": 12.0,
+      "actual_round": 3.5,
+      "projected_points": 12.515824985264736,
+      "projected_round": 4.015824985264735,
+      "left": 1,
+      "in_progress": 0,
       "paired": 6,
       "roster": [
         {
@@ -7954,18 +7954,18 @@
         },
         {
           "handle": "ananimalstolemypants",
-          "status": "pending",
-          "rating": 2007,
+          "status": "won",
+          "rating": 2027,
           "decided_without_play": false,
-          "expected_points": 0.584100958813678,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
           "game_url": "https://lichess.org/GgEkj8bY",
-          "game_link_kind": "live",
+          "game_link_kind": "recent",
           "round_game": "4:ananimalstolemypants:nermin_dedovic",
-          "season_points": 1.0,
-          "season_games": 3
+          "season_points": 2.0,
+          "season_games": 4
         },
         {
           "handle": "Oachkatzerlschwoaf",
@@ -8876,14 +8876,6 @@
       "eligible": false
     },
     {
-      "name": "oh those 64 squares can encompass such immensity",
-      "projected": 5.177108095961436,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 5,
-      "eligible": false
-    },
-    {
       "name": "100 Suggestions You Must Know",
       "projected": 5.173264166048984,
       "actual": 2.0,
@@ -8929,6 +8921,14 @@
       "actual": 2.0,
       "paired": 8,
       "left": 6,
+      "eligible": false
+    },
+    {
+      "name": "oh those 64 squares can encompass such immensity",
+      "projected": 4.761209054775113,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 4,
       "eligible": false
     },
     {
@@ -8991,6 +8991,14 @@
       "name": "Rooky Horror Pawn Show fan club",
       "projected": 4.422297400443879,
       "actual": 2.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "The Tarrasch Talkers",
+      "projected": 4.36884726144951,
+      "actual": 3.0,
       "paired": 8,
       "left": 3,
       "eligible": false
@@ -9060,22 +9068,6 @@
       "eligible": false
     },
     {
-      "name": "The Tarrasch Talkers",
-      "projected": 4.0168302746998155,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Pawn with the Sickness",
-      "projected": 3.983169725300184,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "King's Landing",
       "projected": 3.952651481954135,
       "actual": 3.5,
@@ -9137,6 +9129,14 @@
       "actual": 0.0,
       "paired": 8,
       "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "Pawn with the Sickness",
+      "projected": 3.63115273855049,
+      "actual": 2.0,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -9204,6 +9204,14 @@
       "eligible": false
     },
     {
+      "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
+      "projected": 3.238790945224886,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 4,
+      "eligible": false
+    },
+    {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
       "projected": 3.216711382715558,
       "actual": 0.0,
@@ -9249,14 +9257,6 @@
       "actual": 0.0,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
-      "projected": 2.8228919040385643,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 5,
       "eligible": false
     },
     {
