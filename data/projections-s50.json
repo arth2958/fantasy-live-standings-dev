@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 2,
-  "updated_at": "2026-10-17T08:59:35.412076Z",
+  "updated_at": "2026-10-17T09:29:21.491008Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6847,7 +6847,7 @@
       "projected_points": 13.53678100886096,
       "projected_round": 3.5367810088609595,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -6904,8 +6904,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/5rQbaJFo",
+          "game_link_kind": "live",
           "round_game": "4:anthammer:thestormingeagle",
           "season_points": 0.0,
           "season_games": 3
@@ -9012,14 +9012,6 @@
       "eligible": false
     },
     {
-      "name": "The horsey don't belong here",
-      "projected": 4.338879010600346,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "The Last Shall be the First",
       "projected": 4.307836578307172,
       "actual": 1.5,
@@ -9062,6 +9054,22 @@
     {
       "name": "The Woodpushers",
       "projected": 4.079032546872017,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "Pirc and Roll",
+      "projected": 4.035769596092117,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "The horsey don't belong here",
+      "projected": 3.964230403907883,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9113,14 +9121,6 @@
       "actual": 0.5,
       "paired": 8,
       "left": 6,
-      "eligible": false
-    },
-    {
-      "name": "Pirc and Roll",
-      "projected": 3.661120989399654,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
