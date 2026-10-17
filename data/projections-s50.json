@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 6,
-  "updated_at": "2026-10-17T19:26:21.196828Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-17T19:55:10.353563Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6898,7 +6898,7 @@
         {
           "handle": "waterlorda7890",
           "status": "draw",
-          "rating": 1928,
+          "rating": 1923,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8940,14 +8940,6 @@
       "eligible": false
     },
     {
-      "name": "The Tarrasch Talkers",
-      "projected": 4.774991876213332,
-      "actual": 4.0,
-      "paired": 8,
-      "left": 2,
-      "eligible": false
-    },
-    {
       "name": "oh those 64 squares can encompass such immensity",
       "projected": 4.761209054775113,
       "actual": 3.0,
@@ -9006,6 +8998,14 @@
     {
       "name": "50 pawns of Giri",
       "projected": 4.374648606692463,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
+      "name": "The Tarrasch Talkers",
+      "projected": 4.335142021445235,
       "actual": 4.0,
       "paired": 8,
       "left": 1,
@@ -9124,6 +9124,14 @@
       "eligible": false
     },
     {
+      "name": "Pawn with the Sickness",
+      "projected": 3.664857978554765,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "Rookies Of The Year",
       "projected": 3.625351393307537,
       "actual": 3.0,
@@ -9185,14 +9193,6 @@
       "actual": 1.0,
       "paired": 8,
       "left": 4,
-      "eligible": false
-    },
-    {
-      "name": "Pawn with the Sickness",
-      "projected": 3.225008123786668,
-      "actual": 2.0,
-      "paired": 8,
-      "left": 2,
       "eligible": false
     },
     {
