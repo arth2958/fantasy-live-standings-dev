@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-18T07:59:01.444700Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-18T08:30:00.897803Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -546,10 +546,10 @@
       "name": "just give me my trophy already",
       "actual_points": 17.0,
       "actual_round": 1.5,
-      "projected_points": 19.34532573078278,
-      "projected_round": 3.8453257307827777,
-      "left": 5,
-      "in_progress": 1,
+      "projected_points": 18.902637364545072,
+      "projected_round": 3.4026373645450705,
+      "left": 4,
+      "in_progress": 0,
       "paired": 8,
       "roster": [
         {
@@ -584,18 +584,18 @@
         },
         {
           "handle": "CarlosMagnussen",
-          "status": "pending",
-          "rating": 1998,
+          "status": "lost",
+          "rating": 1982,
           "decided_without_play": false,
-          "expected_points": 0.44268836623770724,
-          "actual_result": null,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
           "round_points": 0.0,
-          "round_games": 0,
+          "round_games": 1,
           "game_url": "https://lichess.org/liiITT5n",
-          "game_link_kind": "live",
+          "game_link_kind": "recent",
           "round_game": "4:carlosmagnussen:lemuelgullible",
           "season_points": 1.5,
-          "season_games": 3
+          "season_games": 4
         },
         {
           "handle": "schittering06",
@@ -951,7 +951,7 @@
       "projected_points": 18.72848754417944,
       "projected_round": 4.72848754417944,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -978,8 +978,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -1085,7 +1085,7 @@
       "projected_points": 18.67816395555217,
       "projected_round": 3.678163955552168,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -1112,8 +1112,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -1353,7 +1353,7 @@
       "projected_points": 18.161258699836488,
       "projected_round": 4.6612586998364876,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 9,
       "roster": [
         {
@@ -1380,8 +1380,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -2559,7 +2559,7 @@
       "projected_points": 16.89440106718149,
       "projected_round": 2.89440106718149,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2586,8 +2586,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -3229,7 +3229,7 @@
       "projected_points": 16.063115822156558,
       "projected_round": 5.063115822156558,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3256,8 +3256,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -3899,7 +3899,7 @@
       "projected_points": 15.27833651480012,
       "projected_round": 3.2783365148001193,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -3926,8 +3926,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -4167,7 +4167,7 @@
       "projected_points": 14.998648437169596,
       "projected_round": 3.498648437169595,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -4194,8 +4194,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -4435,7 +4435,7 @@
       "projected_points": 14.832581578126778,
       "projected_round": 3.332581578126777,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4552,8 +4552,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/2MH5y8Dh",
+          "game_link_kind": "live",
           "round_game": "4:apidae:cosmoaps",
           "season_points": 2.5,
           "season_games": 3
@@ -4569,7 +4569,7 @@
       "projected_points": 14.827006085645893,
       "projected_round": 3.327006085645893,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4596,8 +4596,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -5373,7 +5373,7 @@
       "projected_points": 14.332581578126778,
       "projected_round": 2.332581578126777,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -5490,8 +5490,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/2MH5y8Dh",
+          "game_link_kind": "live",
           "round_game": "4:apidae:cosmoaps",
           "season_points": 2.5,
           "season_games": 3
@@ -6043,7 +6043,7 @@
       "projected_points": 14.032004424076657,
       "projected_round": 4.032004424076656,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -6070,8 +6070,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -6445,7 +6445,7 @@
       "projected_points": 13.880827167585705,
       "projected_round": 2.380827167585705,
       "left": 4,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -6472,8 +6472,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/BbMpZSwz",
+          "game_link_kind": "live",
           "round_game": "4:feet_barbie:nikker33",
           "season_points": 2.0,
           "season_games": 3
@@ -8053,7 +8053,7 @@
       "projected_points": 11.77101363915313,
       "projected_round": 2.271013639153131,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8170,8 +8170,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/2MH5y8Dh",
+          "game_link_kind": "live",
           "round_game": "4:apidae:cosmoaps",
           "season_points": 2.5,
           "season_games": 3
@@ -8956,14 +8956,6 @@
       "eligible": false
     },
     {
-      "name": "Mating for Godot",
-      "projected": 4.592104957069642,
-      "actual": 2.5,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "Leningrad School of Blunders",
       "projected": 4.583494507124388,
       "actual": 3.0,
@@ -9052,6 +9044,14 @@
       "eligible": false
     },
     {
+      "name": "Mating for Godot",
+      "projected": 4.149416590831935,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "Blunders Without Borders",
       "projected": 4.047348518045865,
       "actual": 3.5,
@@ -9081,6 +9081,14 @@
       "actual": 3.5,
       "paired": 8,
       "left": 1,
+      "eligible": false
+    },
+    {
+      "name": "50-50 my next move is a blunder",
+      "projected": 3.850583409168065,
+      "actual": 2.5,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
@@ -9169,14 +9177,6 @@
       "actual": 2.0,
       "paired": 8,
       "left": 3,
-      "eligible": false
-    },
-    {
-      "name": "50-50 my next move is a blunder",
-      "projected": 3.407895042930358,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
