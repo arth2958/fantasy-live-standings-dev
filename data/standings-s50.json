@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-18T11:28:06.804479Z",
+  "updated_at": "2026-10-18T11:56:45.036075Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -2143,7 +2143,7 @@
                 {
                   "opponent": "WelshKebab",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -3186,7 +3186,7 @@
                 {
                   "opponent": "tastypotatohead",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/VFMzbzBs",
                   "status": "pending",
                   "no_play": false
                 }
@@ -10659,7 +10659,7 @@
                 {
                   "opponent": "WelshKebab",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -20181,7 +20181,7 @@
                 {
                   "opponent": "tastypotatohead",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/VFMzbzBs",
                   "status": "pending",
                   "no_play": false
                 }
@@ -20194,7 +20194,7 @@
                 {
                   "opponent": "WelshKebab",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -21250,7 +21250,7 @@
                 {
                   "opponent": "WelshKebab",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -23838,7 +23838,7 @@
                 {
                   "opponent": "WelshKebab",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -32133,7 +32133,7 @@
                 {
                   "opponent": "jcarmody",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/dvYFQyK1",
                   "status": "pending",
                   "no_play": false
                 }
@@ -36797,7 +36797,7 @@
                 {
                   "opponent": "tastypotatohead",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/VFMzbzBs",
                   "status": "pending",
                   "no_play": false
                 }

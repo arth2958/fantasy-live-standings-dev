@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-18T11:28:09.965507Z",
+  "round_in_progress": 5,
+  "updated_at": "2026-10-18T11:56:48.679631Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -13,7 +13,7 @@
       "projected_points": 20.638779495072985,
       "projected_round": 4.638779495072986,
       "left": 5,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -130,8 +130,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 2.0,
           "season_games": 3
@@ -147,7 +147,7 @@
       "projected_points": 19.864895005077308,
       "projected_round": 3.364895005077309,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -249,8 +249,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VFMzbzBs",
+          "game_link_kind": "live",
           "round_game": "4:matthewkcanada:tastypotatohead",
           "season_points": 1.0,
           "season_games": 3
@@ -2023,7 +2023,7 @@
       "projected_points": 17.27175087139423,
       "projected_round": 3.271750871394228,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -2140,8 +2140,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 2.0,
           "season_games": 3
@@ -3363,7 +3363,7 @@
       "projected_points": 16.008703578829465,
       "projected_round": 3.008703578829465,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -3465,8 +3465,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VFMzbzBs",
+          "game_link_kind": "live",
           "round_game": "4:matthewkcanada:tastypotatohead",
           "season_points": 1.0,
           "season_games": 3
@@ -3480,8 +3480,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 2.0,
           "season_games": 3
@@ -4703,7 +4703,7 @@
       "projected_points": 14.994247461662702,
       "projected_round": 2.4942474616627033,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -4820,8 +4820,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 2.0,
           "season_games": 3
@@ -5105,7 +5105,7 @@
       "projected_points": 14.695363713382138,
       "projected_round": 3.695363713382138,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5222,8 +5222,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 2.0,
           "season_games": 3
@@ -5366,6 +5366,140 @@
       "projected_rank": 40
     },
     {
+      "owner": "Sussasun",
+      "name": "Fantasy8",
+      "actual_points": 13.5,
+      "actual_round": 4.0,
+      "projected_points": 14.408749007568469,
+      "projected_round": 4.908749007568469,
+      "left": 2,
+      "in_progress": 1,
+      "paired": 8,
+      "roster": [
+        {
+          "handle": "chatakkuma",
+          "status": "won",
+          "rating": 2266,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/eakAqhIO",
+          "game_link_kind": "recent",
+          "round_game": "4:chatakkuma:rathotdog",
+          "season_points": 2.0,
+          "season_games": 4
+        },
+        {
+          "handle": "NameGoesInHere",
+          "status": "lost",
+          "rating": 2038,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/PFokAcdD",
+          "game_link_kind": "recent",
+          "round_game": "4:namegoesinhere:super0jins",
+          "season_points": 1.0,
+          "season_games": 4
+        },
+        {
+          "handle": "Ciraid",
+          "status": "won",
+          "rating": 1983,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/5QC5H2GF",
+          "game_link_kind": "recent",
+          "round_game": "4:ciraid:n8otom8o",
+          "season_points": 1.0,
+          "season_games": 4
+        },
+        {
+          "handle": "adande1",
+          "status": "won",
+          "rating": 1984,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/jLXxvFrv",
+          "game_link_kind": "recent",
+          "round_game": "4:adande1:sarahwynn",
+          "season_points": 3.0,
+          "season_games": 4
+        },
+        {
+          "handle": "Joonaf",
+          "status": "pending",
+          "rating": 1890,
+          "decided_without_play": false,
+          "expected_points": 0.6240017586176672,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": "https://lichess.org/jbqZH02C",
+          "game_link_kind": "live",
+          "round_game": "4:immortality:joonaf",
+          "season_points": 2.0,
+          "season_games": 3
+        },
+        {
+          "handle": "momor",
+          "status": "won",
+          "rating": 1750,
+          "decided_without_play": false,
+          "expected_points": 1.0,
+          "actual_result": 1.0,
+          "round_points": 1.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/0rv2SUWh",
+          "game_link_kind": "recent",
+          "round_game": "4:momor:pawneater2020",
+          "season_points": 2.0,
+          "season_games": 4
+        },
+        {
+          "handle": "mqll",
+          "status": "lost",
+          "rating": 1690,
+          "decided_without_play": false,
+          "expected_points": 0.0,
+          "actual_result": 0.0,
+          "round_points": 0.0,
+          "round_games": 1,
+          "game_url": "https://lichess.org/ohPavvby",
+          "game_link_kind": "recent",
+          "round_game": "4:mqll:ttsgosadow",
+          "season_points": 1.0,
+          "season_games": 4
+        },
+        {
+          "handle": "TimeFork",
+          "status": "pending",
+          "rating": 1425,
+          "decided_without_play": false,
+          "expected_points": 0.2847472489508014,
+          "actual_result": null,
+          "round_points": 0.0,
+          "round_games": 0,
+          "game_url": null,
+          "game_link_kind": null,
+          "round_game": "4:hpors:timefork",
+          "season_points": 1.5,
+          "season_games": 3
+        }
+      ],
+      "projected_rank": 41
+    },
+    {
       "owner": "Bpack",
       "name": "int-T-ana Jones and the Tomple of Doom",
       "actual_points": 13.0,
@@ -5495,140 +5629,6 @@
           "round_game": "4:mimrolls:mongreltiger",
           "season_points": 2.0,
           "season_games": 4
-        }
-      ],
-      "projected_rank": 41
-    },
-    {
-      "owner": "Sussasun",
-      "name": "Fantasy8",
-      "actual_points": 13.5,
-      "actual_round": 4.0,
-      "projected_points": 14.401767224968497,
-      "projected_round": 4.901767224968497,
-      "left": 2,
-      "in_progress": 1,
-      "paired": 8,
-      "roster": [
-        {
-          "handle": "chatakkuma",
-          "status": "won",
-          "rating": 2266,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/eakAqhIO",
-          "game_link_kind": "recent",
-          "round_game": "4:chatakkuma:rathotdog",
-          "season_points": 2.0,
-          "season_games": 4
-        },
-        {
-          "handle": "NameGoesInHere",
-          "status": "lost",
-          "rating": 2038,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/PFokAcdD",
-          "game_link_kind": "recent",
-          "round_game": "4:namegoesinhere:super0jins",
-          "season_points": 1.0,
-          "season_games": 4
-        },
-        {
-          "handle": "Ciraid",
-          "status": "won",
-          "rating": 1983,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/5QC5H2GF",
-          "game_link_kind": "recent",
-          "round_game": "4:ciraid:n8otom8o",
-          "season_points": 1.0,
-          "season_games": 4
-        },
-        {
-          "handle": "adande1",
-          "status": "won",
-          "rating": 1984,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/jLXxvFrv",
-          "game_link_kind": "recent",
-          "round_game": "4:adande1:sarahwynn",
-          "season_points": 3.0,
-          "season_games": 4
-        },
-        {
-          "handle": "Joonaf",
-          "status": "pending",
-          "rating": 1890,
-          "decided_without_play": false,
-          "expected_points": 0.6240017586176672,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": "https://lichess.org/jbqZH02C",
-          "game_link_kind": "live",
-          "round_game": "4:immortality:joonaf",
-          "season_points": 2.0,
-          "season_games": 3
-        },
-        {
-          "handle": "momor",
-          "status": "won",
-          "rating": 1750,
-          "decided_without_play": false,
-          "expected_points": 1.0,
-          "actual_result": 1.0,
-          "round_points": 1.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/0rv2SUWh",
-          "game_link_kind": "recent",
-          "round_game": "4:momor:pawneater2020",
-          "season_points": 2.0,
-          "season_games": 4
-        },
-        {
-          "handle": "mqll",
-          "status": "lost",
-          "rating": 1690,
-          "decided_without_play": false,
-          "expected_points": 0.0,
-          "actual_result": 0.0,
-          "round_points": 0.0,
-          "round_games": 1,
-          "game_url": "https://lichess.org/ohPavvby",
-          "game_link_kind": "recent",
-          "round_game": "4:mqll:ttsgosadow",
-          "season_points": 1.0,
-          "season_games": 4
-        },
-        {
-          "handle": "TimeFork",
-          "status": "pending",
-          "rating": 1419,
-          "decided_without_play": false,
-          "expected_points": 0.2777654663508294,
-          "actual_result": null,
-          "round_points": 0.0,
-          "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
-          "round_game": "4:hpors:timefork",
-          "season_points": 1.5,
-          "season_games": 3
         }
       ],
       "projected_rank": 42
@@ -7785,7 +7785,7 @@
       "projected_points": 12.515824985264736,
       "projected_round": 4.015824985264735,
       "left": 1,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -7902,8 +7902,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/dvYFQyK1",
+          "game_link_kind": "live",
           "round_game": "4:jcarmody:welshkebab",
           "season_points": 3.0,
           "season_games": 3
@@ -8589,7 +8589,7 @@
       "projected_points": 9.542523386311743,
       "projected_round": 1.5425233863117436,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -8691,8 +8691,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/VFMzbzBs",
+          "game_link_kind": "live",
           "round_game": "4:matthewkcanada:tastypotatohead",
           "season_points": 1.0,
           "season_games": 3
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 5.20218260209052,
+      "projected": 5.202182602090521,
       "actual": 4.5,
       "paired": 8,
       "left": 1,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.123274377172369,
+      "projected": 4.116292594572397,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.8767256228276303,
+      "projected": 3.883707405427603,
       "actual": 2.5,
       "paired": 8,
       "left": 3,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 2.3783593812619754,
+      "projected": 2.378359381261975,
       "actual": 0.0,
       "paired": 8,
       "left": 5,
