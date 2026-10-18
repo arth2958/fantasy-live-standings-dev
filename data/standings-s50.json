@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-18T16:59:29.684395Z",
+  "updated_at": "2026-10-18T17:27:54.100438Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -2545,7 +2545,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -4140,7 +4140,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -5196,7 +5196,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -5281,7 +5281,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -5742,7 +5742,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -5820,7 +5820,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -6290,7 +6290,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -6830,7 +6830,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -6908,7 +6908,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -7432,7 +7432,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -9042,7 +9042,7 @@
                 {
                   "opponent": "PatrickVrielink",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/402yG9Rt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -11718,7 +11718,7 @@
                 {
                   "opponent": "cham",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -12172,7 +12172,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -12250,7 +12250,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -15364,7 +15364,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -18609,7 +18609,7 @@
                 {
                   "opponent": "Kborman",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/402yG9Rt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -19141,7 +19141,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -20071,7 +20071,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -21095,7 +21095,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -21619,7 +21619,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -28995,7 +28995,7 @@
                 {
                   "opponent": "antazhi8",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/D0fJEENt",
                   "status": "pending",
                   "no_play": false
                 }
@@ -29065,7 +29065,7 @@
                 {
                   "opponent": "cham",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
@@ -34240,7 +34240,7 @@
                 {
                   "opponent": "Marco_Chess13",
                   "actual_result": null,
-                  "game_url": null,
+                  "game_url": "https://lichess.org/V36WIk0p",
                   "status": "pending",
                   "no_play": false
                 }
