@@ -2,7 +2,7 @@
   "season": 50,
   "round": 4,
   "round_in_progress": 2,
-  "updated_at": "2026-10-18T22:27:30.449497Z",
+  "updated_at": "2026-10-18T22:56:58.316348Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -993,9 +993,9 @@
           "actual_result": 1.5,
           "round_points": 1.5,
           "round_games": 2,
-          "game_url": "https://lichess.org/SEtHDblX",
+          "game_url": "https://lichess.org/AIsYlbNW",
           "game_link_kind": "recent",
-          "round_game": "4:bennol:buki9",
+          "round_game": "4:bennol:gavalanche20",
           "season_points": 3.0,
           "season_games": 5
         },
@@ -1931,9 +1931,9 @@
           "actual_result": 1.5,
           "round_points": 1.5,
           "round_games": 2,
-          "game_url": "https://lichess.org/SEtHDblX",
+          "game_url": "https://lichess.org/AIsYlbNW",
           "game_link_kind": "recent",
-          "round_game": "4:bennol:buki9",
+          "round_game": "4:bennol:gavalanche20",
           "season_points": 3.0,
           "season_games": 5
         },
