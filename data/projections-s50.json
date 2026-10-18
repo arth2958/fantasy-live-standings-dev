@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 10,
-  "updated_at": "2026-10-18T13:08:14.691244Z",
+  "round_in_progress": 12,
+  "updated_at": "2026-10-18T13:34:50.113032Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -415,7 +415,7 @@
       "projected_points": 19.283593526708394,
       "projected_round": 2.783593526708394,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -532,8 +532,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/cm0KAWQs",
+          "game_link_kind": "live",
           "round_game": "4:dama_x_rey:kendragonx",
           "season_points": 2.0,
           "season_games": 3
@@ -2961,7 +2961,7 @@
       "projected_points": 16.440465626369296,
       "projected_round": 5.440465626369296,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 8,
       "roster": [
         {
@@ -3078,8 +3078,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/SDLJRQII",
+          "game_link_kind": "live",
           "round_game": "4:f1re_bunny:ivanhomeless",
           "season_points": 0.0,
           "season_games": 3
@@ -5239,7 +5239,7 @@
       "projected_points": 14.409354228289395,
       "projected_round": 4.409354228289394,
       "left": 3,
-      "in_progress": 1,
+      "in_progress": 2,
       "paired": 7,
       "roster": [
         {
@@ -5356,8 +5356,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/SDLJRQII",
+          "game_link_kind": "live",
           "round_game": "4:f1re_bunny:ivanhomeless",
           "season_points": 0.0,
           "season_games": 3
@@ -8892,6 +8892,14 @@
       "eligible": false
     },
     {
+      "name": "100 Suggestions You Must Know",
+      "projected": 5.446015312809397,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 3,
+      "eligible": false
+    },
+    {
       "name": "Riding with the King",
       "projected": 5.445530625978324,
       "actual": 5.0,
@@ -8921,14 +8929,6 @@
       "actual": 5.0,
       "paired": 8,
       "left": 0,
-      "eligible": false
-    },
-    {
-      "name": "100 Suggestions You Must Know",
-      "projected": 4.997638860120357,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 4,
       "eligible": false
     },
     {
@@ -9204,14 +9204,6 @@
       "eligible": false
     },
     {
-      "name": "Season 50 midlife crisis",
-      "projected": 3.0023611398796426,
-      "actual": 1.0,
-      "paired": 8,
-      "left": 4,
-      "eligible": false
-    },
-    {
       "name": "Rookies Of The Year",
       "projected": 3.0,
       "actual": 3.0,
@@ -9241,6 +9233,14 @@
       "actual": 2.0,
       "paired": 8,
       "left": 1,
+      "eligible": false
+    },
+    {
+      "name": "Season 50 midlife crisis",
+      "projected": 2.553984687190603,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 3,
       "eligible": false
     },
     {
