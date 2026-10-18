@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 4,
-  "round_in_progress": 2,
-  "updated_at": "2026-10-18T06:08:53.755905Z",
+  "round_in_progress": 3,
+  "updated_at": "2026-10-18T07:00:32.125393Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -7249,7 +7249,7 @@
       "projected_points": 12.93985753163702,
       "projected_round": 2.439857531637021,
       "left": 3,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -7366,8 +7366,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/8TyotWYx",
+          "game_link_kind": "live",
           "round_game": "4:beisn:martindanielsson",
           "season_points": 0.0,
           "season_games": 3
@@ -7919,7 +7919,7 @@
       "projected_points": 12.258198352101648,
       "projected_round": 2.2581983521016475,
       "left": 2,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -8036,8 +8036,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/8TyotWYx",
+          "game_link_kind": "live",
           "round_game": "4:beisn:martindanielsson",
           "season_points": 0.0,
           "season_games": 3
