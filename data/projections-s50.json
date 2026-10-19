@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 1,
-  "updated_at": "2026-10-19T15:14:13.970586Z",
+  "updated_at": "2026-10-19T15:52:43.500422Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4298,8 +4298,8 @@
       "name": "This is the way.",
       "actual_points": 15.5,
       "actual_round": 0.0,
-      "projected_points": 19.00753489591999,
-      "projected_round": 3.5075348959199886,
+      "projected_points": 18.999725002936948,
+      "projected_round": 3.4997250029369487,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -4354,7 +4354,7 @@
           "status": "pending",
           "rating": 1998,
           "decided_without_play": false,
-          "expected_points": 0.3493953720661275,
+          "expected_points": 0.34158547908308745,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7246,8 +7246,8 @@
       "name": "Favorite Names",
       "actual_points": 13.0,
       "actual_round": 0.0,
-      "projected_points": 16.696852860091973,
-      "projected_round": 3.6968528600919726,
+      "projected_points": 16.689042967108932,
+      "projected_round": 3.689042967108932,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -7302,7 +7302,7 @@
           "status": "pending",
           "rating": 1998,
           "decided_without_play": false,
-          "expected_points": 0.3493953720661275,
+          "expected_points": 0.34158547908308745,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.4099743375734715,
+      "projected": 4.409974337573472,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 4.360909317360114,
+      "projected": 4.360909317360115,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
-      "projected": 4.298759855036261,
+      "projected": 4.29875985503626,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 4.2391467757214425,
+      "projected": 4.246956668704483,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.086350260735241,
+      "projected": 4.086350260735242,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.995633288488375,
+      "projected": 3.9956332884883756,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.9714767843402092,
+      "projected": 3.9714767843402097,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 3.913649739264759,
+      "projected": 3.9136497392647587,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.810429347345893,
+      "projected": 3.8104293473458926,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.7608532242785575,
+      "projected": 3.753043331295517,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9205,7 +9205,7 @@
     },
     {
       "name": "oh those 64 squares can encompass such immensity",
-      "projected": 3.7336574675355543,
+      "projected": 3.7336574675355547,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.6390906826398863,
+      "projected": 3.6390906826398854,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "The Last Shall be the First",
-      "projected": 3.607072455881034,
+      "projected": 3.6070724558810343,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.599867781432523,
+      "projected": 3.599867781432522,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
