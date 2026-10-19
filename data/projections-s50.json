@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-19T23:32:23.442081Z",
+  "updated_at": "2026-10-19T23:59:54.187042Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120677,
+      "projected": 4.488487266120676,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.41137734558661,
+      "projected": 4.411377345586611,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8933,7 +8933,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.313321249074787,
+      "projected": 4.313321249074786,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8989,7 +8989,7 @@
     },
     {
       "name": "Riding with the King",
-      "projected": 4.21167470366775,
+      "projected": 4.211674703667749,
       "actual": 0.5,
       "paired": 8,
       "left": 7,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.9895933636064,
+      "projected": 3.9895933636064003,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.753043331295517,
+      "projected": 3.7530433312955163,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.686678750925213,
+      "projected": 3.6866787509252137,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.644846652639785,
+      "projected": 3.6448466526397842,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.630540878512289,
+      "projected": 3.6305408785122895,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.5115127338793237,
+      "projected": 3.511512733879324,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.4527770064106504,
+      "projected": 3.452777006410651,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
