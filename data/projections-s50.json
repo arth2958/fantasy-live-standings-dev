@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 5,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-19T19:55:34.700504Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-19T20:33:59.937847Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1216,8 +1216,8 @@
       "name": "The Brave Lions",
       "actual_points": 18.0,
       "actual_round": 0.0,
-      "projected_points": 22.365289380714593,
-      "projected_round": 4.365289380714595,
+      "projected_points": 22.37536232824483,
+      "projected_round": 4.37536232824483,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -1255,9 +1255,9 @@
         {
           "handle": "AlexGaul",
           "status": "pending",
-          "rating": 2009,
+          "rating": 2016,
           "decided_without_play": false,
-          "expected_points": 0.4913661641789174,
+          "expected_points": 0.5014391117091528,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -2020,8 +2020,8 @@
       "name": "Don't panic, it's 42 in duodecimal.",
       "actual_points": 17.0,
       "actual_round": 0.0,
-      "projected_points": 21.255902908747526,
-      "projected_round": 4.255902908747526,
+      "projected_points": 21.24582996121729,
+      "projected_round": 4.245829961217291,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -2061,7 +2061,7 @@
           "status": "pending",
           "rating": 2040,
           "decided_without_play": false,
-          "expected_points": 0.5086338358210827,
+          "expected_points": 0.4985608882908472,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -4566,8 +4566,8 @@
       "name": "Rushing picker",
       "actual_points": 14.5,
       "actual_round": 0.0,
-      "projected_points": 18.623329130776376,
-      "projected_round": 4.1233291307763755,
+      "projected_points": 18.63340207830661,
+      "projected_round": 4.13340207830661,
       "left": 8,
       "in_progress": 0,
       "paired": 8,
@@ -4605,9 +4605,9 @@
         {
           "handle": "AlexGaul",
           "status": "pending",
-          "rating": 2009,
+          "rating": 2016,
           "decided_without_play": false,
-          "expected_points": 0.4913661641789174,
+          "expected_points": 0.5014391117091528,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -5370,8 +5370,8 @@
       "name": "Players who will play all 8 games.",
       "actual_points": 15.0,
       "actual_round": 0.0,
-      "projected_points": 17.801639968911847,
-      "projected_round": 2.801639968911848,
+      "projected_points": 17.791567021381614,
+      "projected_round": 2.791567021381612,
       "left": 6,
       "in_progress": 1,
       "paired": 6,
@@ -5411,7 +5411,7 @@
           "status": "pending",
           "rating": 2040,
           "decided_without_play": false,
-          "expected_points": 0.5086338358210827,
+          "expected_points": 0.4985608882908472,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -6308,8 +6308,8 @@
       "name": "gary0892’s team",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 17.220842789909767,
-      "projected_round": 3.220842789909767,
+      "projected_points": 17.230915737440004,
+      "projected_round": 3.230915737440003,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -6347,9 +6347,9 @@
         {
           "handle": "AlexGaul",
           "status": "pending",
-          "rating": 2009,
+          "rating": 2016,
           "decided_without_play": false,
-          "expected_points": 0.4913661641789174,
+          "expected_points": 0.5014391117091528,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8853,7 +8853,15 @@
   "league_teams": [
     {
       "name": "pspspspspsps",
-      "projected": 4.595161525429192,
+      "projected": 4.595161525429191,
+      "actual": 1.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "Knights of the Round Tablebase",
+      "projected": 4.547222993589349,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8877,7 +8885,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 4.392927544118966,
+      "projected": 4.392927544118965,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8893,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 4.385878960165388,
+      "projected": 4.385878960165389,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8893,7 +8901,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 4.370982264890349,
+      "projected": 4.360909317360115,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8909,7 +8917,7 @@
     },
     {
       "name": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "projected": 4.313321249074788,
+      "projected": 4.313321249074787,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8917,7 +8925,7 @@
     },
     {
       "name": "Morphy's Mates",
-      "projected": 4.288686258347511,
+      "projected": 4.288686258347512,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8989,7 @@
     },
     {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 4.209909705144773,
+      "projected": 4.2099097051447725,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9005,7 +9013,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 4.167318758743494,
+      "projected": 4.1673187587434946,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9037,7 +9045,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.086350260735241,
+      "projected": 4.086350260735242,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9046,14 +9054,6 @@
     {
       "name": "J’adoube-Al-Blunder",
       "projected": 4.0426252502037014,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
-      "name": "Knights of the Round Tablebase",
-      "projected": 4.028523215659791,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9076,14 +9076,6 @@
       "eligible": false
     },
     {
-      "name": "The Tarrasch Talkers",
-      "projected": 3.971476784340209,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Yeah, well, that's just like, your opening, man.",
       "projected": 3.9573747497962986,
       "actual": 0.0,
@@ -9093,7 +9085,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 3.913649739264759,
+      "projected": 3.9136497392647587,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9149,7 +9141,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 3.7900902948552266,
+      "projected": 3.790090294855227,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9181,7 +9173,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.753043331295517,
+      "projected": 3.7530433312955163,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9205,7 +9197,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.7250627731467345,
+      "projected": 3.725062773146735,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9237,7 +9229,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.6290177351096506,
+      "projected": 3.6390906826398863,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9253,7 +9245,7 @@
     },
     {
       "name": "The Last Shall be the First",
-      "projected": 3.6070724558810343,
+      "projected": 3.607072455881034,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9253,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.570508649001927,
+      "projected": 3.5705086490019267,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9276,8 +9268,16 @@
       "eligible": false
     },
     {
+      "name": "The Tarrasch Talkers",
+      "projected": 3.452777006410651,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 7,
+      "eligible": false
+    },
+    {
       "name": "The horsey don't belong here",
-      "projected": 3.4048384745708082,
+      "projected": 3.404838474570809,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
