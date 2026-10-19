@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 5,
-  "round_in_progress": 1,
-  "updated_at": "2026-10-19T16:19:16.815465Z",
+  "round_in_progress": 2,
+  "updated_at": "2026-10-19T16:57:42.961594Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1487,7 +1487,7 @@
       "projected_points": 21.54400129685425,
       "projected_round": 3.544001296854252,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -1574,8 +1574,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/6DAppxEc",
+          "game_link_kind": "live",
           "round_game": "5:pykkis:thejeep",
           "season_points": 3.0,
           "season_games": 4
@@ -3363,7 +3363,7 @@
       "projected_points": 19.66477400461909,
       "projected_round": 3.664774004619089,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -3450,8 +3450,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/6DAppxEc",
+          "game_link_kind": "live",
           "round_game": "5:pykkis:thejeep",
           "season_points": 3.0,
           "season_games": 4
@@ -6308,8 +6308,8 @@
       "name": "i just picked the first names i saw",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 17.199979979721196,
-      "projected_round": 3.1999799797211965,
+      "projected_points": 17.212558823691396,
+      "projected_round": 3.2125588236913973,
       "left": 6,
       "in_progress": 0,
       "paired": 6,
@@ -6424,7 +6424,7 @@
           "status": "pending",
           "rating": 1382,
           "decided_without_play": false,
-          "expected_points": 0.5784967523447427,
+          "expected_points": 0.5910755963149434,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.409974337573472,
+      "projected": 4.422553181543672,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8965,7 +8965,7 @@
     },
     {
       "name": "Lang and Lloyd R0Bbed Sed in the windy Canadian Alps with a fork",
-      "projected": 4.2099097051447725,
+      "projected": 4.209909705144773,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9021,7 +9021,7 @@
     },
     {
       "name": "50th Parallel Pawns",
-      "projected": 4.0927299044526695,
+      "projected": 4.089882362536744,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.086350260735242,
+      "projected": 4.086350260735241,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9053,7 +9053,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 4.02852321565979,
+      "projected": 4.028523215659791,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.9956332884883756,
+      "projected": 3.995633288488375,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.9714767843402097,
+      "projected": 3.971476784340209,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "pspspspspsps",
-      "projected": 3.9704312494419516,
+      "projected": 3.970431249441952,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 3.9136497392647587,
+      "projected": 3.913649739264759,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.9072700955473305,
+      "projected": 3.910117637463256,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.832681241256506,
+      "projected": 3.832681241256505,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.8104293473458926,
+      "projected": 3.810429347345893,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 3.790090294855227,
+      "projected": 3.7900902948552266,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.7860013502822545,
+      "projected": 3.786001350282254,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.753043331295517,
+      "projected": 3.7530433312955163,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "passed pawn patrol",
-      "projected": 3.6390906826398854,
+      "projected": 3.639090682639886,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.5998677814325224,
+      "projected": 3.599867781432523,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.590025662426528,
+      "projected": 3.5774468184563273,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.5229788368783272,
+      "projected": 3.5229788368783277,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
