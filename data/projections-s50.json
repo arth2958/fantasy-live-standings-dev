@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 5,
-  "round_in_progress": 3,
-  "updated_at": "2026-10-19T18:01:05.742030Z",
+  "round_in_progress": 4,
+  "updated_at": "2026-10-19T18:38:41.024988Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120676,
+      "projected": 4.488487266120677,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.086350260735242,
+      "projected": 4.086350260735241,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Season 50 midlife crisis",
-      "projected": 3.9136497392647587,
+      "projected": 3.913649739264759,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.7860013502822545,
+      "projected": 3.786001350282254,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9277,7 +9277,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.511512733879324,
+      "projected": 3.5115127338793237,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
