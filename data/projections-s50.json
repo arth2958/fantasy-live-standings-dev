@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-19T12:09:22.828168Z",
+  "updated_at": "2026-10-19T13:07:50.524100Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1752,8 +1752,8 @@
       "name": "Monocarp’s team",
       "actual_points": 17.5,
       "actual_round": 0.0,
-      "projected_points": 21.46315759699753,
-      "projected_round": 3.963157596997528,
+      "projected_points": 21.4519089422126,
+      "projected_round": 3.9519089422126017,
       "left": 7,
       "in_progress": 0,
       "paired": 7,
@@ -1763,7 +1763,7 @@
           "status": "pending",
           "rating": 2222,
           "decided_without_play": false,
-          "expected_points": 0.581301478368915,
+          "expected_points": 0.5700528235839882,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8853,7 +8853,7 @@
   "league_teams": [
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.477021163121672,
+      "projected": 4.477021163121673,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.409974337573472,
+      "projected": 4.4099743375734715,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Fork You Very Much",
-      "projected": 4.400132218567478,
+      "projected": 4.400132218567477,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 4.392927544118966,
+      "projected": 4.392927544118965,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "We're not going to TAKE TAKE TAKE it",
-      "projected": 4.360909317360114,
+      "projected": 4.360909317360115,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8901,7 +8901,7 @@
     },
     {
       "name": "Pantless to the Max on a Metal Mund Jeep over Planet Lewinberg in Style",
-      "projected": 4.298759855036261,
+      "projected": 4.29875985503626,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "What a team! And we managed to avoid Prosti",
-      "projected": 4.274937226853265,
+      "projected": 4.2749372268532655,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8925,7 +8925,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 4.266342532464445,
+      "projected": 4.266342532464446,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 4.239146775721443,
+      "projected": 4.2391467757214425,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8957,7 +8957,7 @@
     },
     {
       "name": "Svidler? I hardly know her",
-      "projected": 4.213998649717746,
+      "projected": 4.2139986497177455,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8973,7 +8973,7 @@
     },
     {
       "name": "50 first mates",
-      "projected": 4.189570652654107,
+      "projected": 4.1895706526541066,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "The Greek Gifty Nifty Fifty",
-      "projected": 4.171006645554292,
+      "projected": 4.171006645554293,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Operation Pawnstorm",
-      "projected": 4.086350260735242,
+      "projected": 4.086350260735241,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9037,7 +9037,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 4.0313765954187755,
+      "projected": 4.0426252502037014,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9045,7 +9045,7 @@
     },
     {
       "name": "The horsey don't belong here",
-      "projected": 4.029568750558048,
+      "projected": 4.029568750558049,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9069,7 +9069,7 @@
     },
     {
       "name": "Blunders Without Borders",
-      "projected": 3.9956332884883756,
+      "projected": 3.995633288488375,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9085,7 +9085,7 @@
     },
     {
       "name": "pspspspspsps",
-      "projected": 3.970431249441952,
+      "projected": 3.9704312494419516,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9093,7 +9093,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 3.9686234045812254,
+      "projected": 3.9573747497962986,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "100 Suggestions You Must Know",
-      "projected": 3.90727009554733,
+      "projected": 3.9072700955473305,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9125,7 +9125,7 @@
     },
     {
       "name": "Rooky Horror Pawn Show",
-      "projected": 3.8821806815684283,
+      "projected": 3.8821806815684288,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "Inexplicable Fianchetto Agenda",
-      "projected": 3.870280181347693,
+      "projected": 3.8702801813476935,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9141,7 +9141,7 @@
     },
     {
       "name": "Fifty Shades of Time Trouble",
-      "projected": 3.8326812412565046,
+      "projected": 3.832681241256505,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.8104293473458926,
+      "projected": 3.810429347345893,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.7776024400492596,
+      "projected": 3.77760244004926,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 3.742999343728642,
+      "projected": 3.7429993437286426,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.725062773146735,
+      "projected": 3.7250627731467345,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9237,7 +9237,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.6866787509252132,
+      "projected": 3.686678750925213,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.5998677814325224,
+      "projected": 3.599867781432523,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
