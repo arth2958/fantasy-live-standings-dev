@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-19T22:32:03.600926Z",
+  "updated_at": "2026-10-19T23:01:16.891376Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6308,8 +6308,8 @@
       "name": "i just picked the first names i saw",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 17.219496993145796,
-      "projected_round": 3.2194969931457975,
+      "projected_points": 17.211166730516403,
+      "projected_round": 3.211166730516404,
       "left": 6,
       "in_progress": 0,
       "paired": 6,
@@ -6424,7 +6424,7 @@
           "status": "pending",
           "rating": 1382,
           "decided_without_play": false,
-          "expected_points": 0.5980137657693436,
+          "expected_points": 0.5896835031399501,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.429491350998073,
+      "projected": 4.421161088368679,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8909,7 +8909,7 @@
     },
     {
       "name": "Svidler? I hardly know her",
-      "projected": 4.36945912148771,
+      "projected": 4.3694591214877105,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -9005,7 +9005,7 @@
     },
     {
       "name": "50 pawns of Giri",
-      "projected": 4.1673187587434946,
+      "projected": 4.167318758743495,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9133,7 +9133,7 @@
     },
     {
       "name": "Silk Road Sacrifices",
-      "projected": 3.801799443790209,
+      "projected": 3.8017994437902094,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9173,7 +9173,7 @@
     },
     {
       "name": "Don't give a check your ascii can't cache",
-      "projected": 3.725062773146735,
+      "projected": 3.7250627731467345,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.6866787509252132,
+      "projected": 3.686678750925213,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "Svidl, Svidler, Svidlest",
-      "projected": 3.63054087851229,
+      "projected": 3.630540878512289,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.5705086490019275,
+      "projected": 3.578838911631321,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.452777006410651,
+      "projected": 3.4527770064106504,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
