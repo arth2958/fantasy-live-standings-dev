@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 5,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-20T13:46:39.439416Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-20T14:19:40.796669Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -5373,7 +5373,7 @@
       "projected_points": 17.683769906904878,
       "projected_round": 3.1837699069048795,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -5490,8 +5490,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/OroWmKAf",
+          "game_link_kind": "live",
           "round_game": "5:davidt2465:timefork",
           "season_points": 2.5,
           "season_games": 4
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 4.551283393162493,
+      "projected": 4.5512833931624925,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120676,
+      "projected": 4.488487266120677,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.426720624880302,
+      "projected": 4.426720624880301,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8913,14 +8913,6 @@
       "actual": 0.5,
       "paired": 8,
       "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Mating for Godot",
-      "projected": 4.33632903690982,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
       "eligible": false
     },
     {
@@ -8973,7 +8965,7 @@
     },
     {
       "name": "50 Shades of Swindles and Tricks",
-      "projected": 4.237456271095374,
+      "projected": 4.237456271095373,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8973,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.218384513514625,
+      "projected": 4.218384513514626,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8998,6 +8990,14 @@
     {
       "name": "50 first mates",
       "projected": 4.183822304867697,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "Mating for Godot",
+      "projected": 4.1690230083328546,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 4.000637114605089,
+      "projected": 4.00063711460509,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 3.8884560770090886,
+      "projected": 3.8884560770090895,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9126,6 +9126,14 @@
     {
       "name": "Fifty Shades of Time Trouble",
       "projected": 3.8326812412565054,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
+      "name": "The Last Shall be the First",
+      "projected": 3.8309769916671454,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9165,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.762543728904626,
+      "projected": 3.7625437289046273,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9212,14 +9220,6 @@
       "eligible": false
     },
     {
-      "name": "The Last Shall be the First",
-      "projected": 3.6636709630901807,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "Pawn with the Sickness",
       "projected": 3.659288348146564,
       "actual": 0.5,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.511512733879324,
+      "projected": 3.5115127338793237,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
