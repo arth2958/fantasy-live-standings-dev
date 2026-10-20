@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-20T13:07:07.612720Z",
+  "updated_at": "2026-10-20T13:46:39.439416Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6174,8 +6174,8 @@
       "name": "i just picked the first names i saw",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 17.218112400682227,
-      "projected_round": 3.218112400682228,
+      "projected_points": 17.216726267028026,
+      "projected_round": 3.216726267028026,
       "left": 6,
       "in_progress": 0,
       "paired": 6,
@@ -6290,7 +6290,7 @@
           "status": "pending",
           "rating": 1382,
           "decided_without_play": false,
-          "expected_points": 0.596629173305774,
+          "expected_points": 0.5952430396515719,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8861,7 +8861,7 @@
     },
     {
       "name": "Knights of the Round Tablebase",
-      "projected": 4.5512833931624925,
+      "projected": 4.551283393162493,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120677,
+      "projected": 4.488487266120676,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.428106758534503,
+      "projected": 4.426720624880302,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8917,7 +8917,7 @@
     },
     {
       "name": "Mating for Godot",
-      "projected": 4.336329036909819,
+      "projected": 4.33632903690982,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.218384513514626,
+      "projected": 4.218384513514625,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9061,7 +9061,7 @@
     },
     {
       "name": "J’adoube-Al-Blunder",
-      "projected": 4.00063711460509,
+      "projected": 4.000637114605089,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9101,7 +9101,7 @@
     },
     {
       "name": "Illiterate Alliteration Explorers",
-      "projected": 3.8884560770090895,
+      "projected": 3.8884560770090886,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9157,7 +9157,7 @@
     },
     {
       "name": "Total Tomination",
-      "projected": 3.7625437289046264,
+      "projected": 3.762543728904626,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9213,7 +9213,7 @@
     },
     {
       "name": "The Last Shall be the First",
-      "projected": 3.6636709630901803,
+      "projected": 3.6636709630901807,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.5718932414654967,
+      "projected": 3.5732793751196987,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.5115127338793237,
+      "projected": 3.511512733879324,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
