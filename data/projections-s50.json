@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-20T08:56:31.216829Z",
+  "updated_at": "2026-10-20T09:34:55.877700Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -6174,8 +6174,8 @@
       "name": "i just picked the first names i saw",
       "actual_points": 14.0,
       "actual_round": 0.0,
-      "projected_points": 17.208378250755555,
-      "projected_round": 3.208378250755554,
+      "projected_points": 17.213949457960787,
+      "projected_round": 3.2139494579607857,
       "left": 6,
       "in_progress": 0,
       "paired": 6,
@@ -6290,7 +6290,7 @@
           "status": "pending",
           "rating": 1382,
           "decided_without_play": false,
-          "expected_points": 0.5868950233791,
+          "expected_points": 0.5924662305843318,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -8869,7 +8869,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120676,
+      "projected": 4.488487266120677,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8885,7 +8885,7 @@
     },
     {
       "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.418372608607829,
+      "projected": 4.42394381581306,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8981,7 +8981,7 @@
     },
     {
       "name": "If anyone can refute it—don't show me",
-      "projected": 4.22239755995074,
+      "projected": 4.218384513514625,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9149,7 +9149,7 @@
     },
     {
       "name": "Wandering Knights",
-      "projected": 3.77760244004926,
+      "projected": 3.781615486485375,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9165,7 +9165,7 @@
     },
     {
       "name": "Rookies Of The Year",
-      "projected": 3.751520387532827,
+      "projected": 3.7515203875328265,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9237,7 +9237,7 @@
     },
     {
       "name": "The kannjuring",
-      "projected": 3.598365533725102,
+      "projected": 3.5983655337251017,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9245,7 +9245,7 @@
     },
     {
       "name": "King's Landing",
-      "projected": 3.581627391392171,
+      "projected": 3.5760561841869394,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.511512733879324,
+      "projected": 3.5115127338793237,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.4527770064106504,
+      "projected": 3.452777006410651,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
