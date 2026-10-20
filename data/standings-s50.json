@@ -1,13 +1,13 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-20T14:19:36.810905Z",
+  "updated_at": "2026-10-20T14:56:34.231784Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
   },
   "method": "Everyone starts at 0 until round 1 pairings are published. Points from live pairings; ties: points per game, then lowest total team price.",
-  "pairings_parsed": 871,
+  "pairings_parsed": 872,
   "popular": [
     {
       "board": 1,
@@ -5587,7 +5587,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "Shogistyle",
+                  "opponent": "SP1389",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
@@ -21372,7 +21372,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "Shogistyle",
+                  "opponent": "SP1389",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
@@ -27137,11 +27137,11 @@
       "name": "Fantasy8",
       "total": 15971,
       "points": 14.5,
-      "games": 32,
-      "round_games": 0,
+      "games": 33,
+      "round_games": 1,
       "round_scheduled": 7,
-      "games_left": 7,
-      "ppg": 0.453125,
+      "games_left": 6,
+      "ppg": 0.4393939393939394,
       "roster": [
         {
           "handle": "chatakkuma",
@@ -27181,7 +27181,7 @@
         {
           "handle": "TimeFork",
           "points": 2.5,
-          "games": 4
+          "games": 5
         }
       ],
       "rank": 44,
@@ -27641,7 +27641,7 @@
         {
           "round": 5,
           "points": 0.0,
-          "finished": 0,
+          "finished": 1,
           "paired": 7,
           "players": [
             {
@@ -27733,9 +27733,9 @@
               "games": [
                 {
                   "opponent": "DavidT2465",
-                  "actual_result": null,
+                  "actual_result": 0.0,
                   "game_url": "https://lichess.org/OroWmKAf",
-                  "status": "pending",
+                  "status": "lost",
                   "no_play": false
                 }
               ]
@@ -44323,7 +44323,7 @@
   ],
   "round": {
     "number": 5,
-    "played": 7,
+    "played": 8,
     "total": 216
   }
 }
