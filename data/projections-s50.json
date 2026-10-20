@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 1,
-  "updated_at": "2026-10-20T01:54:55.365096Z",
+  "updated_at": "2026-10-20T02:31:38.697873Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -8877,7 +8877,7 @@
     },
     {
       "name": "Peaky Decliners: An Authoritative Commentary by Svidler, King et al. (50th edition)",
-      "projected": 4.488487266120677,
+      "projected": 4.488487266120676,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -8941,7 +8941,7 @@
     },
     {
       "name": "There Will Be Blunders",
-      "projected": 4.290802163557882,
+      "projected": 4.290802163557883,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9077,7 +9077,7 @@
     },
     {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 3.9769494783945674,
+      "projected": 3.976949478394567,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9197,7 +9197,7 @@
     },
     {
       "name": "The Woodpushers",
-      "projected": 3.686678750925213,
+      "projected": 3.6866787509252132,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9253,7 +9253,7 @@
     },
     {
       "name": "my english needs work",
-      "projected": 3.5115127338793237,
+      "projected": 3.511512733879324,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9261,7 +9261,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.4527770064106513,
+      "projected": 3.4527770064106504,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
