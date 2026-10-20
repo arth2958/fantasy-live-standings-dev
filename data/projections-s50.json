@@ -2,7 +2,7 @@
   "season": 50,
   "round": 5,
   "round_in_progress": 0,
-  "updated_at": "2026-10-20T06:16:08.292575Z",
+  "updated_at": "2026-10-20T07:07:56.784671Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -9189,7 +9189,7 @@
     },
     {
       "name": "50-50 my next move is a blunder",
-      "projected": 3.7113137416524884,
+      "projected": 3.7113137416524893,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9269,7 +9269,7 @@
     },
     {
       "name": "The Tarrasch Talkers",
-      "projected": 3.452777006410651,
+      "projected": 3.4527770064106504,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
