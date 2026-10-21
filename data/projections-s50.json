@@ -1,8 +1,8 @@
 {
   "season": 50,
   "round": 5,
-  "round_in_progress": 0,
-  "updated_at": "2026-10-20T22:24:19.121168Z",
+  "round_in_progress": 1,
+  "updated_at": "2026-10-21T00:51:32.633052Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -817,7 +817,7 @@
       "projected_points": 23.04917019662821,
       "projected_round": 3.549170196628211,
       "left": 7,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 7,
       "roster": [
         {
@@ -919,8 +919,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/M9L8vWKZ",
+          "game_link_kind": "live",
           "round_game": "5:matthewkcanada:voylento",
           "season_points": 1.0,
           "season_games": 4
@@ -5504,8 +5504,8 @@
       "name": "i just picked the first names i saw",
       "actual_points": 15.0,
       "actual_round": 1.0,
-      "projected_points": 17.56813834346069,
-      "projected_round": 3.5681383434606904,
+      "projected_points": 17.572287416044926,
+      "projected_round": 3.572287416044927,
       "left": 5,
       "in_progress": 0,
       "paired": 6,
@@ -5620,7 +5620,7 @@
           "status": "pending",
           "rating": 1382,
           "decided_without_play": false,
-          "expected_points": 0.596629173305774,
+          "expected_points": 0.600778245890011,
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
@@ -7115,7 +7115,7 @@
       "projected_points": 16.64184557259247,
       "projected_round": 2.641845572592468,
       "left": 6,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 6,
       "roster": [
         {
@@ -7217,8 +7217,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/M9L8vWKZ",
+          "game_link_kind": "live",
           "round_game": "5:matthewkcanada:voylento",
           "season_points": 1.0,
           "season_games": 4
@@ -8053,7 +8053,7 @@
       "projected_points": 14.915727126643407,
       "projected_round": 2.4157271266434077,
       "left": 4,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 5,
       "roster": [
         {
@@ -8140,8 +8140,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/M9L8vWKZ",
+          "game_link_kind": "live",
           "round_game": "5:matthewkcanada:voylento",
           "season_points": 1.0,
           "season_games": 3
@@ -8455,7 +8455,7 @@
       "projected_points": 13.107303678339907,
       "projected_round": 3.6073036783399077,
       "left": 8,
-      "in_progress": 0,
+      "in_progress": 1,
       "paired": 8,
       "roster": [
         {
@@ -8557,8 +8557,8 @@
           "actual_result": null,
           "round_points": 0.0,
           "round_games": 0,
-          "game_url": null,
-          "game_link_kind": null,
+          "game_url": "https://lichess.org/M9L8vWKZ",
+          "game_link_kind": "live",
           "round_game": "5:matthewkcanada:voylento",
           "season_points": 1.0,
           "season_games": 4
@@ -8924,19 +8924,19 @@
       "eligible": false
     },
     {
+      "name": "Old but hoping for stratospheric improvement",
+      "projected": 4.440842139949062,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
+      "eligible": false
+    },
+    {
       "name": "pspspspspsps",
       "projected": 4.438321412089417,
       "actual": 1.0,
       "paired": 8,
       "left": 7,
-      "eligible": false
-    },
-    {
-      "name": "Old but hoping for stratospheric improvement",
-      "projected": 4.436693067364826,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
       "eligible": false
     },
     {
@@ -9109,7 +9109,7 @@
     },
     {
       "name": "Not all who blunder are lost",
-      "projected": 3.856848596198511,
+      "projected": 3.8568485961985104,
       "actual": 0.0,
       "paired": 8,
       "left": 8,
@@ -9196,19 +9196,19 @@
       "eligible": false
     },
     {
-      "name": "King's Landing",
-      "projected": 3.5633069326351747,
-      "actual": 0.0,
-      "paired": 8,
-      "left": 8,
-      "eligible": false
-    },
-    {
       "name": "The horsey don't belong here",
       "projected": 3.561678587910582,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
+      "eligible": false
+    },
+    {
+      "name": "King's Landing",
+      "projected": 3.5591578600509375,
+      "actual": 0.0,
+      "paired": 8,
+      "left": 8,
       "eligible": false
     },
     {
@@ -9221,7 +9221,7 @@
     },
     {
       "name": "50 first mates",
-      "projected": 3.550414604796529,
+      "projected": 3.5504146047965293,
       "actual": 0.0,
       "paired": 8,
       "left": 7,
