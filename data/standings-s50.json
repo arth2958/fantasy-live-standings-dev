@@ -1,7 +1,7 @@
 {
   "season": 50,
   "rounds": 8,
-  "updated_at": "2026-10-27T06:11:17.446511Z",
+  "updated_at": "2026-10-27T12:26:00.332347Z",
   "source": {
     "pairings": "https://www.lichess4545.com/team4545/season/50/pairings/",
     "entries": "https://docs.google.com/spreadsheets/d/1l4XTRMISXTYiFgV_vD68v3svJnI-Yroo0_q8MaSGYL4/gviz/tq?tqx=out:csv&sheet=S50Entries"
@@ -21184,7 +21184,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "luwasserman",
+                  "opponent": "ascoliloko",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
@@ -27833,8 +27833,8 @@
       "points": 19.0,
       "games": 39,
       "round_games": 0,
-      "round_scheduled": 8,
-      "games_left": 8,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.48717948717948717,
       "roster": [
         {
@@ -28441,7 +28441,7 @@
           "round": 6,
           "points": 0.0,
           "finished": 0,
-          "paired": 8,
+          "paired": 7,
           "players": [
             {
               "handle": "alp_arslan92",
@@ -28523,16 +28523,8 @@
             },
             {
               "handle": "baberle",
-              "points": 0.0,
-              "games": [
-                {
-                  "opponent": "SedNomini",
-                  "actual_result": null,
-                  "game_url": null,
-                  "status": "pending",
-                  "no_play": false
-                }
-              ]
+              "points": 0,
+              "games": []
             },
             {
               "handle": "mongreltiger",
@@ -30590,7 +30582,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "luwasserman",
+                  "opponent": "ascoliloko",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
@@ -33486,7 +33478,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "luwasserman",
+                  "opponent": "ascoliloko",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
@@ -37174,8 +37166,8 @@
       "points": 17.0,
       "games": 37,
       "round_games": 0,
-      "round_scheduled": 8,
-      "games_left": 8,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.4594594594594595,
       "roster": [
         {
@@ -37766,7 +37758,7 @@
           "round": 6,
           "points": 0.0,
           "finished": 0,
-          "paired": 8,
+          "paired": 7,
           "players": [
             {
               "handle": "rio2018",
@@ -37848,16 +37840,8 @@
             },
             {
               "handle": "baberle",
-              "points": 0.0,
-              "games": [
-                {
-                  "opponent": "SedNomini",
-                  "actual_result": null,
-                  "game_url": null,
-                  "status": "pending",
-                  "no_play": false
-                }
-              ]
+              "points": 0,
+              "games": []
             },
             {
               "handle": "mongreltiger",
@@ -46539,8 +46523,8 @@
       "points": 14.5,
       "games": 38,
       "round_games": 0,
-      "round_scheduled": 8,
-      "games_left": 8,
+      "round_scheduled": 7,
+      "games_left": 7,
       "ppg": 0.3815789473684211,
       "roster": [
         {
@@ -47139,7 +47123,7 @@
           "round": 6,
           "points": 0.0,
           "finished": 0,
-          "paired": 8,
+          "paired": 7,
           "players": [
             {
               "handle": "guitarspider",
@@ -47221,16 +47205,8 @@
             },
             {
               "handle": "baberle",
-              "points": 0.0,
-              "games": [
-                {
-                  "opponent": "SedNomini",
-                  "actual_result": null,
-                  "game_url": null,
-                  "status": "pending",
-                  "no_play": false
-                }
-              ]
+              "points": 0,
+              "games": []
             },
             {
               "handle": "R0B-W",
@@ -48615,7 +48591,7 @@
               "points": 0.0,
               "games": [
                 {
-                  "opponent": "baberle",
+                  "opponent": "KlausZA",
                   "actual_result": null,
                   "game_url": null,
                   "status": "pending",
