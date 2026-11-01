@@ -2,7 +2,7 @@
   "season": 50,
   "round": 6,
   "round_in_progress": 0,
-  "updated_at": "2026-11-01T01:00:10.681545Z",
+  "updated_at": "2026-11-01T07:24:58.641940Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1091,7 +1091,7 @@
         {
           "handle": "Mennonite",
           "status": "draw",
-          "rating": 2152,
+          "rating": 2155,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -3637,7 +3637,7 @@
         {
           "handle": "Mennonite",
           "status": "draw",
-          "rating": 2152,
+          "rating": 2155,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -4575,7 +4575,7 @@
         {
           "handle": "Mennonite",
           "status": "draw",
-          "rating": 2152,
+          "rating": 2155,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -7389,7 +7389,7 @@
         {
           "handle": "Mennonite",
           "status": "draw",
-          "rating": 2152,
+          "rating": 2155,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8949,10 +8949,18 @@
     },
     {
       "name": "Morphy's Mates",
-      "projected": 4.668370545046197,
+      "projected": 4.689231311970325,
       "actual": 3.0,
       "paired": 8,
       "left": 3,
+      "eligible": false
+    },
+    {
+      "name": "Pawn with the Sickness",
+      "projected": 4.60766106412682,
+      "actual": 4.0,
+      "paired": 8,
+      "left": 1,
       "eligible": false
     },
     {
@@ -9009,14 +9017,6 @@
       "actual": 3.5,
       "paired": 8,
       "left": 2,
-      "eligible": false
-    },
-    {
-      "name": "oh those 64 squares can encompass such immensity",
-      "projected": 4.39233893587318,
-      "actual": 4.0,
-      "paired": 8,
-      "left": 1,
       "eligible": false
     },
     {
@@ -9116,14 +9116,6 @@
       "eligible": false
     },
     {
-      "name": "Pawn with the Sickness",
-      "projected": 3.6076610641268196,
-      "actual": 3.0,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "What a team! And we managed to avoid Prosti",
       "projected": 3.5821678101810726,
       "actual": 2.5,
@@ -9180,8 +9172,16 @@
       "eligible": false
     },
     {
+      "name": "oh those 64 squares can encompass such immensity",
+      "projected": 3.3923389358731804,
+      "actual": 3.0,
+      "paired": 8,
+      "left": 1,
+      "eligible": false
+    },
+    {
       "name": "Yeah, well, that's just like, your opening, man.",
-      "projected": 3.331629454953803,
+      "projected": 3.310768688029676,
       "actual": 2.0,
       "paired": 8,
       "left": 3,
