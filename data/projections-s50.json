@@ -2,7 +2,7 @@
   "season": 50,
   "round": 8,
   "round_in_progress": 0,
-  "updated_at": "2026-11-16T06:12:28.830007Z",
+  "updated_at": "2026-11-16T16:04:45.116051Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -302,7 +302,7 @@
         {
           "handle": "EndgameAmateur42",
           "status": "lost",
-          "rating": 2100,
+          "rating": 2108,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -1404,7 +1404,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1672,7 +1672,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1940,7 +1940,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2476,7 +2476,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4218,7 +4218,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -6556,7 +6556,7 @@
         {
           "handle": "TimeFork",
           "status": "won",
-          "rating": 1442,
+          "rating": 1452,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -6764,7 +6764,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8506,7 +8506,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1954,
+          "rating": 1945,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8744,7 +8744,7 @@
         {
           "handle": "EndgameAmateur42",
           "status": "lost",
-          "rating": 2100,
+          "rating": 2108,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8852,6 +8852,14 @@
   ],
   "league_teams": [
     {
+      "name": "Knights of the Round Tablebase",
+      "projected": 6.5,
+      "actual": 6.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
       "name": "Riding with the King",
       "projected": 6.5,
       "actual": 6.5,
@@ -8865,14 +8873,6 @@
       "actual": 6.5,
       "paired": 8,
       "left": 0,
-      "eligible": false
-    },
-    {
-      "name": "Knights of the Round Tablebase",
-      "projected": 6.1172250309049465,
-      "actual": 5.5,
-      "paired": 8,
-      "left": 1,
       "eligible": false
     },
     {
@@ -9260,14 +9260,6 @@
       "eligible": false
     },
     {
-      "name": "The kannjuring",
-      "projected": 1.8827749690950537,
-      "actual": 1.5,
-      "paired": 8,
-      "left": 1,
-      "eligible": false
-    },
-    {
       "name": "my english needs work",
       "projected": 1.5,
       "actual": 1.5,
@@ -9277,6 +9269,14 @@
     },
     {
       "name": "pspspspspsps",
+      "projected": 1.5,
+      "actual": 1.5,
+      "paired": 8,
+      "left": 0,
+      "eligible": false
+    },
+    {
+      "name": "The kannjuring",
       "projected": 1.5,
       "actual": 1.5,
       "paired": 8,
