@@ -2,7 +2,7 @@
   "season": 50,
   "round": 8,
   "round_in_progress": 0,
-  "updated_at": "2026-11-17T23:56:46.461046Z",
+  "updated_at": "2026-11-18T07:12:35.589606Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -1404,7 +1404,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1672,7 +1672,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1940,7 +1940,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2476,7 +2476,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4218,7 +4218,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4858,7 +4858,7 @@
         {
           "handle": "GoneNowhere",
           "status": "draw",
-          "rating": 2162,
+          "rating": 2170,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -6764,7 +6764,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -7538,7 +7538,7 @@
         {
           "handle": "GoneNowhere",
           "status": "draw",
-          "rating": 2162,
+          "rating": 2170,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8074,7 +8074,7 @@
         {
           "handle": "GoneNowhere",
           "status": "draw",
-          "rating": 2162,
+          "rating": 2170,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -8506,7 +8506,7 @@
         {
           "handle": "ecoarrivazumashoomzo",
           "status": "won",
-          "rating": 1945,
+          "rating": 1951,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
