@@ -2,7 +2,7 @@
   "season": 50,
   "round": 8,
   "round_in_progress": 0,
-  "updated_at": "2026-11-20T02:33:26.575407Z",
+  "updated_at": "2026-11-20T10:24:48.075178Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -4605,7 +4605,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2065,
+          "rating": 2063,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5007,7 +5007,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2065,
+          "rating": 2063,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6481,7 +6481,7 @@
         {
           "handle": "AlexGaul",
           "status": "lost",
-          "rating": 2065,
+          "rating": 2063,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
