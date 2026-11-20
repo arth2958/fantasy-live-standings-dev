@@ -2,7 +2,7 @@
   "season": 50,
   "round": 8,
   "round_in_progress": 0,
-  "updated_at": "2026-11-20T10:24:48.075178Z",
+  "updated_at": "2026-11-20T18:46:54.398975Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -302,7 +302,7 @@
         {
           "handle": "EndgameAmateur42",
           "status": "lost",
-          "rating": 2118,
+          "rating": 2111,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -1106,7 +1106,7 @@
         {
           "handle": "AACtrl",
           "status": "draw",
-          "rating": 2079,
+          "rating": 2094,
           "decided_without_play": false,
           "expected_points": 0.5,
           "actual_result": 0.5,
@@ -1240,7 +1240,7 @@
         {
           "handle": "GlennJamesMax",
           "status": "won",
-          "rating": 2102,
+          "rating": 2109,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1895,7 +1895,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2135,
+          "rating": 2128,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -1925,7 +1925,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -2059,7 +2059,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3116,7 +3116,7 @@
         {
           "handle": "GlennJamesMax",
           "status": "won",
-          "rating": 2102,
+          "rating": 2109,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -3369,7 +3369,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2135,
+          "rating": 2128,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3399,7 +3399,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3533,7 +3533,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3578,7 +3578,7 @@
         {
           "handle": "pykkis",
           "status": "lost",
-          "rating": 1757,
+          "rating": 1752,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -4918,7 +4918,7 @@
         {
           "handle": "pykkis",
           "status": "lost",
-          "rating": 1757,
+          "rating": 1752,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -5647,7 +5647,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2135,
+          "rating": 2128,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6883,7 +6883,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -7523,7 +7523,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2135,
+          "rating": 2128,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8357,7 +8357,7 @@
         {
           "handle": "berndwind",
           "status": "lost",
-          "rating": 2021,
+          "rating": 2030,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8432,7 +8432,7 @@
         {
           "handle": "R0B-W",
           "status": "lost",
-          "rating": 1512,
+          "rating": 1522,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8566,7 +8566,7 @@
         {
           "handle": "R0B-W",
           "status": "lost",
-          "rating": 1512,
+          "rating": 1522,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -8744,7 +8744,7 @@
         {
           "handle": "EndgameAmateur42",
           "status": "lost",
-          "rating": 2118,
+          "rating": 2111,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
