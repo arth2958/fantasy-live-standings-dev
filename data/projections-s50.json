@@ -2,7 +2,7 @@
   "season": 50,
   "round": 8,
   "round_in_progress": 0,
-  "updated_at": "2026-11-25T20:42:42.336024Z",
+  "updated_at": "2026-11-26T03:13:58.491371Z",
   "method": "Expected game points from live Lichess Classical ratings (Elo, +25 for White); completed games use actual results.",
   "fantasy_teams": [
     {
@@ -392,7 +392,7 @@
         {
           "handle": "nightsub",
           "status": "won",
-          "rating": 1561,
+          "rating": 1552,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -853,7 +853,7 @@
         {
           "handle": "qrs",
           "status": "lost",
-          "rating": 2044,
+          "rating": 2050,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -1032,7 +1032,7 @@
         {
           "handle": "UpGoerFive",
           "status": "won",
-          "rating": 1811,
+          "rating": 1806,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1181,7 +1181,7 @@
         {
           "handle": "Gingersquirrelnuts",
           "status": "won",
-          "rating": 1749,
+          "rating": 1745,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1196,7 +1196,7 @@
         {
           "handle": "jcarmody",
           "status": "draw",
-          "rating": 1623,
+          "rating": 1633,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1717,7 +1717,7 @@
         {
           "handle": "jd0972",
           "status": "won",
-          "rating": 1713,
+          "rating": 1722,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -1895,7 +1895,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2132,
+          "rating": 2130,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -2000,7 +2000,7 @@
         {
           "handle": "jcarmody",
           "status": "draw",
-          "rating": 1623,
+          "rating": 1633,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2372,7 +2372,7 @@
         {
           "handle": "UpGoerFive",
           "status": "won",
-          "rating": 1811,
+          "rating": 1806,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -2982,7 +2982,7 @@
         {
           "handle": "Inter-temporal",
           "status": "won",
-          "rating": 2041,
+          "rating": 2040,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -3369,7 +3369,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2132,
+          "rating": 2130,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -3459,7 +3459,7 @@
         {
           "handle": "Gingersquirrelnuts",
           "status": "won",
-          "rating": 1749,
+          "rating": 1745,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4054,7 +4054,7 @@
         {
           "handle": "Inter-temporal",
           "status": "won",
-          "rating": 2041,
+          "rating": 2040,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4412,7 +4412,7 @@
         {
           "handle": "nightsub",
           "status": "won",
-          "rating": 1561,
+          "rating": 1552,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -4992,7 +4992,7 @@
         {
           "handle": "Inter-temporal",
           "status": "won",
-          "rating": 2041,
+          "rating": 2040,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -5394,7 +5394,7 @@
         {
           "handle": "Inter-temporal",
           "status": "won",
-          "rating": 2041,
+          "rating": 2040,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -5647,7 +5647,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2132,
+          "rating": 2130,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -6020,7 +6020,7 @@
         {
           "handle": "jcarmody",
           "status": "draw",
-          "rating": 1623,
+          "rating": 1633,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -7523,7 +7523,7 @@
         {
           "handle": "Mennonite",
           "status": "lost",
-          "rating": 2132,
+          "rating": 2130,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
@@ -7628,7 +7628,7 @@
         {
           "handle": "jcarmody",
           "status": "draw",
-          "rating": 1623,
+          "rating": 1633,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -7896,7 +7896,7 @@
         {
           "handle": "jcarmody",
           "status": "draw",
-          "rating": 1623,
+          "rating": 1633,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8208,7 +8208,7 @@
         {
           "handle": "Inter-temporal",
           "status": "won",
-          "rating": 2041,
+          "rating": 2040,
           "decided_without_play": false,
           "expected_points": 1.0,
           "actual_result": 1.0,
@@ -8372,7 +8372,7 @@
         {
           "handle": "BLang316",
           "status": "lost",
-          "rating": 1885,
+          "rating": 1901,
           "decided_without_play": false,
           "expected_points": 0.0,
           "actual_result": 0.0,
